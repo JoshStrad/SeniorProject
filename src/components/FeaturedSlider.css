@@ -1,0 +1,39 @@
+.slider-container {
+    max-width: 1200px; /* Maximum width of the slider container */
+    margin: 0 auto; /* Center the slider horizontally */
+    height: 400px;
+    overflow: hidden; /* Hide overflow to prevent extra space */
+  }
+  
+  .slider {
+    position: relative; /* Positioning context for the slides */
+  }
+  
+  .slide {
+    background-color: #f0f0f0; /* Background color of the slides */
+    border-radius: 5px; /* Rounded corners for the slides */
+    padding: 20px; /* Padding inside each slide */
+    margin-right: 10px; /* Margin between slides */
+  }
+  
+  .slide h3 {
+    font-size: 18px; /* Font size for slide titles */
+    margin-bottom: 10px; /* Bottom margin for slide titles */
+  }
+  
+  .slide img {
+    max-width: 100%; /* Ensure images fit within the slide container */
+    height: auto; /* Maintain aspect ratio of images */
+    max-height: 400px;
+    object-fit: cover;
+  }
+  
+  .slide p {
+    font-size: 14px; /* Font size for slide content */
+    color: #666; /* Text color for slide content */
+  }
+
+  /* Ensure each slide is properly spaced */
+.slick-slide {
+    padding: 0 10px;
+  }

@@ -1,0 +1,87 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .nav-menu {
+    display: flex;
+    list-style-type: none;
+  }
+  
+  .nav-menu li {
+    margin-right: 20px;
+  }
+
+  /* Styles for the sports dropdown */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-btn {
+  color: #fff; /* Dropdown button text color */
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff; /* Dropdown background color */
+  min-width: 100px;
+  z-index: 1;
+  border: 1px solid #ccc; /* Dropdown border */
+}
+
+.dropdown-content a {
+  color: #333; /* Dropdown item text color */
+  padding: 10px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: #f1f1f1; /* Hover background color for dropdown items */
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+  
+  .search-bar {
+    display: flex;
+    align-items: center;
+  }
+  
+  .search-bar input {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .search-bar button {
+    padding: 8px 15px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .search-bar button:hover {
+    background-color: #555;
+  }

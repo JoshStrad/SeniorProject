@@ -1,0 +1,70 @@
+
+/* Reset default styles */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #000; /* Blue background color */
+  color: #fff; /* White text color */
+}
+
+/* Hero section styles */
+.hero-section {
+  text-align: center;
+  padding: 100px 0;
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero-section p {
+  font-size: 1.5rem;
+}
+
+/* Featured section styles */
+.featured-section {
+  background-color: #111111; /* Light gray background color */
+  padding: 50px 0;
+  height: 400;
+  overflow: hidden; /* Hide overflow to prevent extra space */
+}
+
+/* Navigation styles */
+.navbar {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+  width: 100%; /* Set width to 100% to extend across the screen */
+}
+
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.nav-menu li {
+  margin: 0 15px;
+}
+
+.nav-menu a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-menu a:hover {
+  color: #ffd700; /* Yellow hover color */
+}
+
+/* Footer styles */
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
