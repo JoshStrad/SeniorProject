@@ -26,6 +26,7 @@
     height: auto; /* Maintain aspect ratio of images */
     max-height: 400px;
     object-fit: cover;
+    border-radius: 5px;
   }
   
   .slide p {

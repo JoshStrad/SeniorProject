@@ -19,6 +19,7 @@ const HomePage = () => {
         <p>Your source for your favorite player stats across NBA, MLB, and NFL</p>
       </div>
       <div className="featured-section">
+        <h2>Featured Players' Stats</h2>
         <FeaturedSlider /> {/* Featured content */}
       </div>
       <Footer /> {/* Other sections and content */}
