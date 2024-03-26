@@ -15,8 +15,9 @@ const HomePage = () => {
       <Header /> {/* Render the Header component */}
       <div className="hero-section">
         <HeroSection />
-        <h1>Welcome to GameWinningStats</h1>
-        <p>Your source for your favorite player stats across NBA, MLB, and NFL</p>
+        <h1>Discover Player Stats</h1>
+        <p>Explore detailed statistics of your favorite players and teams.</p>
+        <button className="cta-button">Explore Stats</button>
       </div>
       <div className="featured-section">
         <h2>Featured Players' Stats</h2>

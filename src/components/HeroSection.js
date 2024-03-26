@@ -4,9 +4,8 @@ const HeroSection = () => {
   return (
     <section className="hero-section">
       <div className="container">
-        <h1>Discover Player Stats</h1>
-        <p>Explore detailed statistics of your favorite players and teams.</p>
-        <button className="cta-button">Explore Stats</button>
+        <h1>Welcome to GameWinningStats</h1>
+        <p>Your source for player stats across NBA, MLB, and NFL</p>
       </div>
     </section>
   );
