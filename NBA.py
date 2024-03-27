@@ -166,9 +166,9 @@ for row in gsw_per_game.find_all('tr')[1:]:  # Excluding the first 'tr', since t
     position = re.search('Position:\n  </strong>\n (.*)\n\n', s)
     height = re.search('\"height\">(.*)</span>,\xa0<span itemprop="weight', s)
    
-    okc_stats.append(player)
+    gsw_stats.append(player)
 
-pd.DataFrame(okc_stats)
+pd.DataFrame(gsw_stats)
 
 
 
@@ -176,14 +176,14 @@ pd.DataFrame(okc_stats)
 phx_url = (f'https://www.basketball-reference.com/teams/PHX/2023.html')
 
 # The requests library can send a GET request to the okc_url
-phx_res = requests.get(okc_url)
+phx_res = requests.get(phx_url)
 
 # BeautifulSoup library parses the content of an HTML document, in this case  okc_res
-phx_soup = BeautifulSoup(okc_res.content, 'lxml')
+phx_soup = BeautifulSoup(phx_res.content, 'lxml')
 
 # BeautifulSoup's .find() method searches for a tag and specified attributes, 
 # returning the first match 
-phx_per_game = okc_soup.find(name = 'table', attrs = {'id' : 'per_game'})
+phx_per_game = phx_soup.find(name = 'table', attrs = {'id' : 'per_game'})
 
 # Creating a list of dictionaries to then convert into a Pandas Dataframe
 phx_stats = []
@@ -225,7 +225,7 @@ for row in phx_per_game.find_all('tr')[1:]:  # Excluding the first 'tr', since t
    
     phx_stats.append(player)
 
-pd.DataFrame(okc_stats)
+pd.DataFrame(phx_stats)
 
 
 
@@ -244,7 +244,7 @@ lac_soup = BeautifulSoup(lac_res.content, 'lxml')
 
 # BeautifulSoup's .find() method searches for a tag and specified attributes, 
 # returning the first match 
-lac_per_game = okc_soup.find(name = 'table', attrs = {'id' : 'per_game'})
+lac_per_game = lac_soup.find(name = 'table', attrs = {'id' : 'per_game'})
 
 # Creating a list of dictionaries to then convert into a Pandas Dataframe
 lac_stats = []
@@ -286,7 +286,7 @@ for row in lac_per_game.find_all('tr')[1:]:  # Excluding the first 'tr', since t
    
     lac_stats.append(player)
 
-pd.DataFrame(okc_stats)
+pd.DataFrame(lac_stats)
 
 
 
@@ -1651,7 +1651,7 @@ cha_url = (f'https://www.basketball-reference.com/teams/CHO/2023.html')
 cha_res = requests.get(cha_url)
 
 # BeautifulSoup library parses the content of an HTML document, in this case  okc_res
-cha_soup = BeautifulSoup(okc_res.content, 'lxml')
+cha_soup = BeautifulSoup(cha_res.content, 'lxml')
 
 # BeautifulSoup's .find() method searches for a tag and specified attributes, 
 # returning the first match 
