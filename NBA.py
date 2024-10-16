@@ -3,6 +3,9 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
+# By Josh S
+# Dataframe of all players from all teams during the 2022-23 season
+
 okc_url = (f'https://www.basketball-reference.com/teams/OKC/2023.html')
 
 # The requests library can send a GET request to the okc_url

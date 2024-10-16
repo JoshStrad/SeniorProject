@@ -2,6 +2,9 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
+# By Josh S
+# Datatframe of QB stats from 2021
+
 qb_url = 'https://www.pro-football-reference.com/years/2021/passing.htm'
 
 # Send a GET request to the qb_url
