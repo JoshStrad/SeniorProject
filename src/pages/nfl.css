@@ -1,0 +1,66 @@
+.nfl-container {
+    padding: 20px;
+    background-color: #0c0c0c;
+    color: #f5f2f2;
+}
+  
+h1 {
+    text-align: center;
+    color: #d21404; /* NFL-themed red */
+}
+  
+.conference {
+    margin-bottom: 30px;
+}
+  
+.conference h2 {
+    font-size: 1.8em;
+    color: #d21404;
+    margin-bottom: 10px;
+}
+  
+.division h3 {
+    font-size: 1.5em;
+    color: #0431b4;
+    margin-top: 20px;
+}
+  
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+  
+li {
+    font-size: 1.1em;
+    padding: 5px 0;
+    display: inline-block; /* Prevents list items from stretching across the page */
+    margin-right: 15px; /* Adds spacing between items */
+}
+
+a {
+    text-decoration: none;
+    color: #d21404; /* NFL red */
+}
+
+a:hover {
+    color: #a50e03;
+    text-decoration: underline;
+}
+
+/* Ensure logo and text are properly aligned */
+.team-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 5px;
+    border-bottom: 1px solid transparent; /* Default no underline */
+}
+
+.team-link:hover {
+    border-bottom: 1px solid #d21404; /* Underline only appears under text */
+}
+
+.team-logo {
+    width: 20px;
+    height: auto;
+    margin-right: 10px;
+}

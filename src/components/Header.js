@@ -1,17 +1,29 @@
-import React from 'react';
-import { Link } from 'gatsby';
+import React, { useState } from 'react';
+import { Link, navigate } from 'gatsby';
 
 const Header = () => {
+  const [searchQuery, setSearchQuery] = useState('');
+
+  const handleSearch = (e) => {
+    e.preventDefault(); // Prevent form submission from refreshing the page
+    if (searchQuery.trim()) {
+      const formattedQuery = searchQuery.trim().toLowerCase().replace(/\s+/g, '-');
+      navigate(`/nba/celtics/${formattedQuery}`); // Redirect to the player's page
+    } else {
+      alert('Please enter a valid player name!');
+    }
+  };
+
   return (
     <header className="navbar">
       <div className="container">
         <nav>
           <ul className="nav-menu">
             <li><Link to="/">Home</Link></li>
-            <li><Link to="/players">Players</Link></li>
-            <li><Link to="/teams">Teams</Link></li>
+            <li><Link to="/nba">NBA</Link></li>
+            <li><Link to="/nfl">NFL</Link></li>
+            <li><Link to="/mlb">MLB</Link></li>
             <li><Link to="/about">About</Link></li>
-            {/* Add sports options before the search bar */}
             <li className="dropdown">
               <span className="dropdown-btn">Sports</span>
               <div className="dropdown-content">
@@ -20,11 +32,17 @@ const Header = () => {
                 <Link to="/nfl">NFL</Link>
               </div>
             </li>
-            {/* Add the search bar */}
             <li>
               <div className="search-bar">
-                <input type="text" placeholder="Search players..." />
-                <button type="submit">Search</button>
+                <form onSubmit={handleSearch}>
+                  <input
+                    type="text"
+                    placeholder="Search players..."
+                    value={searchQuery}
+                    onChange={(e) => setSearchQuery(e.target.value)}
+                  />
+                  <button type="submit">Search</button>
+                </form>
               </div>
             </li>
           </ul>

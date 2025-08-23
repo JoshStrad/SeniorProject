@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'gatsby';
 import Header from '../components/Header'; // Import the Header component
 import Footer from '../components/Footer';
 import FeaturedSlider from '../components/FeaturedSlider';
@@ -17,13 +18,14 @@ const HomePage = () => {
         <HeroSection />
         <h1>Discover Player Stats</h1>
         <p>Explore detailed statistics of your favorite players and teams.</p>
-        <button className="cta-button">Explore Stats</button>
+        <Link to="/explore-stats">Explore Stats
+        </Link>
       </div>
       <div className="featured-section">
         <h2>Featured Players' Stats</h2>
         <FeaturedSlider /> {/* Featured content */}
       </div>
-      <Footer /> {/* Other sections and content */}
+      <Footer /> {/* Footer content */}
     </div>
   );
 };

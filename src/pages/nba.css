@@ -1,0 +1,66 @@
+.nba-container {
+  padding: 20px;
+  background-color: #0c0c0c;
+  color: #f5f2f2;
+}
+
+h1 {
+  text-align: center;
+  color: #2a3eb1; /* NBA-themed blue */
+}
+
+.conference {
+  margin-bottom: 30px;
+}
+
+.conference h2 {
+  font-size: 1.8em;
+  color: #2a3eb1;
+  margin-bottom: 10px;
+}
+
+.division h3 {
+  font-size: 1.5em;
+  color: #920404;
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  font-size: 1.1em;
+  padding: 5px 0;
+  display: inline-block; /* Prevents list items from stretching across the page */
+  margin-right: 15px; /* Adds spacing between items */
+}
+
+a {
+  text-decoration: none;
+  color: #2a3eb1; /* NBA blue */
+}
+
+a:hover {
+  color: #1a2a85;
+  text-decoration: underline;
+}
+
+/* Ensure logo and text are properly aligned */
+.team-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px;
+  border-bottom: 1px solid transparent; /* Default no underline */
+}
+
+.team-link:hover {
+  border-bottom: 1px solid #2a3eb1; /* Underline only appears under text */
+}
+
+.team-logo {
+  width: 20px;
+  height: auto;
+  margin-right: 10px;
+}
