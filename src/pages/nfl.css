@@ -1,66 +1,91 @@
+/* Page container + headings */
 .nfl-container {
-    padding: 20px;
-    background-color: #0c0c0c;
-    color: #f5f2f2;
+  padding: 24px;
+  background: #0c0c0c;
+  color: #f5f2f2;
+  max-width: 1200px;
+  margin: 0 auto;
 }
-  
-h1 {
-    text-align: center;
-    color: #d21404; /* NFL-themed red */
+
+.nfl-container h1 {
+  text-align: center;
+  color: #1f6feb;
+  margin-bottom: 18px;
 }
-  
-.conference {
-    margin-bottom: 30px;
-}
-  
+
+.conference { margin: 28px 0; }
 .conference h2 {
-    font-size: 1.8em;
-    color: #d21404;
-    margin-bottom: 10px;
+  font-size: 1.8rem;
+  color: #1f6feb;
+  margin: 0 0 10px;
 }
-  
+
+/* Division “card” wrapper */
+.division {
+  background: #141414;
+  border: 1px solid rgba(255,255,255,0.06);
+  border-radius: 14px;
+  padding: 16px;
+  margin-bottom: 18px;
+}
+
 .division h3 {
-    font-size: 1.5em;
-    color: #0431b4;
-    margin-top: 20px;
-}
-  
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-  
-li {
-    font-size: 1.1em;
-    padding: 5px 0;
-    display: inline-block; /* Prevents list items from stretching across the page */
-    margin-right: 15px; /* Adds spacing between items */
+  font-size: 1.25rem;
+  color: #ff4d4d;
+  margin: 0 0 12px;
 }
 
-a {
-    text-decoration: none;
-    color: #d21404; /* NFL red */
+/* --- GRID: make teams neat in rows --- */
+/* Works without changing JS */
+.division ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;            /* space between team cards */
 }
 
-a:hover {
-    color: #a50e03;
-    text-decoration: underline;
-}
+/* Team card size + alignment */
+.team-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 
-/* Ensure logo and text are properly aligned */
-.team-link {
-    display: inline-flex;
-    align-items: center;
-    padding: 5px;
-    border-bottom: 1px solid transparent; /* Default no underline */
-}
+  background: #1a1a1a;
+  border-radius: 12px;
+  padding: 10px 12px;
+  min-height: 56px;
 
-.team-link:hover {
-    border-bottom: 1px solid #d21404; /* Underline only appears under text */
+  transition: transform .2s ease, box-shadow .2s ease;
 }
+.team-card:hover { transform: translateY(-3px); }
 
+/* Logo size (smaller + consistent) */
 .team-logo {
-    width: 20px;
-    height: auto;
-    margin-right: 10px;
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  flex: 0 0 36px;
+  filter: drop-shadow(0 0 4px rgba(255,255,255,0.15));
+}
+
+/* Link text */
+.team-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  color: #d9e2ff;
+  text-decoration: none;
+  font-size: 0.98rem;
+  line-height: 1.2;
+}
+.team-link:hover { color: #ffffff; }
+
+/* Tighter on mobile */
+@media (max-width: 520px) {
+  .division ul { grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); }
+  .team-logo { width: 32px; height: 32px; }
+  .team-link { font-size: 0.95rem; }
 }

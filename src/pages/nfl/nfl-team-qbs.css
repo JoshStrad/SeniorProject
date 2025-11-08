@@ -1,0 +1,61 @@
+.team-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 24px 16px 64px;
+  color: #e2e8f0;
+}
+
+.team-container h1 { margin: 0 0 6px; }
+.team-container p { margin: 0 0 18px; color: #94a3b8; }
+
+/* Simple, responsive grid of QB cards */
+.qb-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 14px;
+}
+
+.qb-card {
+  display: grid;
+  grid-template-columns: 84px 1fr;
+  align-items: center;
+  gap: 12px;
+  background: #0f172a;               /* match your site’s dark card look */
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 14px;
+  padding: 12px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform .12s ease, box-shadow .12s ease, border-color .12s ease;
+}
+
+.qb-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.35);
+  border-color: rgba(56,189,248,.5);
+}
+
+.qb-photo {
+  width: 84px;
+  height: 84px;
+  border-radius: 12px;
+  overflow: hidden;
+  background: rgba(255,255,255,0.06);
+  display: grid;
+  place-items: center;
+}
+.qb-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.qb-photo--ph {
+  width: 60%;
+  height: 60%;
+  border-radius: 8px;
+  background: rgba(255,255,255,0.12);
+}
+
+.qb-info { display: grid; gap: 4px; }
+.qb-name { font-weight: 700; }
+.qb-num { color: #94a3b8; font-size: 13px; }

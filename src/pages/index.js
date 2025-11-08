@@ -9,6 +9,7 @@ import '../styles/global.css'; // Import the global CSS file
 import '../components/Footer.css'
 import HeroSection from '../components/HeroSection';
 import '../components/FeaturedSlider.css'
+import Leaderboard from '../components/Leaderboard';
 
 const HomePage = () => {
   return (
@@ -25,6 +26,7 @@ const HomePage = () => {
         <h2>Featured Players' Stats</h2>
         <FeaturedSlider /> {/* Featured content */}
       </div>
+       <Leaderboard />
       <Footer /> {/* Footer content */}
     </div>
   );

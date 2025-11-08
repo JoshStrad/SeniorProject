@@ -1,60 +1,81 @@
-/* Hero section styles */
+/* Hero section styles with aura effect */
 .hero-section {
-    background-image: url('/path/to/hero-image.jpg');
-    background-size: cover;
-    background-position: center;
-    color: #fff;
-    text-align: center;
-    padding: 100px 0;
-  }
-  
-  .hero-section h1 {
-    font-size: 3rem;
-    margin-bottom: 20px;
-  }
-  
-  .hero-section p {
-    font-size: 1.5rem;
-  }
-  
-  /* Featured section styles */
-  .featured-section {
-    padding: 50px 0;
-  }
-  
-  /* Navigation styles */
-  .navbar {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-  }
-  
-  .nav-menu {
-    list-style-type: none;
-    display: flex;
-    justify-content: center;
-    margin-top: 10px;
-  }
-  
-  .nav-menu li {
-    margin: 0 15px;
-  }
-  
-  .nav-menu a {
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-  }
-  
-  .nav-menu a:hover {
-    color: #ffd700; /* Change to desired hover color */
-  }
-  
-  /* Footer styles */
-  .footer {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
-  }
+  background: linear-gradient(135deg, #000000, #1a1a1a, #000000);
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+  padding: 100px 0;
+  animation: bgGlow 10s infinite alternate;
+}
+
+/* Background aura animation */
+@keyframes bgGlow {
+  0% { background: radial-gradient(circle at top, #111, #000); }
+  50% { background: radial-gradient(circle at center, #220000, #000); }
+  100% { background: radial-gradient(circle at bottom, #111, #000); }
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #ff1a1a;
+  text-shadow: 0 0 15px rgba(255, 0, 0, 0.8), 
+               0 0 30px rgba(255, 0, 0, 0.6),
+               0 0 45px rgba(255, 0, 0, 0.4);
+  animation: titlePulse 2.5s infinite alternate;
+}
+
+/* Title aura pulse animation */
+@keyframes titlePulse {
+  from { text-shadow: 0 0 10px rgba(255, 0, 0, 0.8), 0 0 20px rgba(255, 0, 0, 0.6); }
+  to   { text-shadow: 0 0 30px rgba(255, 50, 50, 1), 0 0 60px rgba(255, 0, 0, 0.9); }
+}
+
+.hero-section p {
+  font-size: 1.5rem;
+  color: #aaa;
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.2);
+}
+
+/* Featured section styles */
+.featured-section {
+  padding: 50px 0;
+}
+
+/* Navigation styles */
+.navbar {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.nav-menu li {
+  margin: 0 15px;
+}
+
+.nav-menu a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-menu a:hover {
+  color: #ffd700; /* Change to desired hover color */
+}
+
+/* Footer styles */
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}

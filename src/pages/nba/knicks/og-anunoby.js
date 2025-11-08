@@ -1,24 +1,24 @@
 import React from 'react';
 import Header from '../../../components/Header';
-import './jayson-tatum.css'; // Import the player-specific CSS
+import './knicks-players.css'; // Import the player-specific CSS
 
-const JaysonTatum = () => {
+const OgAnunoby = () => {
   return (
     <>
       <Header />
       <main className="profile-container celtics-aura">
-        <h1>Jayson Tatum</h1>
-        <p>Number: 0</p>
-        <p>Height: 6'10"</p>
+        <h1>OG Anunoby</h1>
+        <p>Number: 8</p>
+        <p>Height: 6'7"</p>
         <p>Age: 26</p>
         <p>Position: Small Foward</p>
-        <p>College: Duke</p>
+        <p>College: Indiana</p>
         <p>Drafted: 3rd overall in the 2017 NBA Draft by the Boston Celtics</p>
 
         {/* Player Image */}
         <div className="player-image">
           <img 
-            src="https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png" 
+            src="https://cdn.statmuse.com/img/nba/players/boston-celtics-jayson-tatum2022-min--4e07qz-z.png" 
             alt="Jayson Tatum" 
             className="profile-img" 
           />
@@ -115,4 +115,4 @@ const JaysonTatum = () => {
   );
 };
 
-export default JaysonTatum;
+export default OgAnunoby;

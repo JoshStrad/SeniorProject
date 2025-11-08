@@ -1,0 +1,110 @@
+/* yankees.css */
+
+/* General profile container styling */
+.profile-container {
+  color: white;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+  min-height: 100vh;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Aura (team color glow) */
+.yankees-aura {
+  background: radial-gradient(circle at center, #0C2340 0%, #000000 80%);
+  box-shadow: 0 0 60px 10px rgba(12, 35, 64, 0.7);
+}
+
+/* Player name styling */
+.profile-container h1 {
+  font-size: 2.8em;
+  color: #C4CED4; /* Yankees silver-gray */
+  text-shadow: 0 0 20px rgba(255, 255, 255, 0.7);
+  margin-bottom: 0.3em;
+}
+
+/* Subheadings */
+.profile-container h2 {
+  font-size: 1.8em;
+  color: #E0E6EB;
+  margin-top: 40px;
+}
+
+/* Bio section */
+.bio {
+  max-width: 700px;
+  margin: 0 auto 25px;
+  font-size: 1.2em;
+  line-height: 1.6;
+  color: #F5F5F5;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
+
+/* Player image styling */
+.player-image {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 40px;
+}
+
+.profile-img {
+  max-width: 420px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 0 40px rgba(12, 35, 64, 0.8);
+}
+
+/* Stats Table */
+.stats-table {
+  margin: 0 auto;
+  width: 95%;
+  border-collapse: collapse;
+  background-color: rgba(255, 255, 255, 0.05);
+  color: #ffffff;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.stats-table th {
+  background-color: #0C2340;
+  color: #C4CED4;
+  padding: 10px;
+  font-size: 0.9em;
+  border-bottom: 2px solid #C4CED4;
+}
+
+.stats-table td {
+  padding: 8px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  font-size: 0.9em;
+}
+
+.stats-table tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.08);
+}
+
+.stats-table tr:hover {
+  background-color: rgba(255, 255, 255, 0.12);
+  transition: 0.3s;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .profile-container {
+    padding: 10px;
+  }
+
+  .profile-container h1 {
+    font-size: 2.2em;
+  }
+
+  .stats-table th, .stats-table td {
+    font-size: 0.75em;
+    padding: 6px;
+  }
+
+  .profile-img {
+    max-width: 300px;
+  }
+}

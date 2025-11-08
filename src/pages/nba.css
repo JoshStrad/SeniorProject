@@ -1,66 +1,54 @@
-.nba-container {
-  padding: 20px;
-  background-color: #0c0c0c;
-  color: #f5f2f2;
+/* Base card */
+.team-card {
+  display: inline-block;
+  margin: 12px;
+  padding: 12px 16px;
+  border-radius: 10px;
+  background: #141414;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+.team-card:hover { transform: translateY(-5px); }
 
-h1 {
-  text-align: center;
-  color: #2a3eb1; /* NBA-themed blue */
-}
+/* === TEAM AURAS === */
 
-.conference {
-  margin-bottom: 30px;
-}
+/* Atlantic */
+.boston-celtics-aura { box-shadow: 0 0 14px rgba(0,128,0,.7); }
+.brooklyn-nets-aura { box-shadow: 0 0 14px rgba(255,255,255,.5); }
+.new-york-knicks-aura { box-shadow: 0 0 14px rgba(0,102,204,.7), 0 0 26px rgba(255,102,0,.6); }
+.philadelphia-76ers-aura { box-shadow: 0 0 14px rgba(0,82,204,.8), 0 0 24px rgba(220,20,60,.6); }
+.toronto-raptors-aura { box-shadow: 0 0 14px rgba(220,20,60,.8); }
 
-.conference h2 {
-  font-size: 1.8em;
-  color: #2a3eb1;
-  margin-bottom: 10px;
-}
+/* Central */
+.cleveland-cavaliers-aura { box-shadow: 0 0 14px rgba(134,0,56,.8), 0 0 22px rgba(255,184,28,.5); }
+.indiana-pacers-aura { box-shadow: 0 0 14px rgba(0,45,98,.8), 0 0 22px rgba(255,205,0,.6); }
+.detroit-pistons-aura { box-shadow: 0 0 14px rgba(200,16,46,.8), 0 0 22px rgba(29,66,138,.6); }
+.chicago-bulls-aura { box-shadow: 0 0 14px rgba(206,17,65,.9); }
+.milwaukee-bucks-aura { box-shadow: 0 0 14px rgba(0,71,27,.9), 0 0 22px rgba(240,235,210,.6); }
 
-.division h3 {
-  font-size: 1.5em;
-  color: #920404;
-  margin-top: 20px;
-}
+/* Southeast */
+.atlanta-hawks-aura { box-shadow: 0 0 14px rgba(225,68,52,.8), 0 0 22px rgba(196,214,0,.6); }
+.charlotte-hornets-aura { box-shadow: 0 0 14px rgba(29,17,96,.8), 0 0 22px rgba(0,120,140,.6); }
+.miami-heat-aura { box-shadow: 0 0 14px rgba(152,0,46,.8), 0 0 22px rgba(249,160,27,.6); }
+.orlando-magic-aura { box-shadow: 0 0 14px rgba(0,125,197,.9), 0 0 22px rgba(196,206,211,.5); }
+.washington-wizards-aura { box-shadow: 0 0 14px rgba(0,43,92,.9), 0 0 22px rgba(227,24,55,.7); }
 
-ul {
-  list-style-type: none;
-  padding: 0;
-}
+/* Northwest */
+.denver-nuggets-aura { box-shadow: 0 0 14px rgba(13,34,64,.9), 0 0 22px rgba(255,198,39,.7); }
+.minnesota-timberwolves-aura { box-shadow: 0 0 14px rgba(12,35,64,.9), 0 0 22px rgba(35,97,146,.7); }
+.oklahoma-city-thunder-aura { box-shadow: 0 0 14px rgba(0,125,195,.9), 0 0 22px rgba(239,59,36,.7); }
+.portland-trail-blazers-aura { box-shadow: 0 0 14px rgba(224,58,62,.9), 0 0 22px rgba(6,25,34,.7); }
+.utah-jazz-aura { box-shadow: 0 0 14px rgba(0,43,92,.9), 0 0 22px rgba(255,184,28,.7); }
 
-li {
-  font-size: 1.1em;
-  padding: 5px 0;
-  display: inline-block; /* Prevents list items from stretching across the page */
-  margin-right: 15px; /* Adds spacing between items */
-}
+/* Pacific */
+.golden-state-warriors-aura { box-shadow: 0 0 14px rgba(29,66,138,.9), 0 0 22px rgba(255,199,44,.7); }
+.la-clippers-aura { box-shadow: 0 0 14px rgba(200,16,46,.8), 0 0 22px rgba(29,66,138,.7); }
+.la-lakers-aura { box-shadow: 0 0 14px rgba(85,37,130,.9), 0 0 22px rgba(253,185,39,.7); }
+.phoenix-suns-aura { box-shadow: 0 0 14px rgba(29,17,96,.9), 0 0 22px rgba(229,95,32,.7); }
+.sacramento-kings-aura { box-shadow: 0 0 14px rgba(91,43,130,.9), 0 0 22px rgba(99,113,122,.6); }
 
-a {
-  text-decoration: none;
-  color: #2a3eb1; /* NBA blue */
-}
-
-a:hover {
-  color: #1a2a85;
-  text-decoration: underline;
-}
-
-/* Ensure logo and text are properly aligned */
-.team-link {
-  display: inline-flex;
-  align-items: center;
-  padding: 5px;
-  border-bottom: 1px solid transparent; /* Default no underline */
-}
-
-.team-link:hover {
-  border-bottom: 1px solid #2a3eb1; /* Underline only appears under text */
-}
-
-.team-logo {
-  width: 20px;
-  height: auto;
-  margin-right: 10px;
-}
+/* Southwest */
+.dallas-mavericks-aura { box-shadow: 0 0 14px rgba(0,83,188,.9), 0 0 22px rgba(187,196,202,.6); }
+.houston-rockets-aura { box-shadow: 0 0 14px rgba(206,17,65,.9); }
+.memphis-grizzlies-aura { box-shadow: 0 0 14px rgba(15,48,87,.9), 0 0 22px rgba(93,118,169,.6); }
+.new-orleans-pelicans-aura { box-shadow: 0 0 14px rgba(0,43,92,.9), 0 0 22px rgba(225,58,62,.6); }
+.san-antonio-spurs-aura { box-shadow: 0 0 14px rgba(196,206,211,.7); }
