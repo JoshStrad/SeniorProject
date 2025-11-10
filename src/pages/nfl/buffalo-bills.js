@@ -8,8 +8,8 @@ const BuffaloBillsQBs = () => {
     {
       name: 'Josh Allen',
       number: 17,
-      profileLink: '/nfl/joshallen/josh-allen',
-      headshot: 'https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fnfl%2Fplayers%2Fbuffalo-bills-josh-allen2025--qcoxd6nl.png&w=200&h=200&f=webp'
+      profileLink: '/nfl/bills/josh-allen',
+      headshot: 'https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bills/f8kygnccjsnptgeqpqi9'
     },
     {
       name: 'Mitch Tribusky',

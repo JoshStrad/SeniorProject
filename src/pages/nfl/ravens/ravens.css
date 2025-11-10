@@ -1,0 +1,62 @@
+/* Base layout */
+.profile-container {
+  color: white;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+}
+
+/* Ravens aura (purple + gold) */
+.ravens-aura {
+  background:
+    radial-gradient(60% 60% at 50% 20%, rgba(26, 13, 96, 0.28), transparent 70%),
+    radial-gradient(40% 40% at 80% 10%, rgba(189, 155, 55, 0.18), transparent 70%);
+  box-shadow:
+    0 0 40px 10px rgba(26, 13, 96, 0.38) inset,
+    0 0 80px rgba(189, 155, 55, 0.25);
+}
+
+/* Image */
+.profile-img {
+  max-width: 500px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 8px 30px rgba(26, 13, 96, 0.45);
+}
+
+/* Stats table */
+.stats { margin-top: 24px; }
+.stats-table {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  background: rgba(0, 0, 0, 0.25);
+  border-radius: 12px;
+  overflow: hidden;
+}
+.stats-table th, .stats-table td {
+  padding: 10px 8px;
+  border-bottom: 1px solid rgba(255,255,255,0.12);
+}
+.stats-table thead th {
+  position: sticky;
+  top: 0;
+  background: rgba(26, 13, 96, 0.35);
+  backdrop-filter: blur(4px);
+}
+.stats-table tbody tr:hover {
+  background: rgba(189, 155, 55, 0.10);
+}
+
+/* Video */
+.highlight-video {
+  margin: 28px auto 0;
+  max-width: 900px;
+}
+.highlight-video iframe {
+  width: 100%;
+  aspect-ratio: 16/9;
+  border-radius: 12px;
+}

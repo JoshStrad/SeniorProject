@@ -9,13 +9,13 @@ const AtlantaFalconsQBs = () => {
         name: 'Kirk Cousins', 
         number: 18, 
         profileLink: '/nfl/falcons/kirk-cousins', 
-        headshot: '' 
+        headshot: 'https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/falcons/com3kzj7cs3lnhp34ogt' 
     },
     { 
         name: 'Michael Penix Jr.', 
         number: 9, 
         profileLink: '/nfl/falcons/michael-penix-jr', 
-        headshot: '' 
+        headshot: 'https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/falcons/umfntybkzeqokxqgabff' 
     }
   ];
   return (

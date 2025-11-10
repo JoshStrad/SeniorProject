@@ -8,8 +8,8 @@ const LosAngelesChargersQBs = () => {
     {
       name: 'Justin Herbert',
       number: 10,
-      profileLink: '/nfl/justinherbert/justin-herbert',
-      headshot: ''
+      profileLink: '/nfl/chargers/justin-herbert',
+      headshot: 'https://static.www.nfl.com/image/upload/t_headshot_desktop/league/s1oelyaroiaalgilbeqk'
     },
     {
       name: 'Easton Stick',

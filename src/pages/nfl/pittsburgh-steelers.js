@@ -9,7 +9,7 @@ const SteelersQBs = () => {
       name: 'Aaron Rodgers',
       number: 8,
       profileLink: '/nfl/steelers/aaron-rodgers',
-      headshot: 'https://cdn.statmuse.com/forge-v2/aHR0cHM6Ly9jZG4uc3RhdG11c2UuY29tL2ltZy9uZmwvcGxheWVycy9uZXcteLS1oa3Nzd2lzYi5wbmc_Ymc9MTE1NzQwJnQ9dHdpdHRlcg==.png'
+      headshot: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-QKCQOLRT_MIKPq8gfO8Y1nCvT7BKlvNW2A&s'
     },
     {
       name: 'Mason Rudolph',
@@ -29,7 +29,7 @@ const SteelersQBs = () => {
     <>
       <Header />
       <main className="team-container">
-        <h1>New York Jets — Quarterbacks</h1>
+        <h1>Pittsburgh Steelers — Quarterbacks</h1>
         <p>Click a QB to open their player page.</p>
 
         <div className="qb-grid">

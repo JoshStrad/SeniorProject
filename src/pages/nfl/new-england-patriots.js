@@ -8,7 +8,7 @@ const NewEnglandPatriotsQBs = () => {
     {
       name: 'Drake Maye',
       number: 10,
-      profileLink: '/nfl/patriots/drake-maye',
+      profileLink: '/nfl/pats/drake-maye',
       headshot: 'https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fnfl%2Fplayers%2Fnew-england-patriots-drake-maye---fazjljg.png&w=180&h=180&f=webp'
     },
     {

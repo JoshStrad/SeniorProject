@@ -8,7 +8,7 @@ const TampaBayBuccaneersQBs = () => {
     { 
       name: 'Baker Mayfield', 
       number: 6, 
-      profileLink: '/nfl/buccaneers/baker-mayfield', 
+      profileLink: '/nfl/bucs/baker-mayfield', 
       headshot: '' 
     },
     { 

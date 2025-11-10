@@ -8,7 +8,7 @@ const KansasCityChiefsQBs = () => {
     {
       name: 'Patrick Mahomes',
       number: 15,
-      profileLink: '/nfl/mahomes/patrick-mahomes',
+      profileLink: '/nfl/chiefs/patrick-mahomes',
       headshot: 'https://a.espncdn.com/i/headshots/nfl/players/full/3139477.png'
     },
     {
