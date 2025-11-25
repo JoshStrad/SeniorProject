@@ -19,7 +19,7 @@ const KylerMurray = () => {
 
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/arizona-cardinals-kyler-murray-min--2l07qz-z.png"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkrR3qQK59zU0k0Dx1a0r42-orQldINPUjlQ&s"
             alt="Kyler Murray"
             className="profile-img"
           />

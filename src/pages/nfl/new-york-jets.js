@@ -9,13 +9,13 @@ const NewYorkJetsQBs = () => {
       name: 'Justin Fields',
       number: 7,
       profileLink: '/nfl/jets/justin-fields',
-      headshot: 'https://cdn.statmuse.com/forge-v2/aHR0cHM6Ly9jZG4uc3RhdG11c2UuY29tL2ltZy9uZmwvcGxheWVycy9uZXcteW9yay1qZXRzLWp1c3Rpbi1maWVsZHMyMDI1LS1oa3Nzd2lzYi5wbmc_Ymc9MTE1NzQwJnQ9dHdpdHRlcg==.png'
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4362887.png&w=350&h=254'
     },
     {
       name: 'Tyrod Taylor',
       number: 5,
       profileLink: '/nfl/jets/tyrod-taylor',
-      headshot: ''
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14163.png&w=350&h=254'
     }
   ];
 

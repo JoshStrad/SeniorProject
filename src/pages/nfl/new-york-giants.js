@@ -6,16 +6,16 @@ import './nfl-team-qbs.css';
 const NewYorkGiantsQBs = () => {
   const qbs = [
     { 
-        name: 'Daniel Jones', 
+        name: 'Jaxson Dart', 
         number: 8, 
-        profileLink: '/nfl/giants/daniel-jones', 
-        headshot: '' 
+        profileLink: '/nfl/giants/jaxson-dart', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4689114.png&w=350&h=254' 
     },
     { 
-        name: 'Drew Lock', 
+        name: 'Russell Wilson', 
         number: 3, 
-        profileLink: '/nfl/giants/drew-lock', 
-        headshot: '' 
+        profileLink: '/nfl/giants/russell-wilson', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14881.png&w=350&h=254' 
     }
   ];
   return (

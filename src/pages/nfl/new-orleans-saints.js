@@ -6,16 +6,16 @@ import './nfl-team-qbs.css';
 const NewOrleansSaintsQBs = () => {
   const qbs = [
     { 
-        name: 'Derek Carr', 
+        name: 'Tyler Shough', 
         number: 4, 
         profileLink: '/nfl/saints/derek-carr', 
-        headshot: '' 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4360689.png&w=350&h=254' 
     },
     { 
         name: 'Spencer Rattler', 
         number: 15, 
         profileLink: '/nfl/saints/spencer-rattler', 
-        headshot: '' 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426339.png&w=350&h=254' 
     }
   ];
   return (

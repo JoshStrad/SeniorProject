@@ -9,7 +9,7 @@ const HoustonTexansQBs = () => {
       name: 'C.J. Stroud',
       number: 7,
       profileLink: '/nfl/texans/cj-stroud',
-      headshot: ''
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4432577.png&w=350&h=254'
     },
     {
       name: 'Case Keenum',

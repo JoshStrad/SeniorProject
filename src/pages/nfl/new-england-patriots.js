@@ -9,19 +9,19 @@ const NewEnglandPatriotsQBs = () => {
       name: 'Drake Maye',
       number: 10,
       profileLink: '/nfl/pats/drake-maye',
-      headshot: 'https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fnfl%2Fplayers%2Fnew-england-patriots-drake-maye---fazjljg.png&w=180&h=180&f=webp'
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4431452.png&w=350&h=254'
     },
     {
       name: 'Joshua Dobbs',
       number: 11,
       profileLink: '/nfl/patriots/joshua-dobbs',
-      headshot: 'https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fnfl%2Fplayers%2Fnew-england-patriots-joshua-dobbs-01---qbjqj7k.png&w=180&h=180&f=webp'
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3044720.png&w=350&h=254'
     },
     {
       name: 'Tommy Devito',
       number: 12,
       profileLink: '/nfl/patriots/tommy-devito',
-      headshot: 'https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fnfl%2Fplayers%2Fnew-england-patriots-joshua-dobbs-01---qbjqj7k.png&w=180&h=180&f=webp'
+      headshot: ''
     }
   ];
 

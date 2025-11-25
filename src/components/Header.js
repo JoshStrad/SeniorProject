@@ -25,11 +25,10 @@ const Header = () => {
             <li><Link to="/mlb">MLB</Link></li>
             <li><Link to="/about">About</Link></li>
             <li className="dropdown">
-              <span className="dropdown-btn">Sports</span>
+              <span className="dropdown-btn">More</span>
               <div className="dropdown-content">
-                <Link to="/nba">NBA</Link>
-                <Link to="/mlb">MLB</Link>
-                <Link to="/nfl">NFL</Link>
+                <Link to="/more/ranking-quiz">Ranking Quiz</Link>
+                <Link to="/nba">Stat Comparison</Link>
               </div>
             </li>
             <li>

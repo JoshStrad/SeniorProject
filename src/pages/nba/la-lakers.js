@@ -6,8 +6,6 @@ import './celtics.css';
 const LosAngelesLakers = () => {
   const roster = [
     { name: 'Deandre Ayton', position: 'C', number: 5, profileLink: '/nba/lakers/deandre-ayton' },
-    { name: 'RJ Davis', position: 'G', number: 99, profileLink: '/nba/lakers/rj-davis' },
-    { name: 'Eric Dixon', position: 'F', number: 98, profileLink: '/nba/lakers/eric-dixon' },
     { name: 'Luka Doncic', position: 'PG', number: 77, profileLink: '/nba/lakers/luka-doncic' },
     { name: 'Rui Hachimura', position: 'PF', number: 28, profileLink: '/nba/lakers/rui-hachimura' },
     { name: 'Jaxson Hayes', position: 'C', number: 11, profileLink: '/nba/lakers/jaxson-hayes' },
@@ -18,8 +16,6 @@ const LosAngelesLakers = () => {
     { name: 'Dalton Knecht', position: 'G', number: 4, profileLink: '/nba/lakers/dalton-knecht' },
     { name: 'Christian Koloko', position: 'C', number: 10, profileLink: '/nba/lakers/christian-koloko' },
     { name: 'Jake LaRavia', position: 'F', number: 12, profileLink: '/nba/lakers/jake-laravia' },
-    { name: 'Chris Manon', position: 'G', number: 30, profileLink: '/nba/lakers/chris-manon' },
-    { name: 'Augustas Marciulionis', position: 'G', number: 96, profileLink: '/nba/lakers/augustas-marciulionis' },
     { name: 'Austin Reaves', position: 'SG', number: 15, profileLink: '/nba/lakers/austin-reaves' },
     { name: 'Marcus Smart', position: 'PG', number: 36, profileLink: '/nba/lakers/marcus-smart' },
     { name: 'Adou Thiero', position: 'F', number: 1, profileLink: '/nba/lakers/adou-thiero' },

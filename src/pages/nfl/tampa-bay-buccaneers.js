@@ -9,13 +9,13 @@ const TampaBayBuccaneersQBs = () => {
       name: 'Baker Mayfield', 
       number: 6, 
       profileLink: '/nfl/bucs/baker-mayfield', 
-      headshot: '' 
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3052587.png&w=350&h=254' 
     },
     { 
-      name: 'Kyle Trask', 
+      name: 'Teddy Bridgewater', 
       number: 2, 
       profileLink: '/nfl/buccaneers/kyle-trask', 
-      headshot: '' 
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/16728.png&w=350&h=254' 
     }
   ];
   return (

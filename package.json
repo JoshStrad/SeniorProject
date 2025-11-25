@@ -8,14 +8,17 @@
     "gatsby"
   ],
   "scripts": {
-    "develop": "gatsby develop",
+    "scrape:herbert": "python scripts/scrape_herbert.py",
+    "develop": "npm run scrape:herbert && gatsby develop",
     "start": "gatsby develop",
-    "build": "gatsby build",
+    "build": "npm run scrape:herbert && gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
   "dependencies": {
     "gatsby": "^5.13.3",
+    "gatsby-source-filesystem": "^5.15.0",
+    "gatsby-transformer-json": "^5.15.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-slick": "^0.30.2",

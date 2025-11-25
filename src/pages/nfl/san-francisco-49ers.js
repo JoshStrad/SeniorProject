@@ -9,7 +9,7 @@ const SanFrancisco49ersQBs = () => {
         name: 'Brock Purdy', 
         number: 13, 
         profileLink: '/nfl/49ers/brock-purdy', 
-        headshot: '' 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4361741.png&w=350&h=254' 
     },
     { 
         name: 'Brandon Allen', 

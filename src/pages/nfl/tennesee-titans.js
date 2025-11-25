@@ -9,13 +9,13 @@ const TennesseeTitansQBs = () => {
       name: 'Will Levis',
       number: 8,
       profileLink: '/nfl/titans/will-levis',
-      headshot: ''
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4361418.png&w=350&h=254'
     },
     {
       name: 'Cam Ward',
       number: 1,
       profileLink: '/nfl/titans/cam-ward',
-      headshot: ''
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4688380.png&w=350&h=254'
     }
   ];
 

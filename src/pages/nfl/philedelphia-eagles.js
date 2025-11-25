@@ -9,7 +9,7 @@ const PhiladelphiaEaglesQBs = () => {
         name: 'Jalen Hurts', 
         number: 1, 
         profileLink: '/nfl/eagles/jalen-hurts', 
-        headshot: '' 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4040715.png&w=350&h=254' 
     },
     { 
         name: 'Kenny Pickett', 

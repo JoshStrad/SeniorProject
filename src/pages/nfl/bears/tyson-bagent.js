@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../../../components/Header';
-import './josh-allen.css'; // Player-specific CSS
+import './bears.css'; // Player-specific CSS
 
 const CalebWilliams = () => {
   return (

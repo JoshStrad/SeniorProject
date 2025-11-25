@@ -6,5 +6,14 @@ module.exports = {
     title: `GameWinningStats`,
     siteUrl: `https://www.yourdomain.tld`,
   },
-  plugins: [],
+  plugins: [
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `scrapeddata`,
+        path: `${__dirname}/scrapeddata/`,
+      },
+    },
+    `gatsby-transformer-json`,
+  ],
 }

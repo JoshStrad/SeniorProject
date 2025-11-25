@@ -19,7 +19,7 @@ const DerrickWhite = () => {
         {/* Player Image */}
         <div className="player-image">
           <img 
-            src="https://cdn.statmuse.com/img/nba/players/boston-celtics-derrick-white2023-copy-min-1--w9cpqi_k.png" 
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3078576.png&w=350&h=254" 
             alt="Derrick White" 
             className="profile-img" 
           />

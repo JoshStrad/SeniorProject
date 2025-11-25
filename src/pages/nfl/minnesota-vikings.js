@@ -9,11 +9,11 @@ const MinnesotaVikingsQBs = () => {
         name: 'J.J. McCarthy', 
         number: 9, 
         profileLink: '/nfl/vikings/jj-mccarthy', 
-        headshot: '' 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4433970.png&w=350&h=254' 
     },
 
     { 
-        name: 'Sam Darnold', 
+        name: 'Carson Wentz', 
         number: 14, 
         profileLink: '/nfl/vikings/sam-darnold', 
         headshot: '' 

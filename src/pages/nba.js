@@ -15,7 +15,7 @@ const nbaTeams = {
       { name: 'Toronto Raptors', path: '/nba/toronto-raptors', logo: 'https://tse3.mm.bing.net/th/id/OIP.zEXjAuKCqW7DmF87nOCWiQHaHa?rs=1&pid=ImgDetMain' }
     ],
     Central: [
-      { name: 'Cleveland Cavaliers', path: '/nba/cleveland-cavaliers', logo: 'https://logos-world.net/wp-content/uploads/2020/05/Cleveland-Cavaliers-Logo-2017-present.png' },
+      { name: 'Cleveland Cavaliers', path: '/nba/clevaland-cavaliers', logo: 'https://logos-world.net/wp-content/uploads/2020/05/Cleveland-Cavaliers-Logo-2017-present.png' },
       { name: 'Indiana Pacers', path: '/nba/indiana-pacers', logo: 'https://logos-world.net/wp-content/uploads/2020/05/Indiana-Pacers-logo.png' },
       { name: 'Detroit Pistons', path: '/nba/detroit-pistons', logo: 'https://th.bing.com/th/id/R.dd68dd2cca6f7857b0ce4715fc9a78ff?rik=sv2chnVKcknDqw&pid=ImgRaw&r=0' },
       { name: 'Chicago Bulls', path: '/nba/chicago-bulls', logo: 'https://cdn.freebiesupply.com/images/large/2x/chicago-bulls-logo-transparent.png' },

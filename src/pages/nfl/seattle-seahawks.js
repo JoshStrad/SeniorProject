@@ -6,16 +6,16 @@ import './nfl-team-qbs.css';
 const SeattleSeahawksQBs = () => {
   const qbs = [
     { 
-        name: 'Geno Smith', 
-        number: 7, 
+        name: 'Sam Darnold', 
+        number: 14, 
         profileLink: '/nfl/seahawks/geno-smith', 
-        headshot: '' 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3912547.png&w=350&h=254' 
     },
     { 
-        name: 'Sam Howell', 
+        name: 'Drew Lock', 
         number: 6, 
         profileLink: '/nfl/seahawks/sam-howell', 
-        headshot: '' 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3924327.png&w=350&h=254' 
     }
   ];
   return (

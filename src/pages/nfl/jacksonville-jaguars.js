@@ -9,7 +9,7 @@ const JacksonvilleJaguarsQBs = () => {
       name: 'Trevor Lawrence',
       number: 16,
       profileLink: '/nfl/jags/trevor-lawrence',
-      headshot: 'https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/jaguars/leehtodhqxljzouuytn8'
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4360310.png&w=350&h=254'
     },
     {
       name: 'Mac Jones',

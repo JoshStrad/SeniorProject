@@ -9,7 +9,7 @@ const MiamiDolphinsQBs = () => {
       name: 'Tua Tagovailoa',
       number: 1,
       profileLink: '/nfl/dolphins/tua-tagovailoa',
-      headshot: 'https://www.statmuse.com/_image?href=https%3A%2F%2Fcdn.statmuse.com%2Fimg%2Fnfl%2Fplayers%2Fmiami-dolphins-tua-tagovailoa2025--cohtxnon.png&w=200&h=200&f=webp'
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4241479.png&w=350&h=254'
     },
     {
       name: 'Mike White',

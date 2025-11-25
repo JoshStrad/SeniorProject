@@ -19,7 +19,7 @@ const JaylenBrown = () => {
         {/* Player Image */}
         <div className="player-image">
           <img 
-            src="https://cdn.statmuse.com/img/nba/players/boston-celtics-jaylen-brown2021-min--jx_exgdy.png" 
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3917376.png&w=350&h=254" 
             alt="Jaylen Brown" 
             className="profile-img" 
           />

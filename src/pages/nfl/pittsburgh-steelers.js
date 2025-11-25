@@ -9,19 +9,19 @@ const SteelersQBs = () => {
       name: 'Aaron Rodgers',
       number: 8,
       profileLink: '/nfl/steelers/aaron-rodgers',
-      headshot: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-QKCQOLRT_MIKPq8gfO8Y1nCvT7BKlvNW2A&s'
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/8439.png&w=350&h=254'
     },
     {
       name: 'Mason Rudolph',
       number: 5,
       profileLink: '/nfl/jets/tyrod-taylor',
-      headshot: ''
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3116407.png&w=350&h=254'
     },
     {
       name: 'Will Howard',
       number: 8,
       profileLink: '/nfl/steelers/will-howard',
-      headshot: 'https://cdn.statmuse.com/forge-v2/aHR0cHM6Ly9jZG4uc3RhdG11c2UuY29tL2ltZy9uZmwvcGxheWVycy9uZXcteLS1oa3Nzd2lzYi5wbmc_Ymc9MTE1NzQwJnQ9dHdpdHRlcg==.png'
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4429955.png&w=350&h=254'
     },
   ];
 

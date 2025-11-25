@@ -1,0 +1,150 @@
+/* ===============================
+   Ranking Quiz Page Styling
+   Purple Aura Edition
+   =============================== */
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Main container */
+.quiz-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Title styling */
+.quiz-title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #b366ff;
+  font-weight: 800;
+  text-shadow: 0 0 20px rgba(179, 102, 255, 0.8),
+               0 0 40px rgba(179, 102, 255, 0.6);
+  margin-bottom: 2rem;
+}
+
+/* Progress bar */
+.progress-bar {
+  width: 100%;
+  height: 12px;
+  background: #222;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 0 15px rgba(179, 102, 255, 0.3);
+}
+
+.progress-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #b366ff, #9933ff);
+  transition: width 0.3s ease-in-out;
+}
+
+/* Player cards */
+.player-card {
+  background: #111;
+  border: 1px solid #262626;
+  border-radius: 20px;
+  padding: 1rem;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(179, 102, 255, 0.1);
+  transition: all 0.25s ease;
+  cursor: pointer;
+}
+
+.player-card:hover {
+  transform: scale(1.03);
+  border-color: #b366ff;
+  box-shadow: 0 0 30px rgba(179, 102, 255, 0.3);
+}
+
+.player-card img {
+  width: 100%;
+  height: 260px;
+  border-radius: 15px;
+  object-fit: cover;
+  margin-bottom: 0.8rem;
+}
+
+.player-card h3 {
+  font-size: 1.3rem;
+  color: #fff;
+  margin-bottom: 0.2rem;
+}
+
+.player-card p {
+  color: #bbb;
+  font-size: 0.9rem;
+}
+
+/* Skip button */
+.skip-button {
+  margin-top: 1rem;
+  padding: 0.6rem 1.5rem;
+  border-radius: 10px;
+  background: #262626;
+  border: 1px solid #333;
+  color: #ddd;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.skip-button:hover {
+  background: #b366ff;
+  color: #fff;
+  box-shadow: 0 0 20px rgba(179, 102, 255, 0.5);
+}
+
+/* Final Rankings Section */
+.final-rankings {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.final-rankings h2 {
+  color: #b366ff;
+  text-shadow: 0 0 20px rgba(179, 102, 255, 0.7);
+  margin-bottom: 1rem;
+}
+
+.final-rankings ol {
+  background: rgba(25, 0, 40, 0.8);
+  border-radius: 15px;
+  display: inline-block;
+  padding: 1.5rem 2.5rem;
+  text-align: left;
+  box-shadow: 0 0 35px rgba(179, 102, 255, 0.25);
+}
+
+.final-rankings li {
+  font-size: 1.2rem;
+  margin: 0.4rem 0;
+  color: #fff;
+}
+
+.final-rankings p {
+  color: #aaa;
+  font-size: 0.9rem;
+  margin-top: 0.8rem;
+}
+
+@keyframes glowShift {
+  0%   { filter: drop-shadow(0 0 6px rgba(179,102,255,.4)); }
+  50%  { filter: drop-shadow(0 0 14px rgba(179,102,255,.75)); }
+  100% { filter: drop-shadow(0 0 6px rgba(179,102,255,.4)); }
+}
+
+.progress-bar-fill {
+  background: linear-gradient(90deg, #b366ff, #7c3aed, #9933ff);
+  background-size: 200% 100%;
+  animation: gradientSlide 3s linear infinite, glowShift 2.2s ease-in-out infinite;
+}
+
+@keyframes gradientSlide {
+  0%   { background-position: 0% 0; }
+  100% { background-position: 200% 0; }
+}

@@ -9,13 +9,13 @@ const WashingtonCommandersQBs = () => {
         name: 'Jayden Daniels', 
         number: 5, 
         profileLink: '/nfl/commanders/jayden-daniels', 
-        headshot: '' 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426348.png&w=350&h=254' 
     },
     { 
         name: 'Marcus Mariota', 
         number: 0, 
         profileLink: '/nfl/commanders/marcus-mariota', 
-        headshot: '' 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2576980.png&w=350&h=254' 
     }
   ];
   return (

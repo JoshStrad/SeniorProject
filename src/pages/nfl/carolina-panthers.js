@@ -9,13 +9,13 @@ const CarolinaPanthersQBs = () => {
         name: 'Bryce Young', 
         number: 9, 
         profileLink: '/nfl/panthers/bryce-young', 
-        headshot: 'https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/panthers/mnj0l508buwkng2helja' 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4685720.png&w=350&h=254' 
     },
     { 
         name: 'Andy Dalton', 
         number: 14, 
         profileLink: '/nfl/panthers/andy-dalton', 
-        headshot: 'https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/panthers/psquodfx6vfqdamkr26y' 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14012.png&w=350&h=254' 
     }
   ];
   return (

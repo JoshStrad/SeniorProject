@@ -9,13 +9,13 @@ const ChicagoBearsQBs = () => {
         name: 'Caleb Williams', 
         number: 13, 
         profileLink: '/nfl/bears/caleb-williams', 
-        headshot: 'https://static.clubs.nfl.com/image/upload/t_person_squared_mobile/f_auto/v1715703686/bears/tejh8jk8nrvoulnxtab4.jpg' 
-    },
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4431611.png&w=350&h=254'
+    },        
     { 
         name: 'Tyson Bagent', 
         number: 17, 
         profileLink: '/nfl/bears/tyson-bagent', 
-        headshot: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdIiyeYhWXeVbQkCmX09e5ujjQ-BWELC4uEQ&s' 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4434153.png&w=350&h=254' 
     }
   ];
   return (
