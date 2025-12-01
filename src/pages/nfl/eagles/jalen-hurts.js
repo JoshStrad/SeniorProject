@@ -20,7 +20,7 @@ const JalenHurts = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/philadelphia-eagles-jalen-hurts-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4040715.png&w=350&h=254"
             alt="Jalen Hurts"
             className="profile-img"
           />

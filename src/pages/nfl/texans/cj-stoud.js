@@ -19,7 +19,7 @@ const CJStroud = () => {
 
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/houston-texans-c-j-stroud-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4432577.png&w=350&h=254"
             alt="C.J. Stroud"
             className="profile-img"
           />

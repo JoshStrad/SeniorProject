@@ -7,9 +7,9 @@ const BostonCeltics = () => {
   const roster = [
     { name: 'Jayson Tatum', position: 'SF', number: 0, profileLink: '/nba/celtics/jayson-tatum' },
     { name: 'Jaylen Brown', position: 'SF', number: 7, profileLink: '/nba/celtics/jaylen-brown' },
-    { name: 'Jrue Holiday', position: 'PG', number: 4, profileLink: '/nba/celtics/jrue-holiday' },
+    { name: 'Luka Garza', position: 'PG', number: 4, profileLink: '/nba/celtics/jrue-holiday' },
     { name: 'Derrick White', position: 'SG', number: 9, profileLink: '/nba/celtics/derrick-white' },
-    { name: 'Kristaps Porzingis', position: 'PF', number: 8, profileLink: '/nba/celtics/kristaps-porzingis' },
+    { name: 'Hugo Gonzalez', position: 'PF', number: 8, profileLink: '/nba/celtics/kristaps-porzingis' },
     { name: 'Payton Pritchard', position: 'SG', number: 11, profileLink: '/nba/boston-celtics/jayson-tatum' },
     { name: 'Jordan Walsh', position: 'SF', number: 27, profileLink: '/nba/boston-celtics/jayson-tatum' },
     { name: 'JD Davidson', position: 'PG', number: 20, profileLink: '/nba/boston-celtics/jayson-tatum' },

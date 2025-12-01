@@ -18,7 +18,7 @@ const TuaTagovailoa = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/miami-dolphins-tua-tagovailoa-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4241479.png&w=350&h=254"
             alt="Tua Tagovailoa"
             className="profile-img"
           />

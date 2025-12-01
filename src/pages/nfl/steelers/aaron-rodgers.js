@@ -21,7 +21,7 @@ const AaronRodgers = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/pittsburgh-steelers-aaron-rodgers-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/8439.png&w=350&h=254"
             alt="Aaron Rodgers"
             className="profile-img"
           />

@@ -20,7 +20,7 @@ const JaydenDaniels = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/washington-commanders-jayden-daniels-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426348.png&w=350&h=254"
             alt="Jayden Daniels"
             className="profile-img"
           />

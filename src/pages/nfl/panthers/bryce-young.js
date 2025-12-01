@@ -20,7 +20,7 @@ const BryceYoung = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/carolina-panthers-bryce-young-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4685720.png&w=350&h=254"
             alt="Bryce Young"
             className="profile-img"
           />

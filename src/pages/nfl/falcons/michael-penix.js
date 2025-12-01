@@ -18,8 +18,8 @@ const JoeBurrow = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bengals/ygxpkhhnl62zjtwb0sdm"
-            alt="Joe Burrow"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4360423.png&w=350&h=254"
+            alt="Michael Penix Jr."
             className="profile-img"
           />
         </div>

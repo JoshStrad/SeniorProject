@@ -18,8 +18,8 @@ const DillonGabriel = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/browns/nysfh8eic0r0miuhugyz"
-            alt="Joe Burrow"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4427238.png&w=350&h=254"
+            alt="Dillion Gabriel"
             className="profile-img"
           />
         </div>
@@ -28,9 +28,7 @@ const DillonGabriel = () => {
         <div className="bio">
           <h2>Bio</h2>
           <p>
-            Joe Burrow is a one of the last "pure" NFL QBs. His supreme accuracy with elite proccessing likens him to the  
-            historic field generals before him like Tom Brady and Joe Montana. Since joining the Bengals, he has transformed into one of the league’s most dynamic players, 
-            capable of throing for 400 and being Joe Cool in clutch moments.
+            
           </p>
         </div>
 

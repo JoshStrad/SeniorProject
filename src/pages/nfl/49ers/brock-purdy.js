@@ -20,7 +20,7 @@ const BrockPurdy = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/f_png/49ers/lqzyemzzorfcssobjh99.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4361741.png&w=350&h=254"
             alt="Brock Purdy"
             className="profile-img"
           />

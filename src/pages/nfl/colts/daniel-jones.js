@@ -20,7 +20,7 @@ const DanielJonesColts = () => {
 
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/indianapolis-colts-daniel-jones-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4429084.png&w=350&h=254"
             alt="Daniel Jones"
             className="profile-img"
           />

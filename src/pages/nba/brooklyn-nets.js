@@ -9,19 +9,16 @@ const BrooklynNets = () => {
     { name: 'Noah Clowney', position: 'F', number: 21, profileLink: '/nba/nets/noah-clowney' },
     { name: 'Egor Demin', position: 'G', number: 8, profileLink: '/nba/nets/egor-demin' },
     { name: 'Tyson Etienne', position: 'G', number: 10, profileLink: '/nba/nets/tyson-etienne' },
-    { name: 'Tosan Evbuomwan', position: 'F', number: 12, profileLink: '/nba/nets/tosan-evbuomwan' },
     { name: 'Haywood Highsmith', position: 'F', number: 24, profileLink: '/nba/nets/haywood-highsmith' },
-    { name: 'Keon Johnson', position: 'G', number: 45, profileLink: '/nba/nets/keon-johnson' },
+    { name: 'Cam Thomas', position: 'G', number: 45, profileLink: '/nba/nets/keon-johnson' },
     { name: 'Terance Mann', position: 'SG', number: 14, profileLink: '/nba/nets/terance-mann' },
     { name: 'Tyrese Martin', position: 'F', number: 13, profileLink: '/nba/nets/tyrese-martin' },
     { name: 'Michael Porter Jr.', position: 'F', number: 17, profileLink: '/nba/nets/michael-porter-jr' },
     { name: 'Drake Powell', position: 'G', number: 4, profileLink: '/nba/nets/drake-powell' },
     { name: 'Ben Saraf', position: 'G', number: 77, profileLink: '/nba/nets/ben-saraf' },
-    { name: 'Drew Timme', position: 'F', number: 26, profileLink: '/nba/nets/drew-timme' },
     { name: 'Nolan Traore', position: 'G', number: 19, profileLink: '/nba/nets/nolan-traore' },
-    { name: 'Dariq Whitehead', position: 'F', number: 0, profileLink: '/nba/nets/dariq-whitehead' },
+    { name: 'Danny Wolf', position: 'F', number: 0, profileLink: '/nba/nets/dariq-whitehead' },
     { name: 'Jalen Wilson', position: 'F', number: 22, profileLink: '/nba/nets/jalen-wilson' },
-    // Add Ricky Council IV if you'd like, though his number isn't listed yet
   ];
 
   return (

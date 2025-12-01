@@ -20,7 +20,7 @@ const MatthewStafford = () => {
 
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/los-angeles-rams-matthew-stafford-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/12483.png&w=350&h=254"
             alt="Matthew Stafford"
             className="profile-img"
           />

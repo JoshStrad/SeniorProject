@@ -19,7 +19,7 @@ const CamWard = () => {
 
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/tennessee-titans-cam-ward-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4688380.png&w=350&h=254"
             alt="Cam Ward"
             className="profile-img"
           />

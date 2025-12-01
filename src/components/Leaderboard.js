@@ -11,9 +11,9 @@ const Leaderboard = () => {
         <div className="leader-card aura-card">
           <h3>NFL Passing Yards (2024)</h3>
           <ul>
-            <li><a href="/nfl/players/patrick-mahomes">Patrick Mahomes — 5,100</a></li>
-            <li><a href="/nfl/players/justin-herbert">Justin Herbert — 4,900</a></li>
-            <li><a href="/nfl/players/josh-allen">Josh Allen — 4,600</a></li>
+            <li><a href="/nfl/chiefs/patrick-mahomes">Patrick Mahomes — 5,100</a></li>
+            <li><a href="/nfl/chargers/justin-herbert">Justin Herbert — 4,900</a></li>
+            <li><a href="/nfl/bills/josh-allen">Josh Allen — 4,600</a></li>
           </ul>
         </div>
 

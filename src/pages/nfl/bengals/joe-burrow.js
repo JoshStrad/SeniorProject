@@ -18,7 +18,7 @@ const JoeBurrow = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/cincinnati-bengals-joe-burrow-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3915511.png&w=350&h=254"
             alt="Joe Burrow"
             className="profile-img"
           />

@@ -20,7 +20,7 @@ const DakPrescott = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/dallas-cowboys-dak-prescott-min--2l07qz-z.png"
+            src=""
             alt="Dak Prescott"
             className="profile-img"
           />

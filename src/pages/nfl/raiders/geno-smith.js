@@ -21,7 +21,7 @@ const GenoSmith = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/las-vegas-raiders-geno-smith-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/15864.png&w=350&h=254"
             alt="Geno Smith"
             className="profile-img"
           />

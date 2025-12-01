@@ -20,7 +20,7 @@ const LamarJackson = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/baltimore-ravens-lamar-jackson-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916387.png&w=350&h=254"
             alt="Lamar Jackson"
             className="profile-img"
           />

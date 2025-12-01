@@ -21,7 +21,7 @@ const JustinFields = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/new-york-jets-justin-fields-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4362887.png&w=350&h=254"
             alt="Justin Fields"
             className="profile-img"
           />

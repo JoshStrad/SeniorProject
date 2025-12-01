@@ -20,7 +20,7 @@ const JaxsonDart = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/new-york-giants-jaxson-dart-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4689114.png&w=350&h=254"
             alt="Jaxson Dart"
             className="profile-img"
           />

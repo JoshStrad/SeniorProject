@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../../../components/Header';
-import './bears.css'; // Player-specific CSS
+import './bears.css'; 
 
 const CalebWilliams = () => {
   const seasons = ['2024', '2025'];
@@ -20,7 +20,7 @@ const CalebWilliams = () => {
         {/* Player Image */}
         <div className="player-image">
           <img
-            src="https://cdn.statmuse.com/img/nfl/players/chicago-bears-caleb-williams-min--2l07qz-z.png"
+            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4361741.png&w=350&h=254"
             alt="Caleb Williams"
             className="profile-img"
           />
