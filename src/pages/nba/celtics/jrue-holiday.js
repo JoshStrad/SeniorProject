@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../../../components/Header';
 import Footer from '../../../components/Footer';
-import './jaylen-brown.css'; // Import the player-specific CSS
+
 
 const JrueHoliday = () => {
   return (
