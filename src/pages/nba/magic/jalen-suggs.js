@@ -1,7 +1,7 @@
  import React from 'react';
  import NBAPlayerProfile from '../../../components/NBAPlayerProfile';
  import './magic-player.css';
- import playerData from '../../../../scrapeddata/nba/players/jalen-brunson.json';
+ import playerData from '../../../../scrapeddata/nba/players/jalen-suggs.json';
  
  const  NBAPlayer = () => {
    return (

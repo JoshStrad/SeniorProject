@@ -1,7 +1,7 @@
  import React from 'react';
  import NBAPlayerProfile from '../../../components/NBAPlayerProfile';
  import './magic-player.css';
- import playerData from '../../../../scrapeddata/nba/players/damian-lillard.json';
+ import playerData from '../../../../scrapeddata/nba/players/moritz-wagner.json';
  
  const  NBAPlayer = () => {
    return (

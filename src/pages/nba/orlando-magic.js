@@ -9,7 +9,7 @@ const OrlandoMagic = () => {
     { name: 'Desmond Bane', position: 'SG', number: 3, profileLink: '/nba/magic/desmond-bane' },
     { name: 'Goga Bitadze', position: 'C', number: 35, profileLink: '/nba/magic/goga-bitadze' },
     { name: 'Anthony Black', position: 'G', number: 0, profileLink: '/nba/magic/anthony-black' },
-    { name: 'Wendell Carter Jr.', position: 'C', number: 34, profileLink: '/nba/magic/wendell-carter' },
+    { name: 'Wendell Carter Jr.', position: 'C', number: 34, profileLink: '/nba/magic/wendell-carter-jr' },
     { name: 'Tristan da Silva', position: 'F', number: 23, profileLink: '/nba/magic/tristan-dasilva' },
     { name: 'Jett Howard', position: 'G', number: 13, profileLink: '/nba/magic/jet-howard' },
     { name: 'Jonathan Isaac', position: 'PF', number: 1, profileLink: '/nba/magic/jonathan-isaac' },

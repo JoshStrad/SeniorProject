@@ -17,7 +17,7 @@ const nflTeams = {
     North: [
       { name: 'Baltimore Ravens', path: '/nfl/baltimore-ravens', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
       { name: 'Cincinnati Bengals', path: '/nfl/cincinnati-bengals', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cin.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
-      { name: 'Cleveland Browns', path: '/nfl/cleveland-browns', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cle.png&scale=crop&cquality=40&location=origin&w=80&h=80g' },
+      { name: 'Cleveland Browns', path: '/nfl/cleveland-browns', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cle.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
       { name: 'Pittsburgh Steelers', path: '/nfl/pittsburgh-steelers', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/pit.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
     ],
     South: [

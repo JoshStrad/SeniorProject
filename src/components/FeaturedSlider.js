@@ -26,7 +26,7 @@ const FeaturedSlider = () => {
           src="https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3136193.png&w=350&h=254"
           alt="Devin Booker"
         />
-        <p>2026 season stats: 27.8 ppg 7.0 apg</p>
+        <p>2026 season stats: 26.1 ppg 6.0 apg</p>
         </a>
       </div>
 
@@ -37,7 +37,7 @@ const FeaturedSlider = () => {
           src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3139477.png"
           alt="Patrick Mahomes"
         />
-        <p>2023-24 season stats: 4378 passing yards 37 TDs</p>
+        <p>2025-26 season stats: 3587 passing yards 22 TDs</p>
         </a>
       </div>
 
@@ -48,7 +48,7 @@ const FeaturedSlider = () => {
           src="https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/39832.png&w=350&h=254"
           alt="Shohei Ohtani"
         />
-        <p>2023 season stats: 3.86 ERA 186.2 IP 281Ks</p>
+        <p>2026 current season stats: 0.50 ERA 0.72 WHIP 18Ks</p>
         </a>
       </div>
 
@@ -59,7 +59,7 @@ const FeaturedSlider = () => {
           src="https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/4307825.png&w=350&h=254"
           alt="Spencer Strider"
         />
-        <p>2023 season stats: 3.14 ERA 132.2 IP 167Ks</p>
+        <p>2025 season stats: 4.45 ERA 125.2 IP 131Ks</p>
         </a>
       </div>
 
@@ -70,7 +70,7 @@ const FeaturedSlider = () => {
           src="https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4038941.png&w=350&h=254"
           alt="Justin Herbert"
         />
-        <p>2023 season stats: 3,134 pass yards 20 TDs (13 Games)</p>
+        <p>2025-26 season stats: 3,727 pass yards 26 TDs</p>
         </a>
       </div>
 
@@ -81,7 +81,7 @@ const FeaturedSlider = () => {
           src="https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3945274.png&w=350&h=254"
           alt="Luka Doncic"
         />
-        <p>2023 current season stats: 34.0 PPG 9.0 RPG 9.9 APG</p>
+        <p>2025-26 season stats: 33.5 PPG 7.7 RPG 8.3 APG</p>
         </a>
       </div>
 
@@ -92,7 +92,7 @@ const FeaturedSlider = () => {
           src="https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/1966.png&w=350&h=254"
           alt="LeBron James"
         />
-        <p>2024 current season stats: 25.4 PPG 7.2 RPG 8.1 APG</p>
+        <p>2025-26 season stats: 20.4 PPG 6.1 RPG 7.2 APG</p>
         </a>
       </div>
     </Slider>
