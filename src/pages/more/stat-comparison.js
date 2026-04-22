@@ -226,8 +226,8 @@ const StatComparisonPage = ({ data }) => {
       <Header />
       <main className="comparison-page">
         <section className="comparison-hero aura-card">
-          <h1>STAT COMPARISON</h1>
-          <p>Compare NBA players, NFL quarterbacks, and MLB pitchers on one page.</p>
+          <h1>Stat Comparison</h1>
+          <p>Compare NBA players, NFL quarterbacks, and MLB pitchers</p>
         </section>
 
         <section className="comparison-top aura-card">
