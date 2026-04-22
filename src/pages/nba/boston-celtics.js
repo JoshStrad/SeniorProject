@@ -16,7 +16,7 @@ const BostonCeltics = () => {
     { name: 'Ron Harper', position: 'PF', number: 13, profileLink: '/nba/celtics/ron-harperjr' },
     { name: 'Nikola Vucevic', position: 'C', number: 28, profileLink: '/nba/celtics/nikola-vucevic' },
     { name: 'Baylor Scheierman', position: 'SG', number: 55, profileLink: '/nba/celtics/baylor-scheierman' },
-    { name: 'Sam Houser', position: 'SF', number: 30, profileLink: '/nba/boston-celtics/sam-hauser' },
+    { name: 'Sam Houser', position: 'SF', number: 30, profileLink: '/nba/celtics/sam-hauser' },
   ];
 
   return (
