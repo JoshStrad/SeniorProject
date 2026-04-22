@@ -1,5 +1,9 @@
 {
   "player_name": "Aaron Holiday",
+  "team": "HOU",
+  "team_slug": "rockets",
+  "league": "NBA",
+  "slug": "/nba/rockets/aaron-holiday",
   "source_file": "bbr-aaron-holiday.html",
   "meta": {
     "position": "Point Guard",

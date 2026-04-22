@@ -1,5 +1,9 @@
 {
   "player_name": "Jaylen Clark",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/jaylen-clark",
   "source_file": "bbr-jaylen-clark.html",
   "meta": {
     "position": "Shooting Guard",

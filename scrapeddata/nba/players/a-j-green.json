@@ -1,5 +1,9 @@
 {
   "player_name": "A.J. Green",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/a-j-green",
   "source_file": "bbr-aj-green.html",
   "meta": {
     "position": "Shooting Guard",

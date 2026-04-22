@@ -1,5 +1,9 @@
 {
   "player_name": "Tyrese Haliburton",
+  "team": "IND",
+  "team_slug": "pacers",
+  "league": "NBA",
+  "slug": "/nba/pacers/tyrese-haliburton",
   "source_file": "bbr-tyrese-haliburton.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

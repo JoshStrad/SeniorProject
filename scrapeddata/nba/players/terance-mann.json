@@ -1,5 +1,9 @@
 {
   "player_name": "Terance Mann",
+  "team": "ATL",
+  "team_slug": "hawks",
+  "league": "NBA",
+  "slug": "/nba/hawks/terance-mann",
   "source_file": "bbr-terance-mann.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

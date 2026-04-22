@@ -1,5 +1,9 @@
 {
   "player_name": "Julius Randle",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/julius-randle",
   "source_file": "bbr-julius-randle.html",
   "meta": {
     "position": "Power Forward and Center",

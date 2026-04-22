@@ -1,22 +1,4 @@
-/* Base layout */
-.profile-container {
-  color: white;
-  padding: 20px;
-  text-align: center;
-  position: relative;
-}
-
-/* Commanders aura (burgundy + gold) */
-.commanders-aura {
-  background:
-    radial-gradient(60% 60% at 50% 20%, rgba(63, 16, 16, 0.35), transparent 70%),
-    radial-gradient(40% 40% at 80% 10%, rgba(255, 186, 0, 0.22), transparent 70%);
-  box-shadow:
-    0 0 40px 10px rgba(63, 16, 16, 0.4) inset,
-    0 0 80px rgba(255, 186, 0, 0.25);
-}
-
-/* Image */
+/* profile image */
 .profile-img {
   max-width: 500px;
   height: auto;
@@ -50,13 +32,54 @@
   background: rgba(255, 186, 0, 0.12);
 }
 
-/* Video */
-.highlight-video {
-  margin: 28px auto 0;
-  max-width: 900px;
+.latest-season-box {
+  margin: 40px auto;
+  padding: 25px 30px;
+  max-width: 700px;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.12);
+  text-align: center;
+  color: #f5f5f5; /* base text color */
 }
-.highlight-video iframe {
-  width: 100%;
-  aspect-ratio: 16/9;
-  border-radius: 12px;
+
+.latest-season-box h2 {
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+/* grid layout */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px 25px;
+  text-align: left;
+}
+
+/* stat rows */
+.stats-grid p {
+  margin: 4px 0;
+  font-size: 1rem;
+  color: #e8e8e8; 
+}
+
+/* labels */
+.stats-grid strong {
+  color: #ffffff; 
+  font-weight: 600;
+}
+
+/* stat tiles */
+.stats-grid p {
+  background: rgba(255, 255, 255, 0.06);
+  padding: 8px 10px;
+  border-radius: 8px;
+}
+
+/* mobile */
+@media (max-width: 600px) {
+  .stats-grid {
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
 }

@@ -1,5 +1,9 @@
 {
   "player_name": "Isaiah Jackson",
+  "team": "IND",
+  "team_slug": "pacers",
+  "league": "NBA",
+  "slug": "/nba/pacers/isaiah-jackson",
   "source_file": "bbr-isaiah-jackson.html",
   "meta": {
     "position": "Center",

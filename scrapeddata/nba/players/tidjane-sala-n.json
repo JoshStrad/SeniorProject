@@ -1,5 +1,9 @@
 {
   "player_name": "Tidjane Sala\u00fcn",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/tidjane-sala-n",
   "source_file": "bbr-tidjane-salaun.html",
   "meta": {
     "position": "Power Forward",

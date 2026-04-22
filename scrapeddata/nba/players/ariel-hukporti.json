@@ -1,5 +1,9 @@
 {
   "player_name": "Ariel Hukporti",
+  "team": "NYK",
+  "team_slug": "knicks",
+  "league": "NBA",
+  "slug": "/nba/knicks/ariel-hukporti",
   "source_file": "bbr-ariel-hukporti.html",
   "meta": {
     "position": "Center",

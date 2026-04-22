@@ -1,5 +1,9 @@
 {
   "player_name": "JD Davison",
+  "team": "HOU",
+  "team_slug": "rockets",
+  "league": "NBA",
+  "slug": "/nba/rockets/jd-davison",
   "source_file": "bbr-jd-davison.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

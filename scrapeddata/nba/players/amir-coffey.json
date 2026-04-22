@@ -1,5 +1,9 @@
 {
   "player_name": "Amir Coffey",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/amir-coffey",
   "source_file": "bbr-amir-coffey.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

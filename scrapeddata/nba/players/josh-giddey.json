@@ -1,5 +1,9 @@
 {
   "player_name": "Josh Giddey",
+  "team": "CHI",
+  "team_slug": "bulls",
+  "league": "NBA",
+  "slug": "/nba/bulls/josh-giddey",
   "source_file": "bbr-josh-giddey.html",
   "meta": {
     "position": "Point Guard, Shooting Guard, Power Forward, and Small Forward",

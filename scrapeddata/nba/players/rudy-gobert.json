@@ -1,5 +1,9 @@
 {
   "player_name": "Rudy Gobert",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/rudy-gobert",
   "source_file": "bbr-rudy-gobert.html",
   "meta": {
     "position": "Center",

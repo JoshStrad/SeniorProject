@@ -1,5 +1,9 @@
 {
   "player_name": "Amen Thompson",
+  "team": "HOU",
+  "team_slug": "rockets",
+  "league": "NBA",
+  "slug": "/nba/rockets/amen-thompson",
   "source_file": "bbr-amen-thompson.html",
   "meta": {
     "position": "Small Forward",

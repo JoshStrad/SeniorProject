@@ -1,5 +1,9 @@
 {
   "player_name": "Santi Aldama",
+  "team": "MEM",
+  "team_slug": "grizzlies",
+  "league": "NBA",
+  "slug": "/nba/grizzlies/santi-aldama",
   "source_file": "bbr-santi-aldama.html",
   "meta": {
     "position": "Power Forward",

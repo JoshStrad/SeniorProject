@@ -1,5 +1,9 @@
 {
   "player_name": "Bradley Beal",
+  "team": "LAC",
+  "team_slug": "clippers",
+  "league": "NBA",
+  "slug": "/nba/clippers/bradley-beal",
   "source_file": "bbr-bradley-beal.html",
   "meta": {
     "position": "Shooting Guard",

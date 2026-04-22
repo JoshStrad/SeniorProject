@@ -1,5 +1,9 @@
 {
   "player_name": "Alex Caruso",
+  "team": "OKC",
+  "team_slug": "thunder",
+  "league": "NBA",
+  "slug": "/nba/thunder/alex-caruso",
   "source_file": "bbr-alex-caruso.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

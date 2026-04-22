@@ -1,5 +1,9 @@
 {
   "player_name": "Jonathan Mogbo",
+  "team": "TOR",
+  "team_slug": "raptors",
+  "league": "NBA",
+  "slug": "/nba/raptors/jonathan-mogbo",
   "source_file": "bbr-jonathan-mogbo.html",
   "meta": {
     "position": "Power Forward",

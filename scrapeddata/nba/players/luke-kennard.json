@@ -1,5 +1,9 @@
 {
   "player_name": "Luke Kennard",
+  "team": "ATL",
+  "team_slug": "hawks",
+  "league": "NBA",
+  "slug": "/nba/hawks/luke-kennard",
   "source_file": "bbr-luke-kennard.html",
   "meta": {
     "position": "Shooting Guard",

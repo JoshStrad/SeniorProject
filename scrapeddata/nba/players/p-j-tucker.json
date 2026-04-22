@@ -1,5 +1,9 @@
 {
   "player_name": "P.J. Tucker",
+  "team": "NYK",
+  "team_slug": "knicks",
+  "league": "NBA",
+  "slug": "/nba/knicks/p-j-tucker",
   "source_file": "bbr-pj-tucker.html",
   "meta": {
     "position": "Small Forward, Power Forward, and Shooting Guard",

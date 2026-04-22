@@ -1,5 +1,9 @@
 {
   "player_name": "Cam Thomas",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/cam-thomas",
   "source_file": "bbr-cam-thomas.html",
   "meta": {
     "position": "Shooting Guard",

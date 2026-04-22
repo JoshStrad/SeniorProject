@@ -1,5 +1,9 @@
 {
   "player_name": "Bogdan Bogdanovi\u0107",
+  "team": "LAC",
+  "team_slug": "clippers",
+  "league": "NBA",
+  "slug": "/nba/clippers/bogdan-bogdanovi",
   "source_file": "bbr-bogdan-bogdanovic.html",
   "meta": {
     "position": "Shooting Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Jusuf Nurki\u0107",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/jusuf-nurki",
   "source_file": "bbr-jusuf-nurkic.html",
   "meta": {
     "position": "Center",

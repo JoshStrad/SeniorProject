@@ -1,5 +1,9 @@
 {
   "player_name": "Daniss Jenkins",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/daniss-jenkins",
   "source_file": "bbr-daniss-jenkins.html",
   "meta": {
     "position": "Point Guard",

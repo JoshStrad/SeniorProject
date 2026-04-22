@@ -1,5 +1,9 @@
 {
   "player_name": "Luke Kornet",
+  "team": "SAS",
+  "team_slug": "spurs",
+  "league": "NBA",
+  "slug": "/nba/spurs/luke-kornet",
   "source_file": "bbr-luke-kornet.html",
   "meta": {
     "position": "Center",

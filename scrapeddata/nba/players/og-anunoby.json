@@ -1,5 +1,9 @@
 {
   "player_name": "OG Anunoby",
+  "team": "NYK",
+  "team_slug": "knicks",
+  "league": "NBA",
+  "slug": "/nba/knicks/og-anunoby",
   "source_file": "bbr-og-anunoby.html",
   "meta": {
     "position": "Small Forward and Power Forward",

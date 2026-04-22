@@ -4,57 +4,59 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import './nfl.css';
 
+
+// NFL data grouped by conference and division
 const nflTeams = {
   AFC: {
     East: [
-      { name: 'Buffalo Bills', path: '/nfl/buffalo-bills', logo: 'https://banner2.cleanpng.com/20180718/eap/kisspng-buffalo-bills-nfl-indianapolis-colts-tennessee-tit-us-open-5b4fbbbf530526.7662367615319520633401.jpg' },
-      { name: 'Miami Dolphins', path: '/nfl/miami-dolphins', logo: 'https://e7.pngegg.com/pngimages/982/491/png-clipart-miami-dolphins-logo-miami-dolphins-logo-sports-nfl-football.png' },
-      { name: 'New England Patriots', path: '/nfl/new-england-patriots', logo: 'https://e7.pngegg.com/pngimages/773/222/png-clipart-new-england-patriots-logo-new-england-patriots-logo-sports-nfl-football.png' },
-      { name: 'New York Jets', path: '/nfl/new-york-jets', logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmo5JJNN18MJVRYdMb7mI0UGyYt7vCTKCezw&s' },
+      { name: 'Buffalo Bills', path: '/nfl/buffalo-bills', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/buf.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Miami Dolphins', path: '/nfl/miami-dolphins', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/mia.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'New England Patriots', path: '/nfl/new-england-patriots', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ne.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'New York Jets', path: '/nfl/new-york-jets', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/nyj.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
     ],
     North: [
-      { name: 'Baltimore Ravens', path: '/nfl/baltimore-ravens', logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKAMtOpAqFTgVflJKQ6_AhEQk_Sw7-I-cDpA&s' },
-      { name: 'Cincinnati Bengals', path: '/nfl/cincinnati-bengals', logo: 'https://e7.pngegg.com/pngimages/621/742/png-clipart-cincinnati-bengals-nfl-atlanta-falcons-new-england-patriots-cincinnati-bengals-text-orange.png' },
-      { name: 'Cleveland Browns', path: '/nfl/cleveland-browns', logo: 'https://e7.pngegg.com/pngimages/202/414/png-clipart-logos-and-uniforms-of-the-cleveland-browns-nfl-pittsburgh-steelers-buffalo-bills-nfl-brown-sport-thumbnail.png' },
-      { name: 'Pittsburgh Steelers', path: '/nfl/pittsburgh-steelers', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pittsburgh_Steelers_logo.svg/768px-Pittsburgh_Steelers_logo.svg.png' },
+      { name: 'Baltimore Ravens', path: '/nfl/baltimore-ravens', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/bal.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Cincinnati Bengals', path: '/nfl/cincinnati-bengals', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cin.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Cleveland Browns', path: '/nfl/cleveland-browns', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/cle.png&scale=crop&cquality=40&location=origin&w=80&h=80g' },
+      { name: 'Pittsburgh Steelers', path: '/nfl/pittsburgh-steelers', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/pit.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
     ],
     South: [
-      { name: 'Houston Texans', path: '/nfl/houston-texans', logo: 'https://loodibee.com/wp-content/uploads/nfl-houston-texans-team-logo.png' },
-      { name: 'Indianapolis Colts', path: '/nfl/indianapolis-colts', logo: 'https://loodibee.com/wp-content/uploads/nfl-indianapolis-colts-team-logo.png' },
-      { name: 'Jacksonville Jaguars', path: '/nfl/jacksonville-jaguars', logo: 'https://loodibee.com/wp-content/uploads/nfl-jacksonville-jaguars-team-logo.png' },
-      { name: 'Tennessee Titans', path: '/nfl/tennessee-titans', logo: 'https://loodibee.com/wp-content/uploads/nfl-tennessee-titans-team-logo.png' },
+      { name: 'Houston Texans', path: '/nfl/houston-texans', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/hou.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Indianapolis Colts', path: '/nfl/indianapolis-colts', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ind.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Jacksonville Jaguars', path: '/nfl/jacksonville-jaguars', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/jax.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Tennessee Titans', path: '/nfl/tennessee-titans', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ten.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
     ],
     West: [
-      { name: 'Denver Broncos', path: '/nfl/denver-broncos', logo: 'https://cdn.freebiesupply.com/images/thumbs/2x/denver-broncos-logo.png' },
-      { name: 'Kansas City Chiefs', path: '/nfl/kansas-city-chiefs', logo: 'https://cdn.freebiesupply.com/images/thumbs/2x/kansas-city-chiefs-logo.png' },
-      { name: 'Las Vegas Raiders', path: '/nfl/las-vegas-raiders', logo: 'https://mascothalloffame.com/wp-content/uploads/2023/03/oakland-raiders-logo-transparent.png' },
-      { name: 'Los Angeles Chargers', path: '/nfl/la-chargers', logo: 'https://cdn.freebiesupply.com/images/thumbs/2x/los-angeles-chargers-logo.png' },
+      { name: 'Denver Broncos', path: '/nfl/denver-broncos', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/den.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Kansas City Chiefs', path: '/nfl/kansas-city-chiefs', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/kc.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Las Vegas Raiders', path: '/nfl/las-vegas-raiders', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lv.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Los Angeles Chargers', path: '/nfl/la-chargers', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lac.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
     ],
   },
   NFC: {
     East: [
-      { name: 'Dallas Cowboys', path: '/nfl/dallas-cowboys', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dallas_Cowboys.svg/2153px-Dallas_Cowboys.svg.png' },
-      { name: 'New York Giants', path: '/nfl/new-york-giants', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/New_York_Giants_logo.svg/2560px-New_York_Giants_logo.svg.png' },
-      { name: 'Philadelphia Eagles', path: '/nfl/philadelphia-eagles', logo: 'https://cdn.freebiesupply.com/logos/large/2x/philadelphia-eagles-logo.png' },
-      { name: 'Washington Commanders', path: '/nfl/washington-commanders', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Washington_Commanders_logo.svg/1280px-Washington_Commanders_logo.svg.png' },
+      { name: 'Dallas Cowboys', path: '/nfl/dallas-cowboys', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/dal.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'New York Giants', path: '/nfl/new-york-giants', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/nyg.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Philadelphia Eagles', path: '/nfl/philadelphia-eagles', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/phi.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Washington Commanders', path: '/nfl/washington-commanders', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/wsh.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
     ],
     North: [
-      { name: 'Chicago Bears', path: '/nfl/chicago-bears', logo: 'https://loodibee.com/wp-content/uploads/nfl-chicago-bears-team-logo-2.png' },
-      { name: 'Detroit Lions', path: '/nfl/detroit-lions', logo: 'https://loodibee.com/wp-content/uploads/nfl-detroit-lions-team-logo.png' },
-      { name: 'Green Bay Packers', path: '/nfl/green-bay-packers', logo: 'https://cdn.freebiesupply.com/images/thumbs/2x/green-bay-packers-logo.png' },
-      { name: 'Minnesota Vikings', path: '/nfl/minnesota-vikings', logo: 'https://loodibee.com/wp-content/uploads/nfl-minnesota-vikings-team-logo.png' },
+      { name: 'Chicago Bears', path: '/nfl/chicago-bears', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/chi.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Detroit Lions', path: '/nfl/detroit-lions', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/det.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Green Bay Packers', path: '/nfl/green-bay-packers', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/gb.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Minnesota Vikings', path: '/nfl/minnesota-vikings', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/min.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
     ],
     South: [
-      { name: 'Atlanta Falcons', path: '/nfl/atlanta-falcons', logo: 'https://cdn.freebiesupply.com/images/thumbs/2x/atlanta-falcons-logo.png' },
-      { name: 'Carolina Panthers', path: '/nfl/carolina-panthers', logo: 'https://cdn.freebiesupply.com/images/large/2x/carolina-panthers-logo-transparent.png' },
-      { name: 'New Orleans Saints', path: '/nfl/new-orleans-saints', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/New_Orleans_Saints_logo.svg/840px-New_Orleans_Saints_logo.svg.png' },
-      { name: 'Tampa Bay Buccaneers', path: '/nfl/tampa-bay-buccaneers', logo: 'https://tampabayscouting.org/wp-content/uploads/2018/10/tampa-bay-buccaneers-logo-transparent.png' },
+      { name: 'Atlanta Falcons', path: '/nfl/atlanta-falcons', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/atl.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Carolina Panthers', path: '/nfl/carolina-panthers', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/car.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'New Orleans Saints', path: '/nfl/new-orleans-saints', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/no.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Tampa Bay Buccaneers', path: '/nfl/tampa-bay-buccaneers', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/tb.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
     ],
     West: [
-      { name: 'Arizona Cardinals', path: '/nfl/arizona-cardinals', logo: 'https://cdn.freebiesupply.com/images/large/2x/arizona-cardinals-logo-transparent.png' },
-      { name: 'Los Angeles Rams', path: '/nfl/la-rams', logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjXm8XqxbX4scFZ3vLngQ3VZ2AK2fa5miTUw&s' },
-      { name: 'San Francisco 49ers', path: '/nfl/san-francisco-49ers', logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/San_Francisco_49ers_logo.svg/1280px-San_Francisco_49ers_logo.svg.png' },
-      { name: 'Seattle Seahawks', path: '/nfl/seattle-seahawks', logo: 'https://cdn.freebiesupply.com/images/large/2x/seattle-seahawks-logo-black-and-white.png' },
+      { name: 'Arizona Cardinals', path: '/nfl/arizona-cardinals', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/ari.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Los Angeles Rams', path: '/nfl/la-rams', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/lar.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'San Francisco 49ers', path: '/nfl/san-francisco-49ers', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sf.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
+      { name: 'Seattle Seahawks', path: '/nfl/seattle-seahawks', logo: 'https://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/sea.png&scale=crop&cquality=40&location=origin&w=80&h=80' },
     ],
   },
 };

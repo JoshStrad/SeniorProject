@@ -1,0 +1,6730 @@
+[
+  {
+    "player_name": "Adrian Martinez",
+    "team": "San Francisco 49ers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361182.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 0,
+        "att": 0,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": null,
+        "sacks": 0
+      }
+    ]
+  },
+  {
+    "player_name": "Aidan O'Connell",
+    "team": "Las Vegas Raiders",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4260394.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2023,
+        "cmp": 213,
+        "att": 343,
+        "cmp_pct": 62.1,
+        "pass_yds": 2218,
+        "pass_td": 12,
+        "pass_int": 7,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 83.9,
+        "qbr": 40.4,
+        "sacks": 24
+      },
+      {
+        "season": 2024,
+        "cmp": 154,
+        "att": 243,
+        "cmp_pct": 63.4,
+        "pass_yds": 1612,
+        "pass_td": 8,
+        "pass_int": 4,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 86.7,
+        "qbr": 46.8,
+        "sacks": 10
+      },
+      {
+        "season": 2025,
+        "cmp": 10,
+        "att": 22,
+        "cmp_pct": 45.5,
+        "pass_yds": 102,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 4.6,
+        "passer_rating": 59.3,
+        "qbr": 20.7,
+        "sacks": 1
+      }
+    ]
+  },
+  {
+    "player_name": "Andy Dalton",
+    "team": "Philadelphia Eagles",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/14012.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2011,
+        "cmp": 300,
+        "att": 516,
+        "cmp_pct": 58.1,
+        "pass_yds": 3398,
+        "pass_td": 20,
+        "pass_int": 13,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 80.4,
+        "qbr": 46.9,
+        "sacks": 24
+      },
+      {
+        "season": 2012,
+        "cmp": 329,
+        "att": 528,
+        "cmp_pct": 62.3,
+        "pass_yds": 3669,
+        "pass_td": 27,
+        "pass_int": 16,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 87.4,
+        "qbr": 47.7,
+        "sacks": 46
+      },
+      {
+        "season": 2013,
+        "cmp": 363,
+        "att": 586,
+        "cmp_pct": 61.9,
+        "pass_yds": 4293,
+        "pass_td": 33,
+        "pass_int": 20,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 56.3,
+        "qbr": 55.1,
+        "sacks": 29
+      },
+      {
+        "season": 2014,
+        "cmp": 309,
+        "att": 481,
+        "cmp_pct": 64.2,
+        "pass_yds": 3398,
+        "pass_td": 19,
+        "pass_int": 17,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 56.3,
+        "qbr": 48.5,
+        "sacks": 21
+      },
+      {
+        "season": 2015,
+        "cmp": 255,
+        "att": 386,
+        "cmp_pct": 66.1,
+        "pass_yds": 3250,
+        "pass_td": 25,
+        "pass_int": 7,
+        "yards_per_attempt": 8.4,
+        "passer_rating": 60.4,
+        "qbr": 70.0,
+        "sacks": 20
+      },
+      {
+        "season": 2016,
+        "cmp": 364,
+        "att": 563,
+        "cmp_pct": 64.7,
+        "pass_yds": 4206,
+        "pass_td": 18,
+        "pass_int": 8,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 56.3,
+        "qbr": 50.8,
+        "sacks": 41
+      },
+      {
+        "season": 2017,
+        "cmp": 297,
+        "att": 496,
+        "cmp_pct": 59.9,
+        "pass_yds": 3320,
+        "pass_td": 25,
+        "pass_int": 12,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 52.1,
+        "qbr": 45.5,
+        "sacks": 39
+      },
+      {
+        "season": 2018,
+        "cmp": 226,
+        "att": 365,
+        "cmp_pct": 61.9,
+        "pass_yds": 2566,
+        "pass_td": 21,
+        "pass_int": 11,
+        "yards_per_attempt": 7.0,
+        "passer_rating": 56.3,
+        "qbr": 62.3,
+        "sacks": 21
+      },
+      {
+        "season": 2019,
+        "cmp": 314,
+        "att": 528,
+        "cmp_pct": 59.5,
+        "pass_yds": 3494,
+        "pass_td": 16,
+        "pass_int": 14,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 52.1,
+        "qbr": 38.9,
+        "sacks": 37
+      },
+      {
+        "season": 2020,
+        "cmp": 216,
+        "att": 333,
+        "cmp_pct": 64.9,
+        "pass_yds": 2169,
+        "pass_td": 14,
+        "pass_int": 8,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 52.1,
+        "qbr": 42.3,
+        "sacks": 24
+      },
+      {
+        "season": 2021,
+        "cmp": 149,
+        "att": 236,
+        "cmp_pct": 63.1,
+        "pass_yds": 1515,
+        "pass_td": 8,
+        "pass_int": 9,
+        "yards_per_attempt": 6.4,
+        "passer_rating": 76.9,
+        "qbr": 37.8,
+        "sacks": 18
+      },
+      {
+        "season": 2022,
+        "cmp": 252,
+        "att": 378,
+        "cmp_pct": 66.7,
+        "pass_yds": 2871,
+        "pass_td": 18,
+        "pass_int": 9,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 95.2,
+        "qbr": 52.1,
+        "sacks": 25
+      },
+      {
+        "season": 2023,
+        "cmp": 34,
+        "att": 58,
+        "cmp_pct": 58.6,
+        "pass_yds": 361,
+        "pass_td": 2,
+        "pass_int": 0,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 88.4,
+        "qbr": 51.3,
+        "sacks": 3
+      },
+      {
+        "season": 2024,
+        "cmp": 106,
+        "att": 160,
+        "cmp_pct": 66.3,
+        "pass_yds": 989,
+        "pass_td": 7,
+        "pass_int": 6,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 82.0,
+        "qbr": 56.5,
+        "sacks": 7
+      },
+      {
+        "season": 2025,
+        "cmp": 25,
+        "att": 37,
+        "cmp_pct": 67.6,
+        "pass_yds": 293,
+        "pass_td": 1,
+        "pass_int": 1,
+        "yards_per_attempt": 7.9,
+        "passer_rating": 89.1,
+        "qbr": 13.0,
+        "sacks": 8
+      }
+    ]
+  },
+  {
+    "player_name": "Anthony Richardson Sr.",
+    "team": "Indianapolis Colts",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429084.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2023,
+        "cmp": 50,
+        "att": 84,
+        "cmp_pct": 59.5,
+        "pass_yds": 577,
+        "pass_td": 3,
+        "pass_int": 1,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 87.3,
+        "qbr": 49.0,
+        "sacks": 7
+      },
+      {
+        "season": 2024,
+        "cmp": 126,
+        "att": 264,
+        "cmp_pct": 47.7,
+        "pass_yds": 1814,
+        "pass_td": 8,
+        "pass_int": 12,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 61.6,
+        "qbr": 40.9,
+        "sacks": 14
+      },
+      {
+        "season": 2025,
+        "cmp": 1,
+        "att": 2,
+        "cmp_pct": 50.0,
+        "pass_yds": 9,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 4.5,
+        "passer_rating": 62.5,
+        "qbr": 22.0,
+        "sacks": 0
+      }
+    ]
+  },
+  {
+    "player_name": "Bailey Zappe",
+    "team": "New York Jets",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4250360.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2022,
+        "cmp": 65,
+        "att": 92,
+        "cmp_pct": 70.7,
+        "pass_yds": 781,
+        "pass_td": 5,
+        "pass_int": 3,
+        "yards_per_attempt": 8.5,
+        "passer_rating": 100.9,
+        "qbr": 38.7,
+        "sacks": 6
+      },
+      {
+        "season": 2023,
+        "cmp": 127,
+        "att": 212,
+        "cmp_pct": 59.9,
+        "pass_yds": 1272,
+        "pass_td": 6,
+        "pass_int": 9,
+        "yards_per_attempt": 6.0,
+        "passer_rating": 68.8,
+        "qbr": 21.4,
+        "sacks": 25
+      },
+      {
+        "season": 2024,
+        "cmp": 16,
+        "att": 31,
+        "cmp_pct": 51.6,
+        "pass_yds": 170,
+        "pass_td": 1,
+        "pass_int": 2,
+        "yards_per_attempt": 5.5,
+        "passer_rating": 51.8,
+        "qbr": 13.4,
+        "sacks": 1
+      }
+    ]
+  },
+  {
+    "player_name": "Baker Mayfield",
+    "team": "Tampa Bay Buccaneers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3052587.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2018,
+        "cmp": 310,
+        "att": 486,
+        "cmp_pct": 63.8,
+        "pass_yds": 3725,
+        "pass_td": 27,
+        "pass_int": 14,
+        "yards_per_attempt": 7.7,
+        "passer_rating": 56.3,
+        "qbr": 53.2,
+        "sacks": 25
+      },
+      {
+        "season": 2019,
+        "cmp": 317,
+        "att": 534,
+        "cmp_pct": 59.4,
+        "pass_yds": 3827,
+        "pass_td": 22,
+        "pass_int": 21,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 56.3,
+        "qbr": 51.2,
+        "sacks": 40
+      },
+      {
+        "season": 2020,
+        "cmp": 305,
+        "att": 486,
+        "cmp_pct": 62.8,
+        "pass_yds": 3563,
+        "pass_td": 26,
+        "pass_int": 8,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 56.3,
+        "qbr": 65.0,
+        "sacks": 26
+      },
+      {
+        "season": 2021,
+        "cmp": 253,
+        "att": 418,
+        "cmp_pct": 60.5,
+        "pass_yds": 3010,
+        "pass_td": 17,
+        "pass_int": 13,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 83.1,
+        "qbr": 40.6,
+        "sacks": 43
+      },
+      {
+        "season": 2022,
+        "cmp": 201,
+        "att": 335,
+        "cmp_pct": 60.0,
+        "pass_yds": 2163,
+        "pass_td": 10,
+        "pass_int": 8,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 79.0,
+        "qbr": 25.9,
+        "sacks": 36
+      },
+      {
+        "season": 2023,
+        "cmp": 364,
+        "att": 566,
+        "cmp_pct": 64.3,
+        "pass_yds": 4044,
+        "pass_td": 28,
+        "pass_int": 10,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 94.6,
+        "qbr": 55.8,
+        "sacks": 40
+      },
+      {
+        "season": 2024,
+        "cmp": 407,
+        "att": 570,
+        "cmp_pct": 71.4,
+        "pass_yds": 4500,
+        "pass_td": 41,
+        "pass_int": 16,
+        "yards_per_attempt": 7.9,
+        "passer_rating": 106.8,
+        "qbr": 61.4,
+        "sacks": 40
+      },
+      {
+        "season": 2025,
+        "cmp": 343,
+        "att": 543,
+        "cmp_pct": 63.2,
+        "pass_yds": 3693,
+        "pass_td": 26,
+        "pass_int": 11,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 90.6,
+        "qbr": 60.1,
+        "sacks": 36
+      }
+    ]
+  },
+  {
+    "player_name": "Bo Nix",
+    "team": "Denver Broncos",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426338.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "cmp": 376,
+        "att": 567,
+        "cmp_pct": 66.3,
+        "pass_yds": 3775,
+        "pass_td": 29,
+        "pass_int": 12,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 93.3,
+        "qbr": 54.4,
+        "sacks": 24
+      },
+      {
+        "season": 2025,
+        "cmp": 388,
+        "att": 612,
+        "cmp_pct": 63.4,
+        "pass_yds": 3931,
+        "pass_td": 25,
+        "pass_int": 11,
+        "yards_per_attempt": 6.4,
+        "passer_rating": 87.8,
+        "qbr": 60.0,
+        "sacks": 22
+      }
+    ]
+  },
+  {
+    "player_name": "Brady Cook",
+    "team": "New York Jets",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429435.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 88,
+        "att": 153,
+        "cmp_pct": 57.5,
+        "pass_yds": 739,
+        "pass_td": 2,
+        "pass_int": 7,
+        "yards_per_attempt": 4.8,
+        "passer_rating": 55.4,
+        "qbr": 11.1,
+        "sacks": 19
+      }
+    ]
+  },
+  {
+    "player_name": "Brandon Allen",
+    "team": "New York Giants",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2574511.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2019,
+        "cmp": 39,
+        "att": 84,
+        "cmp_pct": 46.4,
+        "pass_yds": 515,
+        "pass_td": 3,
+        "pass_int": 2,
+        "yards_per_attempt": 6.1,
+        "passer_rating": 52.1,
+        "qbr": 35.4,
+        "sacks": 9
+      },
+      {
+        "season": 2020,
+        "cmp": 90,
+        "att": 142,
+        "cmp_pct": 63.4,
+        "pass_yds": 925,
+        "pass_td": 5,
+        "pass_int": 4,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 52.1,
+        "qbr": 40.0,
+        "sacks": 7
+      },
+      {
+        "season": 2021,
+        "cmp": 17,
+        "att": 34,
+        "cmp_pct": 50.0,
+        "pass_yds": 149,
+        "pass_td": 2,
+        "pass_int": 0,
+        "yards_per_attempt": 4.4,
+        "passer_rating": 81.6,
+        "qbr": 7.2,
+        "sacks": 4
+      },
+      {
+        "season": 2022,
+        "cmp": 3,
+        "att": 3,
+        "cmp_pct": 100.0,
+        "pass_yds": 22,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 97.2,
+        "qbr": 49.1,
+        "sacks": 1
+      },
+      {
+        "season": 2024,
+        "cmp": 17,
+        "att": 30,
+        "cmp_pct": 56.7,
+        "pass_yds": 199,
+        "pass_td": 1,
+        "pass_int": 2,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 60.3,
+        "qbr": 23.8,
+        "sacks": 2
+      },
+      {
+        "season": 2025,
+        "cmp": 17,
+        "att": 30,
+        "cmp_pct": 56.7,
+        "pass_yds": 72,
+        "pass_td": 0,
+        "pass_int": 1,
+        "yards_per_attempt": 2.4,
+        "passer_rating": 47.9,
+        "qbr": 8.7,
+        "sacks": 1
+      }
+    ]
+  },
+  {
+    "player_name": "Brock Purdy",
+    "team": "San Francisco 49ers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361741.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2022,
+        "cmp": 114,
+        "att": 170,
+        "cmp_pct": 67.1,
+        "pass_yds": 1374,
+        "pass_td": 13,
+        "pass_int": 4,
+        "yards_per_attempt": 8.1,
+        "passer_rating": 107.3,
+        "qbr": 70.9,
+        "sacks": 11
+      },
+      {
+        "season": 2023,
+        "cmp": 308,
+        "att": 444,
+        "cmp_pct": 69.4,
+        "pass_yds": 4280,
+        "pass_td": 31,
+        "pass_int": 11,
+        "yards_per_attempt": 9.6,
+        "passer_rating": 113.0,
+        "qbr": 73.0,
+        "sacks": 28
+      },
+      {
+        "season": 2024,
+        "cmp": 300,
+        "att": 455,
+        "cmp_pct": 65.9,
+        "pass_yds": 3864,
+        "pass_td": 20,
+        "pass_int": 12,
+        "yards_per_attempt": 8.5,
+        "passer_rating": 96.1,
+        "qbr": 64.4,
+        "sacks": 31
+      },
+      {
+        "season": 2025,
+        "cmp": 197,
+        "att": 284,
+        "cmp_pct": 69.4,
+        "pass_yds": 2167,
+        "pass_td": 20,
+        "pass_int": 10,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 100.5,
+        "qbr": 72.4,
+        "sacks": 11
+      }
+    ]
+  },
+  {
+    "player_name": "Bryce Young",
+    "team": "Carolina Panthers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685720.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2023,
+        "cmp": 315,
+        "att": 527,
+        "cmp_pct": 59.8,
+        "pass_yds": 2877,
+        "pass_td": 11,
+        "pass_int": 10,
+        "yards_per_attempt": 5.5,
+        "passer_rating": 73.7,
+        "qbr": 35.2,
+        "sacks": 62
+      },
+      {
+        "season": 2024,
+        "cmp": 234,
+        "att": 384,
+        "cmp_pct": 60.9,
+        "pass_yds": 2403,
+        "pass_td": 15,
+        "pass_int": 9,
+        "yards_per_attempt": 6.3,
+        "passer_rating": 82.2,
+        "qbr": 54.0,
+        "sacks": 29
+      },
+      {
+        "season": 2025,
+        "cmp": 304,
+        "att": 478,
+        "cmp_pct": 63.6,
+        "pass_yds": 3011,
+        "pass_td": 23,
+        "pass_int": 11,
+        "yards_per_attempt": 6.3,
+        "passer_rating": 87.8,
+        "qbr": 49.3,
+        "sacks": 27
+      }
+    ]
+  },
+  {
+    "player_name": "Caleb Williams",
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431611.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "cmp": 351,
+        "att": 562,
+        "cmp_pct": 62.5,
+        "pass_yds": 3541,
+        "pass_td": 20,
+        "pass_int": 6,
+        "yards_per_attempt": 6.3,
+        "passer_rating": 87.8,
+        "qbr": 41.5,
+        "sacks": 68
+      },
+      {
+        "season": 2025,
+        "cmp": 330,
+        "att": 568,
+        "cmp_pct": 58.1,
+        "pass_yds": 3942,
+        "pass_td": 27,
+        "pass_int": 7,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 90.1,
+        "qbr": 57.9,
+        "sacks": 24
+      }
+    ]
+  },
+  {
+    "player_name": "Cam Miller",
+    "team": "Miami Dolphins",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4693331.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": []
+  },
+  {
+    "player_name": "Cam Ward",
+    "team": "Tennessee Titans",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688380.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 323,
+        "att": 540,
+        "cmp_pct": 59.8,
+        "pass_yds": 3169,
+        "pass_td": 15,
+        "pass_int": 7,
+        "yards_per_attempt": 5.9,
+        "passer_rating": 80.2,
+        "qbr": 30.8,
+        "sacks": 55
+      }
+    ]
+  },
+  {
+    "player_name": "Carson Wentz",
+    "team": "Minnesota Vikings",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2573079.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2016,
+        "cmp": 379,
+        "att": 607,
+        "cmp_pct": 62.4,
+        "pass_yds": 3782,
+        "pass_td": 16,
+        "pass_int": 14,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 52.1,
+        "qbr": 49.4,
+        "sacks": 33
+      },
+      {
+        "season": 2017,
+        "cmp": 265,
+        "att": 440,
+        "cmp_pct": 60.2,
+        "pass_yds": 3296,
+        "pass_td": 33,
+        "pass_int": 7,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 56.3,
+        "qbr": 77.2,
+        "sacks": 28
+      },
+      {
+        "season": 2018,
+        "cmp": 279,
+        "att": 401,
+        "cmp_pct": 69.6,
+        "pass_yds": 3074,
+        "pass_td": 21,
+        "pass_int": 7,
+        "yards_per_attempt": 7.7,
+        "passer_rating": 56.3,
+        "qbr": 62.6,
+        "sacks": 31
+      },
+      {
+        "season": 2019,
+        "cmp": 388,
+        "att": 607,
+        "cmp_pct": 63.9,
+        "pass_yds": 4039,
+        "pass_td": 27,
+        "pass_int": 7,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 52.1,
+        "qbr": 64.8,
+        "sacks": 37
+      },
+      {
+        "season": 2020,
+        "cmp": 251,
+        "att": 437,
+        "cmp_pct": 57.4,
+        "pass_yds": 2620,
+        "pass_td": 16,
+        "pass_int": 15,
+        "yards_per_attempt": 6.0,
+        "passer_rating": 47.9,
+        "qbr": 37.1,
+        "sacks": 50
+      },
+      {
+        "season": 2021,
+        "cmp": 322,
+        "att": 516,
+        "cmp_pct": 62.4,
+        "pass_yds": 3563,
+        "pass_td": 27,
+        "pass_int": 7,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 94.6,
+        "qbr": 60.5,
+        "sacks": 32
+      },
+      {
+        "season": 2022,
+        "cmp": 172,
+        "att": 276,
+        "cmp_pct": 62.3,
+        "pass_yds": 1755,
+        "pass_td": 11,
+        "pass_int": 9,
+        "yards_per_attempt": 6.4,
+        "passer_rating": 80.2,
+        "qbr": 36.0,
+        "sacks": 26
+      },
+      {
+        "season": 2023,
+        "cmp": 17,
+        "att": 24,
+        "cmp_pct": 70.8,
+        "pass_yds": 163,
+        "pass_td": 2,
+        "pass_int": 1,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 99.8,
+        "qbr": 87.3,
+        "sacks": 2
+      },
+      {
+        "season": 2024,
+        "cmp": 12,
+        "att": 19,
+        "cmp_pct": 63.2,
+        "pass_yds": 118,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 80.6,
+        "qbr": 18.9,
+        "sacks": 4
+      },
+      {
+        "season": 2025,
+        "cmp": 110,
+        "att": 169,
+        "cmp_pct": 65.1,
+        "pass_yds": 1216,
+        "pass_td": 6,
+        "pass_int": 5,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 85.8,
+        "qbr": 39.9,
+        "sacks": 19
+      }
+    ]
+  },
+  {
+    "player_name": "Carter Bradley",
+    "team": "Jacksonville Jaguars",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362260.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": []
+  },
+  {
+    "player_name": "Case Keenum",
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/15168.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2013,
+        "cmp": 137,
+        "att": 253,
+        "cmp_pct": 54.2,
+        "pass_yds": 1760,
+        "pass_td": 9,
+        "pass_int": 6,
+        "yards_per_attempt": 7.0,
+        "passer_rating": 52.1,
+        "qbr": 48.3,
+        "sacks": 19
+      },
+      {
+        "season": 2014,
+        "cmp": 45,
+        "att": 77,
+        "cmp_pct": 58.4,
+        "pass_yds": 435,
+        "pass_td": 2,
+        "pass_int": 2,
+        "yards_per_attempt": 5.6,
+        "passer_rating": 47.9,
+        "qbr": 39.5,
+        "sacks": 3
+      },
+      {
+        "season": 2015,
+        "cmp": 76,
+        "att": 125,
+        "cmp_pct": 60.8,
+        "pass_yds": 828,
+        "pass_td": 4,
+        "pass_int": 1,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 52.1,
+        "qbr": 39.4,
+        "sacks": 4
+      },
+      {
+        "season": 2016,
+        "cmp": 196,
+        "att": 322,
+        "cmp_pct": 60.9,
+        "pass_yds": 2201,
+        "pass_td": 9,
+        "pass_int": 11,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 52.1,
+        "qbr": 37.1,
+        "sacks": 23
+      },
+      {
+        "season": 2017,
+        "cmp": 325,
+        "att": 481,
+        "cmp_pct": 67.6,
+        "pass_yds": 3547,
+        "pass_td": 22,
+        "pass_int": 7,
+        "yards_per_attempt": 7.4,
+        "passer_rating": 56.3,
+        "qbr": 74.8,
+        "sacks": 22
+      },
+      {
+        "season": 2018,
+        "cmp": 365,
+        "att": 586,
+        "cmp_pct": 62.3,
+        "pass_yds": 3890,
+        "pass_td": 18,
+        "pass_int": 15,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 52.1,
+        "qbr": 45.5,
+        "sacks": 34
+      },
+      {
+        "season": 2019,
+        "cmp": 160,
+        "att": 247,
+        "cmp_pct": 64.8,
+        "pass_yds": 1707,
+        "pass_td": 11,
+        "pass_int": 5,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 52.1,
+        "qbr": 45.3,
+        "sacks": 15
+      },
+      {
+        "season": 2020,
+        "cmp": 5,
+        "att": 10,
+        "cmp_pct": 50.0,
+        "pass_yds": 46,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 4.6,
+        "passer_rating": 43.8,
+        "qbr": 18.0,
+        "sacks": 0
+      },
+      {
+        "season": 2021,
+        "cmp": 47,
+        "att": 72,
+        "cmp_pct": 65.3,
+        "pass_yds": 462,
+        "pass_td": 3,
+        "pass_int": 1,
+        "yards_per_attempt": 6.4,
+        "passer_rating": 91.3,
+        "qbr": 45.2,
+        "sacks": 5
+      },
+      {
+        "season": 2022,
+        "cmp": 2,
+        "att": 7,
+        "cmp_pct": 28.6,
+        "pass_yds": 8,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 1.1,
+        "passer_rating": 39.6,
+        "qbr": 5.3,
+        "sacks": 0
+      },
+      {
+        "season": 2023,
+        "cmp": 34,
+        "att": 53,
+        "cmp_pct": 64.2,
+        "pass_yds": 291,
+        "pass_td": 1,
+        "pass_int": 3,
+        "yards_per_attempt": 5.5,
+        "passer_rating": 61.1,
+        "qbr": 19.0,
+        "sacks": 6
+      }
+    ]
+  },
+  {
+    "player_name": "Chris Oladokun",
+    "team": "Kansas City Chiefs",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4044111.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "cmp": 0,
+        "att": 0,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": 0.0,
+        "sacks": 1
+      },
+      {
+        "season": 2025,
+        "cmp": 35,
+        "att": 55,
+        "cmp_pct": 63.6,
+        "pass_yds": 235,
+        "pass_td": 1,
+        "pass_int": 0,
+        "yards_per_attempt": 4.3,
+        "passer_rating": 79.0,
+        "qbr": 13.4,
+        "sacks": 8
+      }
+    ]
+  },
+  {
+    "player_name": "C.J. Stroud",
+    "team": "Houston Texans",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432577.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2023,
+        "cmp": 319,
+        "att": 499,
+        "cmp_pct": 63.9,
+        "pass_yds": 4108,
+        "pass_td": 23,
+        "pass_int": 5,
+        "yards_per_attempt": 8.2,
+        "passer_rating": 100.8,
+        "qbr": 57.6,
+        "sacks": 38
+      },
+      {
+        "season": 2024,
+        "cmp": 336,
+        "att": 532,
+        "cmp_pct": 63.2,
+        "pass_yds": 3727,
+        "pass_td": 20,
+        "pass_int": 12,
+        "yards_per_attempt": 7.0,
+        "passer_rating": 87.0,
+        "qbr": 46.6,
+        "sacks": 52
+      },
+      {
+        "season": 2025,
+        "cmp": 273,
+        "att": 423,
+        "cmp_pct": 64.5,
+        "pass_yds": 3041,
+        "pass_td": 19,
+        "pass_int": 8,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 92.9,
+        "qbr": 61.5,
+        "sacks": 23
+      }
+    ]
+  },
+  {
+    "player_name": "Connor Bazelak",
+    "team": "Tampa Bay Buccaneers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426444.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": []
+  },
+  {
+    "player_name": "Dak Prescott",
+    "team": "Dallas Cowboys",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2577417.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2016,
+        "cmp": 311,
+        "att": 459,
+        "cmp_pct": 67.8,
+        "pass_yds": 3667,
+        "pass_td": 23,
+        "pass_int": 4,
+        "yards_per_attempt": 8.0,
+        "passer_rating": 56.3,
+        "qbr": 78.8,
+        "sacks": 25
+      },
+      {
+        "season": 2017,
+        "cmp": 308,
+        "att": 490,
+        "cmp_pct": 62.9,
+        "pass_yds": 3324,
+        "pass_td": 22,
+        "pass_int": 13,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 52.1,
+        "qbr": 69.7,
+        "sacks": 32
+      },
+      {
+        "season": 2018,
+        "cmp": 356,
+        "att": 526,
+        "cmp_pct": 67.7,
+        "pass_yds": 3885,
+        "pass_td": 22,
+        "pass_int": 8,
+        "yards_per_attempt": 7.4,
+        "passer_rating": 56.3,
+        "qbr": 56.2,
+        "sacks": 56
+      },
+      {
+        "season": 2019,
+        "cmp": 388,
+        "att": 596,
+        "cmp_pct": 65.1,
+        "pass_yds": 4902,
+        "pass_td": 30,
+        "pass_int": 11,
+        "yards_per_attempt": 8.2,
+        "passer_rating": 60.4,
+        "qbr": 72.8,
+        "sacks": 23
+      },
+      {
+        "season": 2020,
+        "cmp": 151,
+        "att": 222,
+        "cmp_pct": 68.0,
+        "pass_yds": 1856,
+        "pass_td": 9,
+        "pass_int": 4,
+        "yards_per_attempt": 8.4,
+        "passer_rating": 60.4,
+        "qbr": 69.2,
+        "sacks": 10
+      },
+      {
+        "season": 2021,
+        "cmp": 410,
+        "att": 596,
+        "cmp_pct": 68.8,
+        "pass_yds": 4449,
+        "pass_td": 37,
+        "pass_int": 10,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 104.2,
+        "qbr": 63.2,
+        "sacks": 30
+      },
+      {
+        "season": 2022,
+        "cmp": 261,
+        "att": 394,
+        "cmp_pct": 66.2,
+        "pass_yds": 2860,
+        "pass_td": 23,
+        "pass_int": 15,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 91.1,
+        "qbr": 62.0,
+        "sacks": 20
+      },
+      {
+        "season": 2023,
+        "cmp": 410,
+        "att": 590,
+        "cmp_pct": 69.5,
+        "pass_yds": 4516,
+        "pass_td": 36,
+        "pass_int": 9,
+        "yards_per_attempt": 7.7,
+        "passer_rating": 105.9,
+        "qbr": 75.3,
+        "sacks": 39
+      },
+      {
+        "season": 2024,
+        "cmp": 185,
+        "att": 286,
+        "cmp_pct": 64.7,
+        "pass_yds": 1978,
+        "pass_td": 11,
+        "pass_int": 8,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 86.0,
+        "qbr": 41.7,
+        "sacks": 21
+      },
+      {
+        "season": 2025,
+        "cmp": 404,
+        "att": 600,
+        "cmp_pct": 67.3,
+        "pass_yds": 4552,
+        "pass_td": 30,
+        "pass_int": 10,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 99.5,
+        "qbr": 71.2,
+        "sacks": 31
+      }
+    ]
+  },
+  {
+    "player_name": "Daniel Jones",
+    "team": "Indianapolis Colts",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917792.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2019,
+        "cmp": 284,
+        "att": 459,
+        "cmp_pct": 61.9,
+        "pass_yds": 3027,
+        "pass_td": 24,
+        "pass_int": 12,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 52.1,
+        "qbr": 57.0,
+        "sacks": 38
+      },
+      {
+        "season": 2020,
+        "cmp": 280,
+        "att": 448,
+        "cmp_pct": 62.5,
+        "pass_yds": 2943,
+        "pass_td": 11,
+        "pass_int": 10,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 52.1,
+        "qbr": 49.4,
+        "sacks": 45
+      },
+      {
+        "season": 2021,
+        "cmp": 232,
+        "att": 361,
+        "cmp_pct": 64.3,
+        "pass_yds": 2428,
+        "pass_td": 10,
+        "pass_int": 7,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 84.8,
+        "qbr": 50.5,
+        "sacks": 22
+      },
+      {
+        "season": 2022,
+        "cmp": 317,
+        "att": 472,
+        "cmp_pct": 67.2,
+        "pass_yds": 3205,
+        "pass_td": 15,
+        "pass_int": 5,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 92.5,
+        "qbr": 64.2,
+        "sacks": 44
+      },
+      {
+        "season": 2023,
+        "cmp": 108,
+        "att": 160,
+        "cmp_pct": 67.5,
+        "pass_yds": 909,
+        "pass_td": 2,
+        "pass_int": 6,
+        "yards_per_attempt": 5.7,
+        "passer_rating": 70.5,
+        "qbr": 37.8,
+        "sacks": 30
+      },
+      {
+        "season": 2024,
+        "cmp": 216,
+        "att": 341,
+        "cmp_pct": 63.3,
+        "pass_yds": 2070,
+        "pass_td": 8,
+        "pass_int": 7,
+        "yards_per_attempt": 6.1,
+        "passer_rating": 79.4,
+        "qbr": 43.8,
+        "sacks": 29
+      },
+      {
+        "season": 2025,
+        "cmp": 261,
+        "att": 384,
+        "cmp_pct": 68.0,
+        "pass_yds": 3101,
+        "pass_td": 19,
+        "pass_int": 8,
+        "yards_per_attempt": 8.1,
+        "passer_rating": 100.2,
+        "qbr": 62.5,
+        "sacks": 22
+      }
+    ]
+  },
+  {
+    "player_name": "Davis Mills",
+    "team": "Houston Texans",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242546.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2021,
+        "cmp": 263,
+        "att": 394,
+        "cmp_pct": 66.8,
+        "pass_yds": 2664,
+        "pass_td": 16,
+        "pass_int": 10,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 88.8,
+        "qbr": 40.5,
+        "sacks": 31
+      },
+      {
+        "season": 2022,
+        "cmp": 292,
+        "att": 479,
+        "cmp_pct": 61.0,
+        "pass_yds": 3118,
+        "pass_td": 17,
+        "pass_int": 15,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 78.8,
+        "qbr": 36.0,
+        "sacks": 31
+      },
+      {
+        "season": 2023,
+        "cmp": 18,
+        "att": 39,
+        "cmp_pct": 46.2,
+        "pass_yds": 173,
+        "pass_td": 2,
+        "pass_int": 0,
+        "yards_per_attempt": 4.4,
+        "passer_rating": 76.1,
+        "qbr": 38.5,
+        "sacks": 2
+      },
+      {
+        "season": 2024,
+        "cmp": 20,
+        "att": 36,
+        "cmp_pct": 55.6,
+        "pass_yds": 212,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 5.9,
+        "passer_rating": 72.9,
+        "qbr": 60.8,
+        "sacks": 2
+      },
+      {
+        "season": 2025,
+        "cmp": 91,
+        "att": 159,
+        "cmp_pct": 57.2,
+        "pass_yds": 915,
+        "pass_td": 5,
+        "pass_int": 1,
+        "yards_per_attempt": 5.8,
+        "passer_rating": 81.6,
+        "qbr": 44.3,
+        "sacks": 8
+      }
+    ]
+  },
+  {
+    "player_name": "Deshaun Watson",
+    "team": "Cleveland Browns",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3122840.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2017,
+        "cmp": 126,
+        "att": 204,
+        "cmp_pct": 61.8,
+        "pass_yds": 1699,
+        "pass_td": 19,
+        "pass_int": 8,
+        "yards_per_attempt": 8.3,
+        "passer_rating": 60.4,
+        "qbr": 83.8,
+        "sacks": 19
+      },
+      {
+        "season": 2018,
+        "cmp": 345,
+        "att": 505,
+        "cmp_pct": 68.3,
+        "pass_yds": 4165,
+        "pass_td": 26,
+        "pass_int": 9,
+        "yards_per_attempt": 8.2,
+        "passer_rating": 60.4,
+        "qbr": 60.7,
+        "sacks": 62
+      },
+      {
+        "season": 2019,
+        "cmp": 333,
+        "att": 495,
+        "cmp_pct": 67.3,
+        "pass_yds": 3852,
+        "pass_td": 26,
+        "pass_int": 12,
+        "yards_per_attempt": 7.8,
+        "passer_rating": 56.3,
+        "qbr": 71.2,
+        "sacks": 44
+      },
+      {
+        "season": 2020,
+        "cmp": 382,
+        "att": 544,
+        "cmp_pct": 70.2,
+        "pass_yds": 4823,
+        "pass_td": 33,
+        "pass_int": 7,
+        "yards_per_attempt": 8.9,
+        "passer_rating": 60.4,
+        "qbr": 65.3,
+        "sacks": 49
+      },
+      {
+        "season": 2022,
+        "cmp": 99,
+        "att": 170,
+        "cmp_pct": 58.2,
+        "pass_yds": 1102,
+        "pass_td": 7,
+        "pass_int": 5,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 79.1,
+        "qbr": 36.7,
+        "sacks": 20
+      },
+      {
+        "season": 2023,
+        "cmp": 105,
+        "att": 171,
+        "cmp_pct": 61.4,
+        "pass_yds": 1115,
+        "pass_td": 7,
+        "pass_int": 4,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 84.3,
+        "qbr": 40.8,
+        "sacks": 17
+      },
+      {
+        "season": 2024,
+        "cmp": 137,
+        "att": 216,
+        "cmp_pct": 63.4,
+        "pass_yds": 1148,
+        "pass_td": 5,
+        "pass_int": 3,
+        "yards_per_attempt": 5.3,
+        "passer_rating": 79.0,
+        "qbr": 22.7,
+        "sacks": 33
+      }
+    ]
+  },
+  {
+    "player_name": "Desmond Ridder",
+    "team": "Green Bay Packers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4239086.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2022,
+        "cmp": 73,
+        "att": 115,
+        "cmp_pct": 63.5,
+        "pass_yds": 708,
+        "pass_td": 2,
+        "pass_int": 0,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 86.4,
+        "qbr": 48.4,
+        "sacks": 9
+      },
+      {
+        "season": 2023,
+        "cmp": 249,
+        "att": 388,
+        "cmp_pct": 64.2,
+        "pass_yds": 2836,
+        "pass_td": 12,
+        "pass_int": 12,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 83.4,
+        "qbr": 42.8,
+        "sacks": 31
+      },
+      {
+        "season": 2024,
+        "cmp": 52,
+        "att": 85,
+        "cmp_pct": 61.2,
+        "pass_yds": 458,
+        "pass_td": 2,
+        "pass_int": 2,
+        "yards_per_attempt": 5.4,
+        "passer_rating": 73.6,
+        "qbr": 34.3,
+        "sacks": 10
+      }
+    ]
+  },
+  {
+    "player_name": "Dillon Gabriel",
+    "team": "Cleveland Browns",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4427238.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 110,
+        "att": 185,
+        "cmp_pct": 59.5,
+        "pass_yds": 937,
+        "pass_td": 7,
+        "pass_int": 2,
+        "yards_per_attempt": 5.1,
+        "passer_rating": 80.8,
+        "qbr": 29.7,
+        "sacks": 19
+      }
+    ]
+  },
+  {
+    "player_name": "DJ Uiagalelei",
+    "team": "Los Angeles Chargers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429020.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": []
+  },
+  {
+    "player_name": "Drake Maye",
+    "team": "New England Patriots",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431452.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "cmp": 225,
+        "att": 338,
+        "cmp_pct": 66.6,
+        "pass_yds": 2276,
+        "pass_td": 15,
+        "pass_int": 10,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 88.1,
+        "qbr": 53.9,
+        "sacks": 34
+      },
+      {
+        "season": 2025,
+        "cmp": 354,
+        "att": 492,
+        "cmp_pct": 72.0,
+        "pass_yds": 4394,
+        "pass_td": 31,
+        "pass_int": 8,
+        "yards_per_attempt": 8.9,
+        "passer_rating": 113.5,
+        "qbr": 78.2,
+        "sacks": 47
+      }
+    ]
+  },
+  {
+    "player_name": "Drew Lock",
+    "team": "Seattle Seahawks",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3924327.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2019,
+        "cmp": 100,
+        "att": 156,
+        "cmp_pct": 64.1,
+        "pass_yds": 1020,
+        "pass_td": 7,
+        "pass_int": 3,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 52.1,
+        "qbr": 59.7,
+        "sacks": 5
+      },
+      {
+        "season": 2020,
+        "cmp": 254,
+        "att": 443,
+        "cmp_pct": 57.3,
+        "pass_yds": 2933,
+        "pass_td": 16,
+        "pass_int": 15,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 52.1,
+        "qbr": 46.6,
+        "sacks": 19
+      },
+      {
+        "season": 2021,
+        "cmp": 67,
+        "att": 111,
+        "cmp_pct": 60.4,
+        "pass_yds": 787,
+        "pass_td": 2,
+        "pass_int": 2,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 80.4,
+        "qbr": 33.6,
+        "sacks": 9
+      },
+      {
+        "season": 2023,
+        "cmp": 48,
+        "att": 76,
+        "cmp_pct": 63.2,
+        "pass_yds": 543,
+        "pass_td": 3,
+        "pass_int": 3,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 81.2,
+        "qbr": 46.5,
+        "sacks": 6
+      },
+      {
+        "season": 2024,
+        "cmp": 107,
+        "att": 181,
+        "cmp_pct": 59.1,
+        "pass_yds": 1071,
+        "pass_td": 6,
+        "pass_int": 5,
+        "yards_per_attempt": 5.9,
+        "passer_rating": 75.5,
+        "qbr": 45.0,
+        "sacks": 12
+      },
+      {
+        "season": 2025,
+        "cmp": 2,
+        "att": 3,
+        "cmp_pct": 66.7,
+        "pass_yds": 15,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 5.0,
+        "passer_rating": 78.5,
+        "qbr": 6.5,
+        "sacks": 0
+      }
+    ]
+  },
+  {
+    "player_name": "Gardner Minshew II",
+    "team": "Arizona Cardinals",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4038524.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2019,
+        "cmp": 285,
+        "att": 470,
+        "cmp_pct": 60.6,
+        "pass_yds": 3271,
+        "pass_td": 21,
+        "pass_int": 6,
+        "yards_per_attempt": 7.0,
+        "passer_rating": 52.1,
+        "qbr": 47.2,
+        "sacks": 33
+      },
+      {
+        "season": 2020,
+        "cmp": 216,
+        "att": 327,
+        "cmp_pct": 66.1,
+        "pass_yds": 2259,
+        "pass_td": 16,
+        "pass_int": 5,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 52.1,
+        "qbr": 48.2,
+        "sacks": 27
+      },
+      {
+        "season": 2021,
+        "cmp": 41,
+        "att": 60,
+        "cmp_pct": 68.3,
+        "pass_yds": 439,
+        "pass_td": 4,
+        "pass_int": 1,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 104.8,
+        "qbr": 66.1,
+        "sacks": 5
+      },
+      {
+        "season": 2022,
+        "cmp": 44,
+        "att": 76,
+        "cmp_pct": 57.9,
+        "pass_yds": 663,
+        "pass_td": 3,
+        "pass_int": 3,
+        "yards_per_attempt": 8.7,
+        "passer_rating": 83.4,
+        "qbr": 35.7,
+        "sacks": 6
+      },
+      {
+        "season": 2023,
+        "cmp": 305,
+        "att": 490,
+        "cmp_pct": 62.2,
+        "pass_yds": 3305,
+        "pass_td": 15,
+        "pass_int": 9,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 84.6,
+        "qbr": 58.0,
+        "sacks": 34
+      },
+      {
+        "season": 2024,
+        "cmp": 203,
+        "att": 306,
+        "cmp_pct": 66.3,
+        "pass_yds": 2013,
+        "pass_td": 9,
+        "pass_int": 10,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 81.0,
+        "qbr": 33.5,
+        "sacks": 29
+      },
+      {
+        "season": 2025,
+        "cmp": 6,
+        "att": 13,
+        "cmp_pct": 46.2,
+        "pass_yds": 37,
+        "pass_td": 0,
+        "pass_int": 1,
+        "yards_per_attempt": 2.8,
+        "passer_rating": 21.0,
+        "qbr": 12.0,
+        "sacks": 0
+      }
+    ]
+  },
+  {
+    "player_name": "Geno Smith",
+    "team": "New York Jets",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/15864.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2013,
+        "cmp": 247,
+        "att": 443,
+        "cmp_pct": 55.8,
+        "pass_yds": 3046,
+        "pass_td": 12,
+        "pass_int": 21,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 52.1,
+        "qbr": 42.0,
+        "sacks": 43
+      },
+      {
+        "season": 2014,
+        "cmp": 219,
+        "att": 367,
+        "cmp_pct": 59.7,
+        "pass_yds": 2525,
+        "pass_td": 13,
+        "pass_int": 13,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 52.1,
+        "qbr": 45.9,
+        "sacks": 28
+      },
+      {
+        "season": 2015,
+        "cmp": 27,
+        "att": 42,
+        "cmp_pct": 64.3,
+        "pass_yds": 265,
+        "pass_td": 2,
+        "pass_int": 1,
+        "yards_per_attempt": 6.3,
+        "passer_rating": 52.1,
+        "qbr": 53.1,
+        "sacks": 3
+      },
+      {
+        "season": 2016,
+        "cmp": 8,
+        "att": 14,
+        "cmp_pct": 57.1,
+        "pass_yds": 126,
+        "pass_td": 1,
+        "pass_int": 1,
+        "yards_per_attempt": 9.0,
+        "passer_rating": 64.6,
+        "qbr": 28.7,
+        "sacks": 3
+      },
+      {
+        "season": 2017,
+        "cmp": 21,
+        "att": 36,
+        "cmp_pct": 58.3,
+        "pass_yds": 212,
+        "pass_td": 1,
+        "pass_int": 0,
+        "yards_per_attempt": 5.9,
+        "passer_rating": 47.9,
+        "qbr": 43.7,
+        "sacks": 3
+      },
+      {
+        "season": 2018,
+        "cmp": 1,
+        "att": 4,
+        "cmp_pct": 25.0,
+        "pass_yds": 8,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 2.0,
+        "passer_rating": 39.6,
+        "qbr": 0.7,
+        "sacks": 1
+      },
+      {
+        "season": 2020,
+        "cmp": 4,
+        "att": 5,
+        "cmp_pct": 80.0,
+        "pass_yds": 33,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 52.1,
+        "qbr": 5.9,
+        "sacks": 1
+      },
+      {
+        "season": 2021,
+        "cmp": 65,
+        "att": 95,
+        "cmp_pct": 68.4,
+        "pass_yds": 702,
+        "pass_td": 5,
+        "pass_int": 1,
+        "yards_per_attempt": 7.4,
+        "passer_rating": 103.0,
+        "qbr": 50.3,
+        "sacks": 13
+      },
+      {
+        "season": 2022,
+        "cmp": 399,
+        "att": 572,
+        "cmp_pct": 69.8,
+        "pass_yds": 4282,
+        "pass_td": 30,
+        "pass_int": 11,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 100.9,
+        "qbr": 64.5,
+        "sacks": 46
+      },
+      {
+        "season": 2023,
+        "cmp": 323,
+        "att": 499,
+        "cmp_pct": 64.7,
+        "pass_yds": 3624,
+        "pass_td": 20,
+        "pass_int": 9,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 92.1,
+        "qbr": 59.8,
+        "sacks": 31
+      },
+      {
+        "season": 2024,
+        "cmp": 407,
+        "att": 578,
+        "cmp_pct": 70.4,
+        "pass_yds": 4320,
+        "pass_td": 21,
+        "pass_int": 15,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 93.2,
+        "qbr": 51.2,
+        "sacks": 50
+      },
+      {
+        "season": 2025,
+        "cmp": 302,
+        "att": 448,
+        "cmp_pct": 67.4,
+        "pass_yds": 3025,
+        "pass_td": 19,
+        "pass_int": 17,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 84.7,
+        "qbr": 33.0,
+        "sacks": 55
+      }
+    ]
+  },
+  {
+    "player_name": "Graham Mertz",
+    "team": "Houston Texans",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426335.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": []
+  },
+  {
+    "player_name": "Hendon Hooker",
+    "team": "Tennessee Titans",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240858.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "cmp": 6,
+        "att": 9,
+        "cmp_pct": 66.7,
+        "pass_yds": 62,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 86.3,
+        "qbr": 45.3,
+        "sacks": 1
+      }
+    ]
+  },
+  {
+    "player_name": "Jacoby Brissett",
+    "team": "Arizona Cardinals",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2578570.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2016,
+        "cmp": 34,
+        "att": 55,
+        "cmp_pct": 61.8,
+        "pass_yds": 400,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 56.3,
+        "qbr": 41.7,
+        "sacks": 6
+      },
+      {
+        "season": 2017,
+        "cmp": 276,
+        "att": 469,
+        "cmp_pct": 58.8,
+        "pass_yds": 3098,
+        "pass_td": 13,
+        "pass_int": 7,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 52.1,
+        "qbr": 42.2,
+        "sacks": 52
+      },
+      {
+        "season": 2018,
+        "cmp": 2,
+        "att": 4,
+        "cmp_pct": 50.0,
+        "pass_yds": 2,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.5,
+        "passer_rating": 39.6,
+        "qbr": 100.0,
+        "sacks": 0
+      },
+      {
+        "season": 2019,
+        "cmp": 272,
+        "att": 447,
+        "cmp_pct": 60.8,
+        "pass_yds": 2942,
+        "pass_td": 18,
+        "pass_int": 6,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 52.1,
+        "qbr": 54.1,
+        "sacks": 27
+      },
+      {
+        "season": 2020,
+        "cmp": 2,
+        "att": 8,
+        "cmp_pct": 25.0,
+        "pass_yds": 17,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 2.1,
+        "passer_rating": 39.6,
+        "qbr": 63.8,
+        "sacks": 2
+      },
+      {
+        "season": 2021,
+        "cmp": 141,
+        "att": 225,
+        "cmp_pct": 62.7,
+        "pass_yds": 1283,
+        "pass_td": 5,
+        "pass_int": 4,
+        "yards_per_attempt": 5.7,
+        "passer_rating": 78.1,
+        "qbr": 55.0,
+        "sacks": 19
+      },
+      {
+        "season": 2022,
+        "cmp": 236,
+        "att": 369,
+        "cmp_pct": 64.0,
+        "pass_yds": 2608,
+        "pass_td": 12,
+        "pass_int": 6,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 88.9,
+        "qbr": 61.4,
+        "sacks": 24
+      },
+      {
+        "season": 2023,
+        "cmp": 18,
+        "att": 23,
+        "cmp_pct": 78.3,
+        "pass_yds": 224,
+        "pass_td": 3,
+        "pass_int": 0,
+        "yards_per_attempt": 9.7,
+        "passer_rating": 146.8,
+        "qbr": 93.5,
+        "sacks": 0
+      },
+      {
+        "season": 2024,
+        "cmp": 95,
+        "att": 161,
+        "cmp_pct": 59.0,
+        "pass_yds": 826,
+        "pass_td": 2,
+        "pass_int": 1,
+        "yards_per_attempt": 5.1,
+        "passer_rating": 74.2,
+        "qbr": 39.8,
+        "sacks": 18
+      },
+      {
+        "season": 2025,
+        "cmp": 315,
+        "att": 485,
+        "cmp_pct": 64.9,
+        "pass_yds": 3366,
+        "pass_td": 23,
+        "pass_int": 8,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 94.1,
+        "qbr": 42.6,
+        "sacks": 43
+      }
+    ]
+  },
+  {
+    "player_name": "Jake Browning",
+    "team": "Tampa Bay Buccaneers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3886812.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2023,
+        "cmp": 171,
+        "att": 243,
+        "cmp_pct": 70.4,
+        "pass_yds": 1936,
+        "pass_td": 12,
+        "pass_int": 7,
+        "yards_per_attempt": 8.0,
+        "passer_rating": 98.4,
+        "qbr": 55.1,
+        "sacks": 24
+      },
+      {
+        "season": 2024,
+        "cmp": 0,
+        "att": 0,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": null,
+        "sacks": 0
+      },
+      {
+        "season": 2025,
+        "cmp": 81,
+        "att": 125,
+        "cmp_pct": 64.8,
+        "pass_yds": 771,
+        "pass_td": 6,
+        "pass_int": 8,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 71.1,
+        "qbr": 31.4,
+        "sacks": 9
+      }
+    ]
+  },
+  {
+    "player_name": "Jake Haener",
+    "team": "Kansas City Chiefs",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4243322.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "cmp": 18,
+        "att": 39,
+        "cmp_pct": 46.2,
+        "pass_yds": 226,
+        "pass_td": 1,
+        "pass_int": 1,
+        "yards_per_attempt": 5.8,
+        "passer_rating": 62.6,
+        "qbr": 11.9,
+        "sacks": 6
+      }
+    ]
+  },
+  {
+    "player_name": "Jalen Hurts",
+    "team": "Philadelphia Eagles",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4040715.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2020,
+        "cmp": 77,
+        "att": 148,
+        "cmp_pct": 52.0,
+        "pass_yds": 1061,
+        "pass_td": 6,
+        "pass_int": 4,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 56.3,
+        "qbr": 31.1,
+        "sacks": 13
+      },
+      {
+        "season": 2021,
+        "cmp": 265,
+        "att": 432,
+        "cmp_pct": 61.3,
+        "pass_yds": 3144,
+        "pass_td": 16,
+        "pass_int": 9,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 87.2,
+        "qbr": 58.4,
+        "sacks": 26
+      },
+      {
+        "season": 2022,
+        "cmp": 306,
+        "att": 460,
+        "cmp_pct": 66.5,
+        "pass_yds": 3701,
+        "pass_td": 22,
+        "pass_int": 6,
+        "yards_per_attempt": 8.0,
+        "passer_rating": 101.5,
+        "qbr": 70.8,
+        "sacks": 38
+      },
+      {
+        "season": 2023,
+        "cmp": 352,
+        "att": 538,
+        "cmp_pct": 65.4,
+        "pass_yds": 3858,
+        "pass_td": 23,
+        "pass_int": 15,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 89.1,
+        "qbr": 60.0,
+        "sacks": 36
+      },
+      {
+        "season": 2024,
+        "cmp": 248,
+        "att": 361,
+        "cmp_pct": 68.7,
+        "pass_yds": 2903,
+        "pass_td": 18,
+        "pass_int": 5,
+        "yards_per_attempt": 8.0,
+        "passer_rating": 103.7,
+        "qbr": 64.6,
+        "sacks": 38
+      },
+      {
+        "season": 2025,
+        "cmp": 294,
+        "att": 454,
+        "cmp_pct": 64.8,
+        "pass_yds": 3224,
+        "pass_td": 25,
+        "pass_int": 6,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 98.5,
+        "qbr": 57.0,
+        "sacks": 32
+      }
+    ]
+  },
+  {
+    "player_name": "Jalen Milroe",
+    "team": "Seattle Seahawks",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432734.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 0,
+        "att": 0,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": 0.0,
+        "sacks": 0
+      }
+    ]
+  },
+  {
+    "player_name": "Jameis Winston",
+    "team": "New York Giants",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2969939.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2015,
+        "cmp": 312,
+        "att": 535,
+        "cmp_pct": 58.3,
+        "pass_yds": 4042,
+        "pass_td": 22,
+        "pass_int": 15,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 56.3,
+        "qbr": 61.1,
+        "sacks": 27
+      },
+      {
+        "season": 2016,
+        "cmp": 345,
+        "att": 567,
+        "cmp_pct": 60.8,
+        "pass_yds": 4090,
+        "pass_td": 28,
+        "pass_int": 18,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 56.3,
+        "qbr": 59.7,
+        "sacks": 35
+      },
+      {
+        "season": 2017,
+        "cmp": 282,
+        "att": 442,
+        "cmp_pct": 63.8,
+        "pass_yds": 3504,
+        "pass_td": 19,
+        "pass_int": 11,
+        "yards_per_attempt": 7.9,
+        "passer_rating": 56.3,
+        "qbr": 54.3,
+        "sacks": 33
+      },
+      {
+        "season": 2018,
+        "cmp": 244,
+        "att": 378,
+        "cmp_pct": 64.6,
+        "pass_yds": 2992,
+        "pass_td": 19,
+        "pass_int": 14,
+        "yards_per_attempt": 7.9,
+        "passer_rating": 56.3,
+        "qbr": 69.7,
+        "sacks": 27
+      },
+      {
+        "season": 2019,
+        "cmp": 380,
+        "att": 626,
+        "cmp_pct": 60.7,
+        "pass_yds": 5109,
+        "pass_td": 33,
+        "pass_int": 30,
+        "yards_per_attempt": 8.2,
+        "passer_rating": 60.4,
+        "qbr": 59.1,
+        "sacks": 47
+      },
+      {
+        "season": 2020,
+        "cmp": 7,
+        "att": 11,
+        "cmp_pct": 63.6,
+        "pass_yds": 75,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 52.1,
+        "qbr": 12.4,
+        "sacks": 2
+      },
+      {
+        "season": 2021,
+        "cmp": 95,
+        "att": 161,
+        "cmp_pct": 59.0,
+        "pass_yds": 1170,
+        "pass_td": 14,
+        "pass_int": 3,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 102.8,
+        "qbr": 71.5,
+        "sacks": 11
+      },
+      {
+        "season": 2022,
+        "cmp": 73,
+        "att": 115,
+        "cmp_pct": 63.5,
+        "pass_yds": 858,
+        "pass_td": 4,
+        "pass_int": 5,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 79.5,
+        "qbr": 35.4,
+        "sacks": 11
+      },
+      {
+        "season": 2023,
+        "cmp": 25,
+        "att": 47,
+        "cmp_pct": 53.2,
+        "pass_yds": 264,
+        "pass_td": 2,
+        "pass_int": 3,
+        "yards_per_attempt": 5.6,
+        "passer_rating": 57.4,
+        "qbr": 37.9,
+        "sacks": 2
+      },
+      {
+        "season": 2024,
+        "cmp": 181,
+        "att": 296,
+        "cmp_pct": 61.1,
+        "pass_yds": 2121,
+        "pass_td": 13,
+        "pass_int": 12,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 80.6,
+        "qbr": 49.4,
+        "sacks": 24
+      },
+      {
+        "season": 2025,
+        "cmp": 37,
+        "att": 66,
+        "cmp_pct": 56.1,
+        "pass_yds": 567,
+        "pass_td": 2,
+        "pass_int": 2,
+        "yards_per_attempt": 8.6,
+        "passer_rating": 82.1,
+        "qbr": 68.8,
+        "sacks": 3
+      }
+    ]
+  },
+  {
+    "player_name": "Jared Goff",
+    "team": "Detroit Lions",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3046779.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2016,
+        "cmp": 112,
+        "att": 205,
+        "cmp_pct": 54.6,
+        "pass_yds": 1089,
+        "pass_td": 5,
+        "pass_int": 7,
+        "yards_per_attempt": 5.3,
+        "passer_rating": 47.9,
+        "qbr": 18.9,
+        "sacks": 26
+      },
+      {
+        "season": 2017,
+        "cmp": 296,
+        "att": 477,
+        "cmp_pct": 62.1,
+        "pass_yds": 3804,
+        "pass_td": 28,
+        "pass_int": 7,
+        "yards_per_attempt": 8.0,
+        "passer_rating": 56.3,
+        "qbr": 52.8,
+        "sacks": 25
+      },
+      {
+        "season": 2018,
+        "cmp": 364,
+        "att": 561,
+        "cmp_pct": 64.9,
+        "pass_yds": 4688,
+        "pass_td": 32,
+        "pass_int": 12,
+        "yards_per_attempt": 8.4,
+        "passer_rating": 60.4,
+        "qbr": 63.1,
+        "sacks": 33
+      },
+      {
+        "season": 2019,
+        "cmp": 394,
+        "att": 626,
+        "cmp_pct": 62.9,
+        "pass_yds": 4638,
+        "pass_td": 22,
+        "pass_int": 16,
+        "yards_per_attempt": 7.4,
+        "passer_rating": 56.3,
+        "qbr": 50.2,
+        "sacks": 22
+      },
+      {
+        "season": 2020,
+        "cmp": 370,
+        "att": 552,
+        "cmp_pct": 67.0,
+        "pass_yds": 3952,
+        "pass_td": 20,
+        "pass_int": 13,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 56.3,
+        "qbr": 49.2,
+        "sacks": 23
+      },
+      {
+        "season": 2021,
+        "cmp": 332,
+        "att": 494,
+        "cmp_pct": 67.2,
+        "pass_yds": 3245,
+        "pass_td": 19,
+        "pass_int": 8,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 91.5,
+        "qbr": 43.4,
+        "sacks": 35
+      },
+      {
+        "season": 2022,
+        "cmp": 382,
+        "att": 587,
+        "cmp_pct": 65.1,
+        "pass_yds": 4438,
+        "pass_td": 29,
+        "pass_int": 7,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 99.3,
+        "qbr": 64.8,
+        "sacks": 23
+      },
+      {
+        "season": 2023,
+        "cmp": 407,
+        "att": 605,
+        "cmp_pct": 67.3,
+        "pass_yds": 4575,
+        "pass_td": 30,
+        "pass_int": 12,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 97.9,
+        "qbr": 60.8,
+        "sacks": 30
+      },
+      {
+        "season": 2024,
+        "cmp": 390,
+        "att": 539,
+        "cmp_pct": 72.4,
+        "pass_yds": 4629,
+        "pass_td": 37,
+        "pass_int": 12,
+        "yards_per_attempt": 8.6,
+        "passer_rating": 111.8,
+        "qbr": 64.1,
+        "sacks": 31
+      },
+      {
+        "season": 2025,
+        "cmp": 393,
+        "att": 578,
+        "cmp_pct": 68.0,
+        "pass_yds": 4564,
+        "pass_td": 34,
+        "pass_int": 8,
+        "yards_per_attempt": 7.9,
+        "passer_rating": 105.5,
+        "qbr": 58.6,
+        "sacks": 38
+      }
+    ]
+  },
+  {
+    "player_name": "Jarrett Stidham",
+    "team": "Denver Broncos",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3892775.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2019,
+        "cmp": 2,
+        "att": 4,
+        "cmp_pct": 50.0,
+        "pass_yds": 14,
+        "pass_td": 0,
+        "pass_int": 1,
+        "yards_per_attempt": 3.5,
+        "passer_rating": 39.6,
+        "qbr": 0.1,
+        "sacks": 1
+      },
+      {
+        "season": 2020,
+        "cmp": 22,
+        "att": 44,
+        "cmp_pct": 50.0,
+        "pass_yds": 256,
+        "pass_td": 2,
+        "pass_int": 3,
+        "yards_per_attempt": 5.8,
+        "passer_rating": 47.9,
+        "qbr": 11.3,
+        "sacks": 4
+      },
+      {
+        "season": 2022,
+        "cmp": 53,
+        "att": 83,
+        "cmp_pct": 63.9,
+        "pass_yds": 656,
+        "pass_td": 4,
+        "pass_int": 3,
+        "yards_per_attempt": 7.9,
+        "passer_rating": 89.2,
+        "qbr": 60.5,
+        "sacks": 7
+      },
+      {
+        "season": 2023,
+        "cmp": 40,
+        "att": 66,
+        "cmp_pct": 60.6,
+        "pass_yds": 496,
+        "pass_td": 2,
+        "pass_int": 1,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 87.7,
+        "qbr": 31.8,
+        "sacks": 7
+      },
+      {
+        "season": 2024,
+        "cmp": 0,
+        "att": 0,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": 100.0,
+        "sacks": 0
+      },
+      {
+        "season": 2025,
+        "cmp": 0,
+        "att": 0,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": null,
+        "sacks": 0
+      }
+    ]
+  },
+  {
+    "player_name": "Jaxson Dart",
+    "team": "New York Giants",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4689114.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 216,
+        "att": 339,
+        "cmp_pct": 63.7,
+        "pass_yds": 2272,
+        "pass_td": 15,
+        "pass_int": 5,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 91.7,
+        "qbr": 57.1,
+        "sacks": 35
+      }
+    ]
+  },
+  {
+    "player_name": "Jayden Daniels",
+    "team": "Washington Commanders",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "cmp": 331,
+        "att": 480,
+        "cmp_pct": 69.0,
+        "pass_yds": 3568,
+        "pass_td": 25,
+        "pass_int": 9,
+        "yards_per_attempt": 7.4,
+        "passer_rating": 100.1,
+        "qbr": 69.5,
+        "sacks": 47
+      },
+      {
+        "season": 2025,
+        "cmp": 114,
+        "att": 188,
+        "cmp_pct": 60.6,
+        "pass_yds": 1262,
+        "pass_td": 8,
+        "pass_int": 3,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 88.1,
+        "qbr": 45.7,
+        "sacks": 18
+      }
+    ]
+  },
+  {
+    "player_name": "J.J. McCarthy",
+    "team": "Minnesota Vikings",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4433970.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 140,
+        "att": 243,
+        "cmp_pct": 57.6,
+        "pass_yds": 1632,
+        "pass_td": 11,
+        "pass_int": 12,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 72.6,
+        "qbr": 39.6,
+        "sacks": 27
+      }
+    ]
+  },
+  {
+    "player_name": "Joe Burrow",
+    "team": "Cincinnati Bengals",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915511.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2020,
+        "cmp": 264,
+        "att": 404,
+        "cmp_pct": 65.3,
+        "pass_yds": 2688,
+        "pass_td": 13,
+        "pass_int": 5,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 52.1,
+        "qbr": 46.8,
+        "sacks": 32
+      },
+      {
+        "season": 2021,
+        "cmp": 366,
+        "att": 520,
+        "cmp_pct": 70.4,
+        "pass_yds": 4611,
+        "pass_td": 34,
+        "pass_int": 14,
+        "yards_per_attempt": 8.9,
+        "passer_rating": 108.3,
+        "qbr": 63.5,
+        "sacks": 51
+      },
+      {
+        "season": 2022,
+        "cmp": 414,
+        "att": 606,
+        "cmp_pct": 68.3,
+        "pass_yds": 4475,
+        "pass_td": 35,
+        "pass_int": 12,
+        "yards_per_attempt": 7.4,
+        "passer_rating": 100.8,
+        "qbr": 59.0,
+        "sacks": 41
+      },
+      {
+        "season": 2023,
+        "cmp": 244,
+        "att": 365,
+        "cmp_pct": 66.8,
+        "pass_yds": 2309,
+        "pass_td": 15,
+        "pass_int": 6,
+        "yards_per_attempt": 6.3,
+        "passer_rating": 91.0,
+        "qbr": 51.1,
+        "sacks": 24
+      },
+      {
+        "season": 2024,
+        "cmp": 460,
+        "att": 652,
+        "cmp_pct": 70.6,
+        "pass_yds": 4918,
+        "pass_td": 43,
+        "pass_int": 9,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 108.5,
+        "qbr": 71.7,
+        "sacks": 48
+      },
+      {
+        "season": 2025,
+        "cmp": 173,
+        "att": 259,
+        "cmp_pct": 66.8,
+        "pass_yds": 1809,
+        "pass_td": 17,
+        "pass_int": 5,
+        "yards_per_attempt": 7.0,
+        "passer_rating": 100.7,
+        "qbr": 60.6,
+        "sacks": 17
+      }
+    ]
+  },
+  {
+    "player_name": "Joe Flacco",
+    "team": "Cincinnati Bengals",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/11252.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2008,
+        "cmp": 257,
+        "att": 428,
+        "cmp_pct": 60.0,
+        "pass_yds": 2971,
+        "pass_td": 14,
+        "pass_int": 12,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 80.3,
+        "qbr": 42.7,
+        "sacks": 32
+      },
+      {
+        "season": 2009,
+        "cmp": 315,
+        "att": 499,
+        "cmp_pct": 63.1,
+        "pass_yds": 3613,
+        "pass_td": 21,
+        "pass_int": 12,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 88.9,
+        "qbr": 59.8,
+        "sacks": 36
+      },
+      {
+        "season": 2010,
+        "cmp": 306,
+        "att": 489,
+        "cmp_pct": 62.6,
+        "pass_yds": 3622,
+        "pass_td": 25,
+        "pass_int": 10,
+        "yards_per_attempt": 7.4,
+        "passer_rating": 93.6,
+        "qbr": 60.1,
+        "sacks": 40
+      },
+      {
+        "season": 2011,
+        "cmp": 312,
+        "att": 542,
+        "cmp_pct": 57.6,
+        "pass_yds": 3610,
+        "pass_td": 20,
+        "pass_int": 12,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 80.9,
+        "qbr": 62.5,
+        "sacks": 31
+      },
+      {
+        "season": 2012,
+        "cmp": 317,
+        "att": 531,
+        "cmp_pct": 59.7,
+        "pass_yds": 3817,
+        "pass_td": 22,
+        "pass_int": 10,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 87.7,
+        "qbr": 51.1,
+        "sacks": 35
+      },
+      {
+        "season": 2013,
+        "cmp": 362,
+        "att": 614,
+        "cmp_pct": 59.0,
+        "pass_yds": 3912,
+        "pass_td": 19,
+        "pass_int": 22,
+        "yards_per_attempt": 6.4,
+        "passer_rating": 52.1,
+        "qbr": 47.8,
+        "sacks": 48
+      },
+      {
+        "season": 2014,
+        "cmp": 344,
+        "att": 554,
+        "cmp_pct": 62.1,
+        "pass_yds": 3986,
+        "pass_td": 27,
+        "pass_int": 12,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 56.3,
+        "qbr": 68.2,
+        "sacks": 19
+      },
+      {
+        "season": 2015,
+        "cmp": 266,
+        "att": 413,
+        "cmp_pct": 64.4,
+        "pass_yds": 2791,
+        "pass_td": 14,
+        "pass_int": 12,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 52.1,
+        "qbr": 49.7,
+        "sacks": 16
+      },
+      {
+        "season": 2016,
+        "cmp": 436,
+        "att": 672,
+        "cmp_pct": 64.9,
+        "pass_yds": 4317,
+        "pass_td": 20,
+        "pass_int": 15,
+        "yards_per_attempt": 6.4,
+        "passer_rating": 52.1,
+        "qbr": 52.7,
+        "sacks": 33
+      },
+      {
+        "season": 2017,
+        "cmp": 352,
+        "att": 549,
+        "cmp_pct": 64.1,
+        "pass_yds": 3141,
+        "pass_td": 18,
+        "pass_int": 13,
+        "yards_per_attempt": 5.7,
+        "passer_rating": 47.9,
+        "qbr": 50.0,
+        "sacks": 27
+      },
+      {
+        "season": 2018,
+        "cmp": 232,
+        "att": 379,
+        "cmp_pct": 61.2,
+        "pass_yds": 2465,
+        "pass_td": 12,
+        "pass_int": 6,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 52.1,
+        "qbr": 56.3,
+        "sacks": 16
+      },
+      {
+        "season": 2019,
+        "cmp": 171,
+        "att": 262,
+        "cmp_pct": 65.3,
+        "pass_yds": 1822,
+        "pass_td": 6,
+        "pass_int": 5,
+        "yards_per_attempt": 7.0,
+        "passer_rating": 52.1,
+        "qbr": 50.4,
+        "sacks": 26
+      },
+      {
+        "season": 2020,
+        "cmp": 74,
+        "att": 134,
+        "cmp_pct": 55.2,
+        "pass_yds": 864,
+        "pass_td": 6,
+        "pass_int": 3,
+        "yards_per_attempt": 6.4,
+        "passer_rating": 52.1,
+        "qbr": 53.7,
+        "sacks": 7
+      },
+      {
+        "season": 2021,
+        "cmp": 27,
+        "att": 42,
+        "cmp_pct": 64.3,
+        "pass_yds": 338,
+        "pass_td": 3,
+        "pass_int": 0,
+        "yards_per_attempt": 8.0,
+        "passer_rating": 113.0,
+        "qbr": 47.2,
+        "sacks": 2
+      },
+      {
+        "season": 2022,
+        "cmp": 110,
+        "att": 191,
+        "cmp_pct": 57.6,
+        "pass_yds": 1051,
+        "pass_td": 5,
+        "pass_int": 3,
+        "yards_per_attempt": 5.5,
+        "passer_rating": 75.2,
+        "qbr": 33.9,
+        "sacks": 10
+      },
+      {
+        "season": 2023,
+        "cmp": 123,
+        "att": 204,
+        "cmp_pct": 60.3,
+        "pass_yds": 1616,
+        "pass_td": 13,
+        "pass_int": 8,
+        "yards_per_attempt": 7.9,
+        "passer_rating": 90.2,
+        "qbr": 47.2,
+        "sacks": 8
+      },
+      {
+        "season": 2024,
+        "cmp": 162,
+        "att": 248,
+        "cmp_pct": 65.3,
+        "pass_yds": 1761,
+        "pass_td": 12,
+        "pass_int": 7,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 90.5,
+        "qbr": 50.8,
+        "sacks": 18
+      },
+      {
+        "season": 2025,
+        "cmp": 251,
+        "att": 416,
+        "cmp_pct": 60.3,
+        "pass_yds": 2479,
+        "pass_td": 15,
+        "pass_int": 10,
+        "yards_per_attempt": 6.0,
+        "passer_rating": 79.2,
+        "qbr": 43.6,
+        "sacks": 18
+      }
+    ]
+  },
+  {
+    "player_name": "Joe Milton III",
+    "team": "Dallas Cowboys",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360698.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "cmp": 22,
+        "att": 29,
+        "cmp_pct": 75.9,
+        "pass_yds": 241,
+        "pass_td": 1,
+        "pass_int": 0,
+        "yards_per_attempt": 8.3,
+        "passer_rating": 111.4,
+        "qbr": 72.7,
+        "sacks": 0
+      },
+      {
+        "season": 2025,
+        "cmp": 15,
+        "att": 24,
+        "cmp_pct": 62.5,
+        "pass_yds": 183,
+        "pass_td": 1,
+        "pass_int": 2,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 65.1,
+        "qbr": 54.5,
+        "sacks": 0
+      }
+    ]
+  },
+  {
+    "player_name": "Jordan Love",
+    "team": "Green Bay Packers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4036378.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2021,
+        "cmp": 36,
+        "att": 62,
+        "cmp_pct": 58.1,
+        "pass_yds": 411,
+        "pass_td": 2,
+        "pass_int": 3,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 68.7,
+        "qbr": 41.2,
+        "sacks": 3
+      },
+      {
+        "season": 2022,
+        "cmp": 14,
+        "att": 21,
+        "cmp_pct": 66.7,
+        "pass_yds": 195,
+        "pass_td": 1,
+        "pass_int": 0,
+        "yards_per_attempt": 9.3,
+        "passer_rating": 112.2,
+        "qbr": 77.7,
+        "sacks": 0
+      },
+      {
+        "season": 2023,
+        "cmp": 372,
+        "att": 579,
+        "cmp_pct": 64.2,
+        "pass_yds": 4159,
+        "pass_td": 32,
+        "pass_int": 11,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 96.1,
+        "qbr": 63.1,
+        "sacks": 30
+      },
+      {
+        "season": 2024,
+        "cmp": 268,
+        "att": 425,
+        "cmp_pct": 63.1,
+        "pass_yds": 3389,
+        "pass_td": 25,
+        "pass_int": 11,
+        "yards_per_attempt": 8.0,
+        "passer_rating": 96.7,
+        "qbr": 63.1,
+        "sacks": 14
+      },
+      {
+        "season": 2025,
+        "cmp": 291,
+        "att": 439,
+        "cmp_pct": 66.3,
+        "pass_yds": 3381,
+        "pass_td": 23,
+        "pass_int": 6,
+        "yards_per_attempt": 7.7,
+        "passer_rating": 101.2,
+        "qbr": 73.1,
+        "sacks": 21
+      }
+    ]
+  },
+  {
+    "player_name": "Josh Allen",
+    "team": "Buffalo Bills",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2018,
+        "cmp": 169,
+        "att": 320,
+        "cmp_pct": 52.8,
+        "pass_yds": 2074,
+        "pass_td": 10,
+        "pass_int": 12,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 52.1,
+        "qbr": 49.8,
+        "sacks": 28
+      },
+      {
+        "season": 2019,
+        "cmp": 271,
+        "att": 461,
+        "cmp_pct": 58.8,
+        "pass_yds": 3089,
+        "pass_td": 20,
+        "pass_int": 9,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 52.1,
+        "qbr": 47.9,
+        "sacks": 38
+      },
+      {
+        "season": 2020,
+        "cmp": 396,
+        "att": 572,
+        "cmp_pct": 69.2,
+        "pass_yds": 4544,
+        "pass_td": 37,
+        "pass_int": 10,
+        "yards_per_attempt": 7.9,
+        "passer_rating": 56.3,
+        "qbr": 77.3,
+        "sacks": 26
+      },
+      {
+        "season": 2021,
+        "cmp": 409,
+        "att": 646,
+        "cmp_pct": 63.3,
+        "pass_yds": 4407,
+        "pass_td": 36,
+        "pass_int": 15,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 92.2,
+        "qbr": 67.4,
+        "sacks": 26
+      },
+      {
+        "season": 2022,
+        "cmp": 359,
+        "att": 567,
+        "cmp_pct": 63.3,
+        "pass_yds": 4283,
+        "pass_td": 35,
+        "pass_int": 14,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 96.6,
+        "qbr": 75.7,
+        "sacks": 33
+      },
+      {
+        "season": 2023,
+        "cmp": 385,
+        "att": 579,
+        "cmp_pct": 66.5,
+        "pass_yds": 4306,
+        "pass_td": 29,
+        "pass_int": 18,
+        "yards_per_attempt": 7.4,
+        "passer_rating": 92.2,
+        "qbr": 68.6,
+        "sacks": 24
+      },
+      {
+        "season": 2024,
+        "cmp": 307,
+        "att": 483,
+        "cmp_pct": 63.6,
+        "pass_yds": 3731,
+        "pass_td": 28,
+        "pass_int": 6,
+        "yards_per_attempt": 7.7,
+        "passer_rating": 101.4,
+        "qbr": 74.1,
+        "sacks": 14
+      },
+      {
+        "season": 2025,
+        "cmp": 319,
+        "att": 460,
+        "cmp_pct": 69.3,
+        "pass_yds": 3668,
+        "pass_td": 25,
+        "pass_int": 10,
+        "yards_per_attempt": 8.0,
+        "passer_rating": 102.2,
+        "qbr": 65.1,
+        "sacks": 40
+      }
+    ]
+  },
+  {
+    "player_name": "Josh Johnson",
+    "team": "Cincinnati Bengals",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/11394.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2009,
+        "cmp": 63,
+        "att": 125,
+        "cmp_pct": 50.4,
+        "pass_yds": 685,
+        "pass_td": 4,
+        "pass_int": 8,
+        "yards_per_attempt": 5.5,
+        "passer_rating": 50.9,
+        "qbr": 32.6,
+        "sacks": 11
+      },
+      {
+        "season": 2010,
+        "cmp": 14,
+        "att": 16,
+        "cmp_pct": 87.5,
+        "pass_yds": 111,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 95.6,
+        "qbr": 60.5,
+        "sacks": 2
+      },
+      {
+        "season": 2011,
+        "cmp": 19,
+        "att": 36,
+        "cmp_pct": 52.8,
+        "pass_yds": 246,
+        "pass_td": 1,
+        "pass_int": 2,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 60.6,
+        "qbr": 49.0,
+        "sacks": 3
+      },
+      {
+        "season": 2012,
+        "cmp": 0,
+        "att": 0,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 0.0,
+        "qbr": 0.0,
+        "sacks": 1
+      },
+      {
+        "season": 2013,
+        "cmp": 0,
+        "att": 0,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": 94.7,
+        "sacks": 0
+      },
+      {
+        "season": 2018,
+        "cmp": 52,
+        "att": 91,
+        "cmp_pct": 57.1,
+        "pass_yds": 590,
+        "pass_td": 3,
+        "pass_int": 4,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 52.1,
+        "qbr": 43.3,
+        "sacks": 9
+      },
+      {
+        "season": 2021,
+        "cmp": 57,
+        "att": 85,
+        "cmp_pct": 67.1,
+        "pass_yds": 638,
+        "pass_td": 5,
+        "pass_int": 2,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 99.0,
+        "qbr": 54.7,
+        "sacks": 3
+      },
+      {
+        "season": 2022,
+        "cmp": 1,
+        "att": 2,
+        "cmp_pct": 50.0,
+        "pass_yds": 10,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 5.0,
+        "passer_rating": 64.6,
+        "qbr": 20.7,
+        "sacks": 0
+      },
+      {
+        "season": 2024,
+        "cmp": 2,
+        "att": 3,
+        "cmp_pct": 66.7,
+        "pass_yds": 17,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 5.7,
+        "passer_rating": 81.3,
+        "qbr": 12.9,
+        "sacks": 1
+      },
+      {
+        "season": 2025,
+        "cmp": 34,
+        "att": 54,
+        "cmp_pct": 63.0,
+        "pass_yds": 372,
+        "pass_td": 1,
+        "pass_int": 2,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 74.0,
+        "qbr": 58.5,
+        "sacks": 2
+      }
+    ]
+  },
+  {
+    "player_name": "Justin Fields",
+    "team": "Kansas City Chiefs",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362887.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2021,
+        "cmp": 159,
+        "att": 270,
+        "cmp_pct": 58.9,
+        "pass_yds": 1870,
+        "pass_td": 7,
+        "pass_int": 10,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 73.2,
+        "qbr": 31.0,
+        "sacks": 36
+      },
+      {
+        "season": 2022,
+        "cmp": 192,
+        "att": 318,
+        "cmp_pct": 60.4,
+        "pass_yds": 2242,
+        "pass_td": 17,
+        "pass_int": 11,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 85.2,
+        "qbr": 58.5,
+        "sacks": 55
+      },
+      {
+        "season": 2023,
+        "cmp": 227,
+        "att": 370,
+        "cmp_pct": 61.4,
+        "pass_yds": 2562,
+        "pass_td": 16,
+        "pass_int": 9,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 86.3,
+        "qbr": 48.6,
+        "sacks": 44
+      },
+      {
+        "season": 2024,
+        "cmp": 106,
+        "att": 161,
+        "cmp_pct": 65.8,
+        "pass_yds": 1106,
+        "pass_td": 5,
+        "pass_int": 1,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 93.3,
+        "qbr": 49.4,
+        "sacks": 16
+      },
+      {
+        "season": 2025,
+        "cmp": 128,
+        "att": 204,
+        "cmp_pct": 62.7,
+        "pass_yds": 1259,
+        "pass_td": 7,
+        "pass_int": 1,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 89.5,
+        "qbr": 39.6,
+        "sacks": 27
+      }
+    ]
+  },
+  {
+    "player_name": "Justin Herbert",
+    "team": "Los Angeles Chargers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4038941.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2020,
+        "cmp": 396,
+        "att": 595,
+        "cmp_pct": 66.6,
+        "pass_yds": 4336,
+        "pass_td": 31,
+        "pass_int": 10,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 56.3,
+        "qbr": 67.6,
+        "sacks": 32
+      },
+      {
+        "season": 2021,
+        "cmp": 443,
+        "att": 672,
+        "cmp_pct": 65.9,
+        "pass_yds": 5014,
+        "pass_td": 38,
+        "pass_int": 15,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 97.7,
+        "qbr": 71.9,
+        "sacks": 31
+      },
+      {
+        "season": 2022,
+        "cmp": 477,
+        "att": 699,
+        "cmp_pct": 68.2,
+        "pass_yds": 4739,
+        "pass_td": 25,
+        "pass_int": 10,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 93.2,
+        "qbr": 61.7,
+        "sacks": 38
+      },
+      {
+        "season": 2023,
+        "cmp": 297,
+        "att": 456,
+        "cmp_pct": 65.1,
+        "pass_yds": 3134,
+        "pass_td": 20,
+        "pass_int": 7,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 93.2,
+        "qbr": 63.6,
+        "sacks": 29
+      },
+      {
+        "season": 2024,
+        "cmp": 332,
+        "att": 504,
+        "cmp_pct": 65.9,
+        "pass_yds": 3870,
+        "pass_td": 23,
+        "pass_int": 3,
+        "yards_per_attempt": 7.7,
+        "passer_rating": 101.7,
+        "qbr": 64.5,
+        "sacks": 41
+      },
+      {
+        "season": 2025,
+        "cmp": 340,
+        "att": 512,
+        "cmp_pct": 66.4,
+        "pass_yds": 3727,
+        "pass_td": 26,
+        "pass_int": 13,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 94.1,
+        "qbr": 61.6,
+        "sacks": 54
+      }
+    ]
+  },
+  {
+    "player_name": "Kedon Slovis",
+    "team": "Arizona Cardinals",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4428512.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 1,
+        "att": 2,
+        "cmp_pct": 50.0,
+        "pass_yds": -2,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": -1.0,
+        "passer_rating": 56.3,
+        "qbr": 0.3,
+        "sacks": 0
+      }
+    ]
+  },
+  {
+    "player_name": "Kenny Pickett",
+    "team": "Carolina Panthers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240703.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2022,
+        "cmp": 245,
+        "att": 389,
+        "cmp_pct": 63.0,
+        "pass_yds": 2404,
+        "pass_td": 7,
+        "pass_int": 9,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 76.7,
+        "qbr": 52.4,
+        "sacks": 27
+      },
+      {
+        "season": 2023,
+        "cmp": 201,
+        "att": 324,
+        "cmp_pct": 62.0,
+        "pass_yds": 2070,
+        "pass_td": 6,
+        "pass_int": 4,
+        "yards_per_attempt": 6.4,
+        "passer_rating": 81.4,
+        "qbr": 35.4,
+        "sacks": 23
+      },
+      {
+        "season": 2024,
+        "cmp": 25,
+        "att": 42,
+        "cmp_pct": 59.5,
+        "pass_yds": 291,
+        "pass_td": 2,
+        "pass_int": 1,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 86.5,
+        "qbr": 73.6,
+        "sacks": 4
+      },
+      {
+        "season": 2025,
+        "cmp": 28,
+        "att": 45,
+        "cmp_pct": 62.2,
+        "pass_yds": 188,
+        "pass_td": 1,
+        "pass_int": 2,
+        "yards_per_attempt": 4.2,
+        "passer_rating": 60.2,
+        "qbr": 2.8,
+        "sacks": 8
+      }
+    ]
+  },
+  {
+    "player_name": "Kirk Cousins",
+    "team": "Las Vegas Raiders",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/14880.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2012,
+        "cmp": 33,
+        "att": 48,
+        "cmp_pct": 68.8,
+        "pass_yds": 466,
+        "pass_td": 4,
+        "pass_int": 3,
+        "yards_per_attempt": 9.7,
+        "passer_rating": 101.6,
+        "qbr": 77.7,
+        "sacks": 3
+      },
+      {
+        "season": 2013,
+        "cmp": 81,
+        "att": 155,
+        "cmp_pct": 52.3,
+        "pass_yds": 854,
+        "pass_td": 4,
+        "pass_int": 7,
+        "yards_per_attempt": 5.5,
+        "passer_rating": 47.9,
+        "qbr": 41.7,
+        "sacks": 5
+      },
+      {
+        "season": 2014,
+        "cmp": 126,
+        "att": 204,
+        "cmp_pct": 61.8,
+        "pass_yds": 1710,
+        "pass_td": 10,
+        "pass_int": 9,
+        "yards_per_attempt": 8.4,
+        "passer_rating": 60.4,
+        "qbr": 52.0,
+        "sacks": 8
+      },
+      {
+        "season": 2015,
+        "cmp": 379,
+        "att": 543,
+        "cmp_pct": 69.8,
+        "pass_yds": 4166,
+        "pass_td": 29,
+        "pass_int": 11,
+        "yards_per_attempt": 7.7,
+        "passer_rating": 56.3,
+        "qbr": 71.7,
+        "sacks": 26
+      },
+      {
+        "season": 2016,
+        "cmp": 406,
+        "att": 606,
+        "cmp_pct": 67.0,
+        "pass_yds": 4917,
+        "pass_td": 25,
+        "pass_int": 12,
+        "yards_per_attempt": 8.1,
+        "passer_rating": 60.4,
+        "qbr": 66.1,
+        "sacks": 23
+      },
+      {
+        "season": 2017,
+        "cmp": 347,
+        "att": 540,
+        "cmp_pct": 64.3,
+        "pass_yds": 4093,
+        "pass_td": 27,
+        "pass_int": 13,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 56.3,
+        "qbr": 54.6,
+        "sacks": 41
+      },
+      {
+        "season": 2018,
+        "cmp": 425,
+        "att": 606,
+        "cmp_pct": 70.1,
+        "pass_yds": 4298,
+        "pass_td": 30,
+        "pass_int": 10,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 56.3,
+        "qbr": 58.2,
+        "sacks": 40
+      },
+      {
+        "season": 2019,
+        "cmp": 307,
+        "att": 444,
+        "cmp_pct": 69.1,
+        "pass_yds": 3603,
+        "pass_td": 26,
+        "pass_int": 6,
+        "yards_per_attempt": 8.1,
+        "passer_rating": 60.4,
+        "qbr": 61.7,
+        "sacks": 28
+      },
+      {
+        "season": 2020,
+        "cmp": 349,
+        "att": 516,
+        "cmp_pct": 67.6,
+        "pass_yds": 4265,
+        "pass_td": 35,
+        "pass_int": 13,
+        "yards_per_attempt": 8.3,
+        "passer_rating": 60.4,
+        "qbr": 58.7,
+        "sacks": 39
+      },
+      {
+        "season": 2021,
+        "cmp": 372,
+        "att": 561,
+        "cmp_pct": 66.3,
+        "pass_yds": 4221,
+        "pass_td": 33,
+        "pass_int": 7,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 103.1,
+        "qbr": 57.7,
+        "sacks": 28
+      },
+      {
+        "season": 2022,
+        "cmp": 424,
+        "att": 643,
+        "cmp_pct": 65.9,
+        "pass_yds": 4547,
+        "pass_td": 29,
+        "pass_int": 14,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 92.5,
+        "qbr": 54.1,
+        "sacks": 46
+      },
+      {
+        "season": 2023,
+        "cmp": 216,
+        "att": 311,
+        "cmp_pct": 69.5,
+        "pass_yds": 2331,
+        "pass_td": 18,
+        "pass_int": 5,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 103.8,
+        "qbr": 65.0,
+        "sacks": 17
+      },
+      {
+        "season": 2024,
+        "cmp": 303,
+        "att": 453,
+        "cmp_pct": 66.9,
+        "pass_yds": 3508,
+        "pass_td": 18,
+        "pass_int": 16,
+        "yards_per_attempt": 7.7,
+        "passer_rating": 88.6,
+        "qbr": 47.7,
+        "sacks": 28
+      },
+      {
+        "season": 2025,
+        "cmp": 166,
+        "att": 269,
+        "cmp_pct": 61.7,
+        "pass_yds": 1721,
+        "pass_td": 10,
+        "pass_int": 5,
+        "yards_per_attempt": 6.4,
+        "passer_rating": 84.8,
+        "qbr": 49.3,
+        "sacks": 13
+      }
+    ]
+  },
+  {
+    "player_name": "Kurtis Rourke",
+    "team": "San Francisco 49ers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430431.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": []
+  },
+  {
+    "player_name": "Kyle Allen",
+    "team": "Buffalo Bills",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3115293.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2018,
+        "cmp": 20,
+        "att": 31,
+        "cmp_pct": 64.5,
+        "pass_yds": 266,
+        "pass_td": 2,
+        "pass_int": 0,
+        "yards_per_attempt": 8.6,
+        "passer_rating": 60.4,
+        "qbr": 96.4,
+        "sacks": 0
+      },
+      {
+        "season": 2019,
+        "cmp": 303,
+        "att": 489,
+        "cmp_pct": 62.0,
+        "pass_yds": 3322,
+        "pass_td": 17,
+        "pass_int": 16,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 52.1,
+        "qbr": 39.7,
+        "sacks": 46
+      },
+      {
+        "season": 2020,
+        "cmp": 60,
+        "att": 87,
+        "cmp_pct": 69.0,
+        "pass_yds": 610,
+        "pass_td": 4,
+        "pass_int": 1,
+        "yards_per_attempt": 7.0,
+        "passer_rating": 56.3,
+        "qbr": 65.1,
+        "sacks": 7
+      },
+      {
+        "season": 2021,
+        "cmp": 12,
+        "att": 19,
+        "cmp_pct": 63.2,
+        "pass_yds": 120,
+        "pass_td": 1,
+        "pass_int": 0,
+        "yards_per_attempt": 6.3,
+        "passer_rating": 98.6,
+        "qbr": 24.0,
+        "sacks": 2
+      },
+      {
+        "season": 2022,
+        "cmp": 46,
+        "att": 78,
+        "cmp_pct": 59.0,
+        "pass_yds": 416,
+        "pass_td": 2,
+        "pass_int": 4,
+        "yards_per_attempt": 5.3,
+        "passer_rating": 60.6,
+        "qbr": 3.6,
+        "sacks": 5
+      },
+      {
+        "season": 2023,
+        "cmp": 0,
+        "att": 0,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": null,
+        "sacks": 0
+      },
+      {
+        "season": 2024,
+        "cmp": 1,
+        "att": 1,
+        "cmp_pct": 100.0,
+        "pass_yds": 19,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 19.0,
+        "passer_rating": 118.8,
+        "qbr": 99.5,
+        "sacks": 0
+      },
+      {
+        "season": 2025,
+        "cmp": 0,
+        "att": 2,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": 4.9,
+        "sacks": 0
+      }
+    ]
+  },
+  {
+    "player_name": "Kyle McCord",
+    "team": "Green Bay Packers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4433971.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": []
+  },
+  {
+    "player_name": "Kyler Murray",
+    "team": "Minnesota Vikings",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3917315.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2019,
+        "cmp": 349,
+        "att": 542,
+        "cmp_pct": 64.4,
+        "pass_yds": 3722,
+        "pass_td": 20,
+        "pass_int": 12,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 52.1,
+        "qbr": 58.0,
+        "sacks": 48
+      },
+      {
+        "season": 2020,
+        "cmp": 375,
+        "att": 558,
+        "cmp_pct": 67.2,
+        "pass_yds": 3971,
+        "pass_td": 26,
+        "pass_int": 12,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 56.3,
+        "qbr": 61.3,
+        "sacks": 27
+      },
+      {
+        "season": 2021,
+        "cmp": 333,
+        "att": 481,
+        "cmp_pct": 69.2,
+        "pass_yds": 3787,
+        "pass_td": 24,
+        "pass_int": 10,
+        "yards_per_attempt": 7.9,
+        "passer_rating": 100.6,
+        "qbr": 61.5,
+        "sacks": 31
+      },
+      {
+        "season": 2022,
+        "cmp": 259,
+        "att": 390,
+        "cmp_pct": 66.4,
+        "pass_yds": 2368,
+        "pass_td": 14,
+        "pass_int": 7,
+        "yards_per_attempt": 6.1,
+        "passer_rating": 87.2,
+        "qbr": 55.3,
+        "sacks": 25
+      },
+      {
+        "season": 2023,
+        "cmp": 176,
+        "att": 268,
+        "cmp_pct": 65.7,
+        "pass_yds": 1799,
+        "pass_td": 10,
+        "pass_int": 5,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 89.4,
+        "qbr": 49.0,
+        "sacks": 18
+      },
+      {
+        "season": 2024,
+        "cmp": 372,
+        "att": 541,
+        "cmp_pct": 68.8,
+        "pass_yds": 3851,
+        "pass_td": 21,
+        "pass_int": 11,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 93.5,
+        "qbr": 61.3,
+        "sacks": 30
+      },
+      {
+        "season": 2025,
+        "cmp": 110,
+        "att": 161,
+        "cmp_pct": 68.3,
+        "pass_yds": 962,
+        "pass_td": 6,
+        "pass_int": 3,
+        "yards_per_attempt": 6.0,
+        "passer_rating": 88.6,
+        "qbr": 47.3,
+        "sacks": 16
+      }
+    ]
+  },
+  {
+    "player_name": "Lamar Jackson",
+    "team": "Baltimore Ravens",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3916387.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2018,
+        "cmp": 99,
+        "att": 170,
+        "cmp_pct": 58.2,
+        "pass_yds": 1201,
+        "pass_td": 6,
+        "pass_int": 3,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 56.3,
+        "qbr": 46.3,
+        "sacks": 16
+      },
+      {
+        "season": 2019,
+        "cmp": 265,
+        "att": 401,
+        "cmp_pct": 66.1,
+        "pass_yds": 3127,
+        "pass_td": 36,
+        "pass_int": 6,
+        "yards_per_attempt": 7.8,
+        "passer_rating": 56.3,
+        "qbr": 82.3,
+        "sacks": 23
+      },
+      {
+        "season": 2020,
+        "cmp": 242,
+        "att": 376,
+        "cmp_pct": 64.4,
+        "pass_yds": 2757,
+        "pass_td": 26,
+        "pass_int": 9,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 56.3,
+        "qbr": 68.4,
+        "sacks": 29
+      },
+      {
+        "season": 2021,
+        "cmp": 246,
+        "att": 382,
+        "cmp_pct": 64.4,
+        "pass_yds": 2882,
+        "pass_td": 16,
+        "pass_int": 13,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 87.0,
+        "qbr": 56.8,
+        "sacks": 38
+      },
+      {
+        "season": 2022,
+        "cmp": 203,
+        "att": 326,
+        "cmp_pct": 62.3,
+        "pass_yds": 2242,
+        "pass_td": 17,
+        "pass_int": 7,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 91.1,
+        "qbr": 58.7,
+        "sacks": 26
+      },
+      {
+        "season": 2023,
+        "cmp": 307,
+        "att": 457,
+        "cmp_pct": 67.2,
+        "pass_yds": 3678,
+        "pass_td": 24,
+        "pass_int": 7,
+        "yards_per_attempt": 8.0,
+        "passer_rating": 102.7,
+        "qbr": 64.9,
+        "sacks": 37
+      },
+      {
+        "season": 2024,
+        "cmp": 316,
+        "att": 474,
+        "cmp_pct": 66.7,
+        "pass_yds": 4172,
+        "pass_td": 41,
+        "pass_int": 4,
+        "yards_per_attempt": 8.8,
+        "passer_rating": 119.6,
+        "qbr": 75.0,
+        "sacks": 23
+      },
+      {
+        "season": 2025,
+        "cmp": 192,
+        "att": 302,
+        "cmp_pct": 63.6,
+        "pass_yds": 2549,
+        "pass_td": 21,
+        "pass_int": 7,
+        "yards_per_attempt": 8.4,
+        "passer_rating": 103.8,
+        "qbr": 61.1,
+        "sacks": 36
+      }
+    ]
+  },
+  {
+    "player_name": "Mac Jones",
+    "team": "San Francisco 49ers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241464.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2021,
+        "cmp": 352,
+        "att": 521,
+        "cmp_pct": 67.6,
+        "pass_yds": 3801,
+        "pass_td": 22,
+        "pass_int": 13,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 92.5,
+        "qbr": 56.4,
+        "sacks": 28
+      },
+      {
+        "season": 2022,
+        "cmp": 288,
+        "att": 442,
+        "cmp_pct": 65.2,
+        "pass_yds": 2997,
+        "pass_td": 14,
+        "pass_int": 11,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 84.8,
+        "qbr": 37.9,
+        "sacks": 34
+      },
+      {
+        "season": 2023,
+        "cmp": 224,
+        "att": 345,
+        "cmp_pct": 64.9,
+        "pass_yds": 2120,
+        "pass_td": 10,
+        "pass_int": 12,
+        "yards_per_attempt": 6.1,
+        "passer_rating": 77.0,
+        "qbr": 37.7,
+        "sacks": 22
+      },
+      {
+        "season": 2024,
+        "cmp": 171,
+        "att": 262,
+        "cmp_pct": 65.3,
+        "pass_yds": 1672,
+        "pass_td": 8,
+        "pass_int": 8,
+        "yards_per_attempt": 6.4,
+        "passer_rating": 80.5,
+        "qbr": 35.7,
+        "sacks": 14
+      },
+      {
+        "season": 2025,
+        "cmp": 201,
+        "att": 289,
+        "cmp_pct": 69.6,
+        "pass_yds": 2151,
+        "pass_td": 13,
+        "pass_int": 6,
+        "yards_per_attempt": 7.4,
+        "passer_rating": 97.4,
+        "qbr": 62.2,
+        "sacks": 16
+      }
+    ]
+  },
+  {
+    "player_name": "Malik Willis",
+    "team": "Miami Dolphins",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4242512.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2022,
+        "cmp": 31,
+        "att": 61,
+        "cmp_pct": 50.8,
+        "pass_yds": 276,
+        "pass_td": 0,
+        "pass_int": 3,
+        "yards_per_attempt": 4.5,
+        "passer_rating": 42.8,
+        "qbr": 12.8,
+        "sacks": 10
+      },
+      {
+        "season": 2023,
+        "cmp": 4,
+        "att": 5,
+        "cmp_pct": 80.0,
+        "pass_yds": 74,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 14.8,
+        "passer_rating": 118.8,
+        "qbr": 2.0,
+        "sacks": 4
+      },
+      {
+        "season": 2024,
+        "cmp": 40,
+        "att": 54,
+        "cmp_pct": 74.1,
+        "pass_yds": 550,
+        "pass_td": 3,
+        "pass_int": 0,
+        "yards_per_attempt": 10.2,
+        "passer_rating": 124.8,
+        "qbr": 77.4,
+        "sacks": 8
+      },
+      {
+        "season": 2025,
+        "cmp": 30,
+        "att": 35,
+        "cmp_pct": 85.7,
+        "pass_yds": 422,
+        "pass_td": 3,
+        "pass_int": 0,
+        "yards_per_attempt": 12.1,
+        "passer_rating": 145.5,
+        "qbr": 93.7,
+        "sacks": 3
+      }
+    ]
+  },
+  {
+    "player_name": "Marcus Mariota",
+    "team": "Washington Commanders",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2576980.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2015,
+        "cmp": 230,
+        "att": 370,
+        "cmp_pct": 62.2,
+        "pass_yds": 2818,
+        "pass_td": 19,
+        "pass_int": 10,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 56.3,
+        "qbr": 53.3,
+        "sacks": 38
+      },
+      {
+        "season": 2016,
+        "cmp": 276,
+        "att": 451,
+        "cmp_pct": 61.2,
+        "pass_yds": 3426,
+        "pass_td": 26,
+        "pass_int": 9,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 56.3,
+        "qbr": 59.4,
+        "sacks": 23
+      },
+      {
+        "season": 2017,
+        "cmp": 281,
+        "att": 453,
+        "cmp_pct": 62.0,
+        "pass_yds": 3232,
+        "pass_td": 13,
+        "pass_int": 15,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 56.3,
+        "qbr": 59.1,
+        "sacks": 27
+      },
+      {
+        "season": 2018,
+        "cmp": 228,
+        "att": 331,
+        "cmp_pct": 68.9,
+        "pass_yds": 2528,
+        "pass_td": 11,
+        "pass_int": 8,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 56.3,
+        "qbr": 50.6,
+        "sacks": 42
+      },
+      {
+        "season": 2019,
+        "cmp": 95,
+        "att": 160,
+        "cmp_pct": 59.4,
+        "pass_yds": 1203,
+        "pass_td": 7,
+        "pass_int": 2,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 56.3,
+        "qbr": 33.2,
+        "sacks": 25
+      },
+      {
+        "season": 2020,
+        "cmp": 17,
+        "att": 28,
+        "cmp_pct": 60.7,
+        "pass_yds": 226,
+        "pass_td": 1,
+        "pass_int": 1,
+        "yards_per_attempt": 8.1,
+        "passer_rating": 60.4,
+        "qbr": 98.1,
+        "sacks": 0
+      },
+      {
+        "season": 2021,
+        "cmp": 1,
+        "att": 2,
+        "cmp_pct": 50.0,
+        "pass_yds": 4,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 2.0,
+        "passer_rating": 56.3,
+        "qbr": 46.9,
+        "sacks": 0
+      },
+      {
+        "season": 2022,
+        "cmp": 184,
+        "att": 300,
+        "cmp_pct": 61.3,
+        "pass_yds": 2219,
+        "pass_td": 15,
+        "pass_int": 9,
+        "yards_per_attempt": 7.4,
+        "passer_rating": 88.2,
+        "qbr": 57.1,
+        "sacks": 28
+      },
+      {
+        "season": 2023,
+        "cmp": 15,
+        "att": 23,
+        "cmp_pct": 65.2,
+        "pass_yds": 164,
+        "pass_td": 1,
+        "pass_int": 1,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 82.5,
+        "qbr": 53.9,
+        "sacks": 3
+      },
+      {
+        "season": 2024,
+        "cmp": 34,
+        "att": 44,
+        "cmp_pct": 77.3,
+        "pass_yds": 364,
+        "pass_td": 4,
+        "pass_int": 0,
+        "yards_per_attempt": 8.3,
+        "passer_rating": 131.3,
+        "qbr": 88.9,
+        "sacks": 3
+      },
+      {
+        "season": 2025,
+        "cmp": 139,
+        "att": 227,
+        "cmp_pct": 61.2,
+        "pass_yds": 1695,
+        "pass_td": 10,
+        "pass_int": 7,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 86.1,
+        "qbr": 49.9,
+        "sacks": 16
+      }
+    ]
+  },
+  {
+    "player_name": "Mason Rudolph",
+    "team": "Pittsburgh Steelers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3116407.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2019,
+        "cmp": 176,
+        "att": 283,
+        "cmp_pct": 62.2,
+        "pass_yds": 1765,
+        "pass_td": 13,
+        "pass_int": 9,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 52.1,
+        "qbr": 36.8,
+        "sacks": 15
+      },
+      {
+        "season": 2020,
+        "cmp": 25,
+        "att": 43,
+        "cmp_pct": 58.1,
+        "pass_yds": 324,
+        "pass_td": 2,
+        "pass_int": 1,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 56.3,
+        "qbr": 67.7,
+        "sacks": 1
+      },
+      {
+        "season": 2021,
+        "cmp": 35,
+        "att": 58,
+        "cmp_pct": 60.3,
+        "pass_yds": 277,
+        "pass_td": 1,
+        "pass_int": 1,
+        "yards_per_attempt": 4.8,
+        "passer_rating": 70.8,
+        "qbr": 58.9,
+        "sacks": 0
+      },
+      {
+        "season": 2023,
+        "cmp": 55,
+        "att": 74,
+        "cmp_pct": 74.3,
+        "pass_yds": 719,
+        "pass_td": 3,
+        "pass_int": 0,
+        "yards_per_attempt": 9.7,
+        "passer_rating": 118.0,
+        "qbr": 68.7,
+        "sacks": 6
+      },
+      {
+        "season": 2024,
+        "cmp": 146,
+        "att": 228,
+        "cmp_pct": 64.0,
+        "pass_yds": 1530,
+        "pass_td": 9,
+        "pass_int": 9,
+        "yards_per_attempt": 6.7,
+        "passer_rating": 80.1,
+        "qbr": 53.1,
+        "sacks": 11
+      },
+      {
+        "season": 2025,
+        "cmp": 38,
+        "att": 52,
+        "cmp_pct": 73.1,
+        "pass_yds": 310,
+        "pass_td": 2,
+        "pass_int": 2,
+        "yards_per_attempt": 6.0,
+        "passer_rating": 84.6,
+        "qbr": 36.5,
+        "sacks": 2
+      }
+    ]
+  },
+  {
+    "player_name": "Matthew Stafford",
+    "team": "Los Angeles Rams",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/12483.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2009,
+        "cmp": 201,
+        "att": 377,
+        "cmp_pct": 53.3,
+        "pass_yds": 2267,
+        "pass_td": 13,
+        "pass_int": 20,
+        "yards_per_attempt": 6.0,
+        "passer_rating": 61.0,
+        "qbr": 37.0,
+        "sacks": 24
+      },
+      {
+        "season": 2010,
+        "cmp": 57,
+        "att": 96,
+        "cmp_pct": 59.4,
+        "pass_yds": 535,
+        "pass_td": 6,
+        "pass_int": 1,
+        "yards_per_attempt": 5.6,
+        "passer_rating": 91.3,
+        "qbr": 50.5,
+        "sacks": 4
+      },
+      {
+        "season": 2011,
+        "cmp": 421,
+        "att": 663,
+        "cmp_pct": 63.5,
+        "pass_yds": 5038,
+        "pass_td": 41,
+        "pass_int": 16,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 97.2,
+        "qbr": 61.6,
+        "sacks": 36
+      },
+      {
+        "season": 2012,
+        "cmp": 435,
+        "att": 727,
+        "cmp_pct": 59.8,
+        "pass_yds": 4967,
+        "pass_td": 20,
+        "pass_int": 17,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 79.8,
+        "qbr": 56.1,
+        "sacks": 29
+      },
+      {
+        "season": 2013,
+        "cmp": 371,
+        "att": 634,
+        "cmp_pct": 58.5,
+        "pass_yds": 4650,
+        "pass_td": 29,
+        "pass_int": 19,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 56.3,
+        "qbr": 56.2,
+        "sacks": 23
+      },
+      {
+        "season": 2014,
+        "cmp": 363,
+        "att": 602,
+        "cmp_pct": 60.3,
+        "pass_yds": 4257,
+        "pass_td": 22,
+        "pass_int": 12,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 56.3,
+        "qbr": 47.3,
+        "sacks": 45
+      },
+      {
+        "season": 2015,
+        "cmp": 398,
+        "att": 592,
+        "cmp_pct": 67.2,
+        "pass_yds": 4262,
+        "pass_td": 32,
+        "pass_int": 13,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 56.3,
+        "qbr": 58.5,
+        "sacks": 44
+      },
+      {
+        "season": 2016,
+        "cmp": 388,
+        "att": 594,
+        "cmp_pct": 65.3,
+        "pass_yds": 4327,
+        "pass_td": 24,
+        "pass_int": 10,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 56.3,
+        "qbr": 66.5,
+        "sacks": 37
+      },
+      {
+        "season": 2017,
+        "cmp": 371,
+        "att": 565,
+        "cmp_pct": 65.7,
+        "pass_yds": 4446,
+        "pass_td": 29,
+        "pass_int": 10,
+        "yards_per_attempt": 7.9,
+        "passer_rating": 56.3,
+        "qbr": 65.5,
+        "sacks": 47
+      },
+      {
+        "season": 2018,
+        "cmp": 367,
+        "att": 555,
+        "cmp_pct": 66.1,
+        "pass_yds": 3777,
+        "pass_td": 21,
+        "pass_int": 11,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 52.1,
+        "qbr": 48.4,
+        "sacks": 40
+      },
+      {
+        "season": 2019,
+        "cmp": 187,
+        "att": 291,
+        "cmp_pct": 64.3,
+        "pass_yds": 2499,
+        "pass_td": 19,
+        "pass_int": 5,
+        "yards_per_attempt": 8.6,
+        "passer_rating": 60.4,
+        "qbr": 74.7,
+        "sacks": 18
+      },
+      {
+        "season": 2020,
+        "cmp": 339,
+        "att": 528,
+        "cmp_pct": 64.2,
+        "pass_yds": 4084,
+        "pass_td": 26,
+        "pass_int": 10,
+        "yards_per_attempt": 7.7,
+        "passer_rating": 56.3,
+        "qbr": 61.5,
+        "sacks": 38
+      },
+      {
+        "season": 2021,
+        "cmp": 404,
+        "att": 601,
+        "cmp_pct": 67.2,
+        "pass_yds": 4886,
+        "pass_td": 41,
+        "pass_int": 17,
+        "yards_per_attempt": 8.1,
+        "passer_rating": 102.9,
+        "qbr": 69.6,
+        "sacks": 30
+      },
+      {
+        "season": 2022,
+        "cmp": 206,
+        "att": 303,
+        "cmp_pct": 68.0,
+        "pass_yds": 2087,
+        "pass_td": 10,
+        "pass_int": 8,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 87.4,
+        "qbr": 48.3,
+        "sacks": 29
+      },
+      {
+        "season": 2023,
+        "cmp": 326,
+        "att": 521,
+        "cmp_pct": 62.6,
+        "pass_yds": 3965,
+        "pass_td": 24,
+        "pass_int": 11,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 92.5,
+        "qbr": 62.9,
+        "sacks": 30
+      },
+      {
+        "season": 2024,
+        "cmp": 340,
+        "att": 517,
+        "cmp_pct": 65.8,
+        "pass_yds": 3762,
+        "pass_td": 20,
+        "pass_int": 8,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 93.7,
+        "qbr": 59.8,
+        "sacks": 28
+      },
+      {
+        "season": 2025,
+        "cmp": 388,
+        "att": 597,
+        "cmp_pct": 65.0,
+        "pass_yds": 4707,
+        "pass_td": 46,
+        "pass_int": 8,
+        "yards_per_attempt": 7.9,
+        "passer_rating": 109.2,
+        "qbr": 71.0,
+        "sacks": 23
+      }
+    ]
+  },
+  {
+    "player_name": "Max Brosmer",
+    "team": "Minnesota Vikings",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4573398.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 47,
+        "att": 71,
+        "cmp_pct": 66.2,
+        "pass_yds": 328,
+        "pass_td": 0,
+        "pass_int": 4,
+        "yards_per_attempt": 4.6,
+        "passer_rating": 53.0,
+        "qbr": 12.7,
+        "sacks": 14
+      }
+    ]
+  },
+  {
+    "player_name": "Michael Penix Jr.",
+    "team": "Atlanta Falcons",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360423.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "cmp": 61,
+        "att": 105,
+        "cmp_pct": 58.1,
+        "pass_yds": 775,
+        "pass_td": 3,
+        "pass_int": 3,
+        "yards_per_attempt": 7.4,
+        "passer_rating": 78.9,
+        "qbr": 53.5,
+        "sacks": 4
+      },
+      {
+        "season": 2025,
+        "cmp": 166,
+        "att": 276,
+        "cmp_pct": 60.1,
+        "pass_yds": 1982,
+        "pass_td": 9,
+        "pass_int": 3,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 88.5,
+        "qbr": 58.3,
+        "sacks": 13
+      }
+    ]
+  },
+  {
+    "player_name": "Mitchell Trubisky",
+    "team": "Tennessee Titans",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3039707.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2017,
+        "cmp": 196,
+        "att": 330,
+        "cmp_pct": 59.4,
+        "pass_yds": 2193,
+        "pass_td": 7,
+        "pass_int": 7,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 52.1,
+        "qbr": 32.5,
+        "sacks": 31
+      },
+      {
+        "season": 2018,
+        "cmp": 289,
+        "att": 434,
+        "cmp_pct": 66.6,
+        "pass_yds": 3223,
+        "pass_td": 24,
+        "pass_int": 12,
+        "yards_per_attempt": 7.4,
+        "passer_rating": 56.3,
+        "qbr": 70.8,
+        "sacks": 24
+      },
+      {
+        "season": 2019,
+        "cmp": 326,
+        "att": 516,
+        "cmp_pct": 63.2,
+        "pass_yds": 3138,
+        "pass_td": 17,
+        "pass_int": 10,
+        "yards_per_attempt": 6.1,
+        "passer_rating": 52.1,
+        "qbr": 42.6,
+        "sacks": 38
+      },
+      {
+        "season": 2020,
+        "cmp": 199,
+        "att": 297,
+        "cmp_pct": 67.0,
+        "pass_yds": 2055,
+        "pass_td": 16,
+        "pass_int": 8,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 52.1,
+        "qbr": 57.1,
+        "sacks": 18
+      },
+      {
+        "season": 2021,
+        "cmp": 6,
+        "att": 8,
+        "cmp_pct": 75.0,
+        "pass_yds": 43,
+        "pass_td": 0,
+        "pass_int": 1,
+        "yards_per_attempt": 5.4,
+        "passer_rating": 47.4,
+        "qbr": 81.6,
+        "sacks": 0
+      },
+      {
+        "season": 2022,
+        "cmp": 117,
+        "att": 180,
+        "cmp_pct": 65.0,
+        "pass_yds": 1252,
+        "pass_td": 4,
+        "pass_int": 5,
+        "yards_per_attempt": 7.0,
+        "passer_rating": 81.1,
+        "qbr": 55.0,
+        "sacks": 11
+      },
+      {
+        "season": 2023,
+        "cmp": 67,
+        "att": 107,
+        "cmp_pct": 62.6,
+        "pass_yds": 632,
+        "pass_td": 4,
+        "pass_int": 5,
+        "yards_per_attempt": 5.9,
+        "passer_rating": 71.9,
+        "qbr": 35.0,
+        "sacks": 7
+      },
+      {
+        "season": 2024,
+        "cmp": 19,
+        "att": 26,
+        "cmp_pct": 73.1,
+        "pass_yds": 179,
+        "pass_td": 2,
+        "pass_int": 0,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 117.3,
+        "qbr": 66.1,
+        "sacks": 0
+      },
+      {
+        "season": 2025,
+        "cmp": 25,
+        "att": 35,
+        "cmp_pct": 71.4,
+        "pass_yds": 313,
+        "pass_td": 4,
+        "pass_int": 0,
+        "yards_per_attempt": 8.9,
+        "passer_rating": 137.0,
+        "qbr": 94.2,
+        "sacks": 0
+      }
+    ]
+  },
+  {
+    "player_name": "Nick Mullens",
+    "team": "Jacksonville Jaguars",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3059989.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2018,
+        "cmp": 176,
+        "att": 274,
+        "cmp_pct": 64.2,
+        "pass_yds": 2277,
+        "pass_td": 13,
+        "pass_int": 10,
+        "yards_per_attempt": 8.3,
+        "passer_rating": 60.4,
+        "qbr": 53.8,
+        "sacks": 17
+      },
+      {
+        "season": 2019,
+        "cmp": 0,
+        "att": 0,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": 0.0,
+        "sacks": 0
+      },
+      {
+        "season": 2020,
+        "cmp": 211,
+        "att": 326,
+        "cmp_pct": 64.7,
+        "pass_yds": 2437,
+        "pass_td": 12,
+        "pass_int": 12,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 56.3,
+        "qbr": 31.3,
+        "sacks": 19
+      },
+      {
+        "season": 2021,
+        "cmp": 20,
+        "att": 30,
+        "cmp_pct": 66.7,
+        "pass_yds": 147,
+        "pass_td": 1,
+        "pass_int": 0,
+        "yards_per_attempt": 4.9,
+        "passer_rating": 89.2,
+        "qbr": 87.0,
+        "sacks": 0
+      },
+      {
+        "season": 2022,
+        "cmp": 21,
+        "att": 25,
+        "cmp_pct": 84.0,
+        "pass_yds": 224,
+        "pass_td": 1,
+        "pass_int": 1,
+        "yards_per_attempt": 9.0,
+        "passer_rating": 100.7,
+        "qbr": 63.4,
+        "sacks": 0
+      },
+      {
+        "season": 2023,
+        "cmp": 100,
+        "att": 148,
+        "cmp_pct": 67.6,
+        "pass_yds": 1306,
+        "pass_td": 7,
+        "pass_int": 8,
+        "yards_per_attempt": 8.8,
+        "passer_rating": 88.4,
+        "qbr": 54.6,
+        "sacks": 12
+      },
+      {
+        "season": 2024,
+        "cmp": 2,
+        "att": 2,
+        "cmp_pct": 100.0,
+        "pass_yds": 38,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 19.0,
+        "passer_rating": 118.8,
+        "qbr": 97.1,
+        "sacks": 0
+      },
+      {
+        "season": 2025,
+        "cmp": 3,
+        "att": 3,
+        "cmp_pct": 100.0,
+        "pass_yds": 19,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 6.3,
+        "passer_rating": 93.1,
+        "qbr": 89.6,
+        "sacks": 0
+      }
+    ]
+  },
+  {
+    "player_name": "Patrick Mahomes",
+    "team": "Kansas City Chiefs",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3139477.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2017,
+        "cmp": 22,
+        "att": 35,
+        "cmp_pct": 62.9,
+        "pass_yds": 284,
+        "pass_td": 0,
+        "pass_int": 1,
+        "yards_per_attempt": 8.1,
+        "passer_rating": 60.4,
+        "qbr": 59.8,
+        "sacks": 2
+      },
+      {
+        "season": 2018,
+        "cmp": 383,
+        "att": 580,
+        "cmp_pct": 66.0,
+        "pass_yds": 5097,
+        "pass_td": 50,
+        "pass_int": 12,
+        "yards_per_attempt": 8.8,
+        "passer_rating": 60.4,
+        "qbr": 80.4,
+        "sacks": 26
+      },
+      {
+        "season": 2019,
+        "cmp": 319,
+        "att": 484,
+        "cmp_pct": 65.9,
+        "pass_yds": 4031,
+        "pass_td": 26,
+        "pass_int": 5,
+        "yards_per_attempt": 8.3,
+        "passer_rating": 60.4,
+        "qbr": 79.4,
+        "sacks": 17
+      },
+      {
+        "season": 2020,
+        "cmp": 390,
+        "att": 588,
+        "cmp_pct": 66.3,
+        "pass_yds": 4740,
+        "pass_td": 38,
+        "pass_int": 6,
+        "yards_per_attempt": 8.1,
+        "passer_rating": 108.2,
+        "qbr": 80.4,
+        "sacks": 22
+      },
+      {
+        "season": 2021,
+        "cmp": 436,
+        "att": 658,
+        "cmp_pct": 66.3,
+        "pass_yds": 4839,
+        "pass_td": 37,
+        "pass_int": 13,
+        "yards_per_attempt": 7.4,
+        "passer_rating": 98.5,
+        "qbr": 68.4,
+        "sacks": 28
+      },
+      {
+        "season": 2022,
+        "cmp": 435,
+        "att": 648,
+        "cmp_pct": 67.1,
+        "pass_yds": 5250,
+        "pass_td": 41,
+        "pass_int": 12,
+        "yards_per_attempt": 8.1,
+        "passer_rating": 105.2,
+        "qbr": 79.0,
+        "sacks": 26
+      },
+      {
+        "season": 2023,
+        "cmp": 401,
+        "att": 597,
+        "cmp_pct": 67.2,
+        "pass_yds": 4183,
+        "pass_td": 27,
+        "pass_int": 14,
+        "yards_per_attempt": 7.0,
+        "passer_rating": 92.6,
+        "qbr": 65.1,
+        "sacks": 27
+      },
+      {
+        "season": 2024,
+        "cmp": 392,
+        "att": 581,
+        "cmp_pct": 67.5,
+        "pass_yds": 3928,
+        "pass_td": 26,
+        "pass_int": 11,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 93.5,
+        "qbr": 66.0,
+        "sacks": 36
+      },
+      {
+        "season": 2025,
+        "cmp": 315,
+        "att": 502,
+        "cmp_pct": 62.7,
+        "pass_yds": 3587,
+        "pass_td": 22,
+        "pass_int": 11,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 89.6,
+        "qbr": 67.8,
+        "sacks": 34
+      }
+    ]
+  },
+  {
+    "player_name": "Quinn Ewers",
+    "team": "Miami Dolphins",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4889929.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 55,
+        "att": 83,
+        "cmp_pct": 66.3,
+        "pass_yds": 622,
+        "pass_td": 3,
+        "pass_int": 3,
+        "yards_per_attempt": 7.5,
+        "passer_rating": 85.5,
+        "qbr": 34.1,
+        "sacks": 8
+      }
+    ]
+  },
+  {
+    "player_name": "Riley Leonard",
+    "team": "Indianapolis Colts",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683423.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 39,
+        "att": 67,
+        "cmp_pct": 58.2,
+        "pass_yds": 415,
+        "pass_td": 2,
+        "pass_int": 3,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 67.7,
+        "qbr": 62.7,
+        "sacks": 2
+      }
+    ]
+  },
+  {
+    "player_name": "Sam Darnold",
+    "team": "Seattle Seahawks",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3912547.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2018,
+        "cmp": 239,
+        "att": 414,
+        "cmp_pct": 57.7,
+        "pass_yds": 2865,
+        "pass_td": 17,
+        "pass_int": 15,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 52.1,
+        "qbr": 45.5,
+        "sacks": 30
+      },
+      {
+        "season": 2019,
+        "cmp": 273,
+        "att": 441,
+        "cmp_pct": 61.9,
+        "pass_yds": 3024,
+        "pass_td": 19,
+        "pass_int": 13,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 52.1,
+        "qbr": 43.5,
+        "sacks": 33
+      },
+      {
+        "season": 2020,
+        "cmp": 217,
+        "att": 364,
+        "cmp_pct": 59.6,
+        "pass_yds": 2208,
+        "pass_td": 9,
+        "pass_int": 11,
+        "yards_per_attempt": 6.1,
+        "passer_rating": 52.1,
+        "qbr": 33.1,
+        "sacks": 35
+      },
+      {
+        "season": 2021,
+        "cmp": 243,
+        "att": 406,
+        "cmp_pct": 59.9,
+        "pass_yds": 2527,
+        "pass_td": 9,
+        "pass_int": 13,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 71.9,
+        "qbr": 37.9,
+        "sacks": 35
+      },
+      {
+        "season": 2022,
+        "cmp": 82,
+        "att": 140,
+        "cmp_pct": 58.6,
+        "pass_yds": 1143,
+        "pass_td": 7,
+        "pass_int": 3,
+        "yards_per_attempt": 8.2,
+        "passer_rating": 92.6,
+        "qbr": 49.3,
+        "sacks": 10
+      },
+      {
+        "season": 2023,
+        "cmp": 28,
+        "att": 46,
+        "cmp_pct": 60.9,
+        "pass_yds": 297,
+        "pass_td": 2,
+        "pass_int": 1,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 85.1,
+        "qbr": 52.5,
+        "sacks": 6
+      },
+      {
+        "season": 2024,
+        "cmp": 361,
+        "att": 545,
+        "cmp_pct": 66.2,
+        "pass_yds": 4319,
+        "pass_td": 35,
+        "pass_int": 12,
+        "yards_per_attempt": 7.9,
+        "passer_rating": 102.5,
+        "qbr": 56.9,
+        "sacks": 48
+      },
+      {
+        "season": 2025,
+        "cmp": 323,
+        "att": 477,
+        "cmp_pct": 67.7,
+        "pass_yds": 4048,
+        "pass_td": 25,
+        "pass_int": 14,
+        "yards_per_attempt": 8.5,
+        "passer_rating": 99.1,
+        "qbr": 56.1,
+        "sacks": 27
+      }
+    ]
+  },
+  {
+    "player_name": "Sam Ehlinger",
+    "team": null,
+    "league": null,
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241820.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2021,
+        "cmp": 0,
+        "att": 0,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": 38.5,
+        "sacks": 0
+      },
+      {
+        "season": 2022,
+        "cmp": 64,
+        "att": 101,
+        "cmp_pct": 63.4,
+        "pass_yds": 573,
+        "pass_td": 3,
+        "pass_int": 3,
+        "yards_per_attempt": 5.7,
+        "passer_rating": 76.1,
+        "qbr": 33.8,
+        "sacks": 14
+      },
+      {
+        "season": 2023,
+        "cmp": null,
+        "att": null,
+        "cmp_pct": null,
+        "pass_yds": null,
+        "pass_td": 0,
+        "pass_int": null,
+        "yards_per_attempt": null,
+        "passer_rating": null,
+        "qbr": null,
+        "sacks": null
+      }
+    ]
+  },
+  {
+    "player_name": "Sam Hartman",
+    "team": "Washington Commanders",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361994.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": []
+  },
+  {
+    "player_name": "Sam Howell",
+    "team": "Dallas Cowboys",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426875.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2022,
+        "cmp": 11,
+        "att": 19,
+        "cmp_pct": 57.9,
+        "pass_yds": 169,
+        "pass_td": 1,
+        "pass_int": 1,
+        "yards_per_attempt": 8.9,
+        "passer_rating": 83.0,
+        "qbr": 44.6,
+        "sacks": 3
+      },
+      {
+        "season": 2023,
+        "cmp": 388,
+        "att": 612,
+        "cmp_pct": 63.4,
+        "pass_yds": 3946,
+        "pass_td": 21,
+        "pass_int": 21,
+        "yards_per_attempt": 6.4,
+        "passer_rating": 78.9,
+        "qbr": 43.4,
+        "sacks": 65
+      },
+      {
+        "season": 2024,
+        "cmp": 5,
+        "att": 14,
+        "cmp_pct": 35.7,
+        "pass_yds": 24,
+        "pass_td": 0,
+        "pass_int": 1,
+        "yards_per_attempt": 1.7,
+        "passer_rating": 14.6,
+        "qbr": 2.6,
+        "sacks": 4
+      }
+    ]
+  },
+  {
+    "player_name": "Sean Clifford",
+    "team": "Cincinnati Bengals",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259592.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2023,
+        "cmp": 1,
+        "att": 1,
+        "cmp_pct": 100.0,
+        "pass_yds": 37,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 37.0,
+        "passer_rating": 118.8,
+        "qbr": 100.0,
+        "sacks": 0
+      }
+    ]
+  },
+  {
+    "player_name": "Seth Henigan",
+    "team": "Indianapolis Colts",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606194.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": []
+  },
+  {
+    "player_name": "Shane Buechele",
+    "team": "Buffalo Bills",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039034.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 7,
+        "att": 14,
+        "cmp_pct": 50.0,
+        "pass_yds": 88,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 6.3,
+        "passer_rating": 69.9,
+        "qbr": 4.5,
+        "sacks": 5
+      }
+    ]
+  },
+  {
+    "player_name": "Shedeur Sanders",
+    "team": "Cleveland Browns",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432762.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 120,
+        "att": 212,
+        "cmp_pct": 56.6,
+        "pass_yds": 1400,
+        "pass_td": 7,
+        "pass_int": 10,
+        "yards_per_attempt": 6.6,
+        "passer_rating": 68.1,
+        "qbr": 20.6,
+        "sacks": 23
+      }
+    ]
+  },
+  {
+    "player_name": "Spencer Rattler",
+    "team": "New Orleans Saints",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426339.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "cmp": 130,
+        "att": 228,
+        "cmp_pct": 57.0,
+        "pass_yds": 1317,
+        "pass_td": 4,
+        "pass_int": 5,
+        "yards_per_attempt": 5.8,
+        "passer_rating": 70.4,
+        "qbr": 40.1,
+        "sacks": 22
+      },
+      {
+        "season": 2025,
+        "cmp": 174,
+        "att": 257,
+        "cmp_pct": 67.7,
+        "pass_yds": 1586,
+        "pass_td": 8,
+        "pass_int": 5,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 86.5,
+        "qbr": 52.4,
+        "sacks": 18
+      }
+    ]
+  },
+  {
+    "player_name": "Stetson Bennett IV",
+    "team": "Los Angeles Rams",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259553.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": []
+  },
+  {
+    "player_name": "Tanner McKee",
+    "team": "Philadelphia Eagles",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4685201.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2024,
+        "cmp": 30,
+        "att": 45,
+        "cmp_pct": 66.7,
+        "pass_yds": 323,
+        "pass_td": 4,
+        "pass_int": 0,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 117.2,
+        "qbr": 74.9,
+        "sacks": 2
+      },
+      {
+        "season": 2025,
+        "cmp": 24,
+        "att": 43,
+        "cmp_pct": 55.8,
+        "pass_yds": 274,
+        "pass_td": 1,
+        "pass_int": 1,
+        "yards_per_attempt": 6.4,
+        "passer_rating": 73.2,
+        "qbr": 35.6,
+        "sacks": 3
+      }
+    ]
+  },
+  {
+    "player_name": "Teddy Bridgewater",
+    "team": "Detroit Lions",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/16728.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2014,
+        "cmp": 259,
+        "att": 402,
+        "cmp_pct": 64.4,
+        "pass_yds": 2919,
+        "pass_td": 14,
+        "pass_int": 12,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 56.3,
+        "qbr": 54.4,
+        "sacks": 39
+      },
+      {
+        "season": 2015,
+        "cmp": 292,
+        "att": 447,
+        "cmp_pct": 65.3,
+        "pass_yds": 3231,
+        "pass_td": 14,
+        "pass_int": 9,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 56.3,
+        "qbr": 57.5,
+        "sacks": 44
+      },
+      {
+        "season": 2017,
+        "cmp": 0,
+        "att": 2,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 1,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": 0.0,
+        "sacks": 0
+      },
+      {
+        "season": 2018,
+        "cmp": 14,
+        "att": 23,
+        "cmp_pct": 60.9,
+        "pass_yds": 118,
+        "pass_td": 1,
+        "pass_int": 1,
+        "yards_per_attempt": 5.1,
+        "passer_rating": 47.9,
+        "qbr": 39.8,
+        "sacks": 2
+      },
+      {
+        "season": 2019,
+        "cmp": 133,
+        "att": 196,
+        "cmp_pct": 67.9,
+        "pass_yds": 1384,
+        "pass_td": 9,
+        "pass_int": 2,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 56.3,
+        "qbr": 47.1,
+        "sacks": 12
+      },
+      {
+        "season": 2020,
+        "cmp": 340,
+        "att": 492,
+        "cmp_pct": 69.1,
+        "pass_yds": 3733,
+        "pass_td": 15,
+        "pass_int": 11,
+        "yards_per_attempt": 7.6,
+        "passer_rating": 56.3,
+        "qbr": 57.0,
+        "sacks": 31
+      },
+      {
+        "season": 2021,
+        "cmp": 285,
+        "att": 426,
+        "cmp_pct": 66.9,
+        "pass_yds": 3052,
+        "pass_td": 18,
+        "pass_int": 7,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 94.9,
+        "qbr": 56.8,
+        "sacks": 31
+      },
+      {
+        "season": 2022,
+        "cmp": 49,
+        "att": 79,
+        "cmp_pct": 62.0,
+        "pass_yds": 683,
+        "pass_td": 4,
+        "pass_int": 4,
+        "yards_per_attempt": 8.6,
+        "passer_rating": 85.6,
+        "qbr": 48.9,
+        "sacks": 7
+      },
+      {
+        "season": 2023,
+        "cmp": 0,
+        "att": 0,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": null,
+        "sacks": 0
+      },
+      {
+        "season": 2025,
+        "cmp": 8,
+        "att": 15,
+        "cmp_pct": 53.3,
+        "pass_yds": 62,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 4.1,
+        "passer_rating": 63.8,
+        "qbr": 6.3,
+        "sacks": 2
+      }
+    ]
+  },
+  {
+    "player_name": "Tommy DeVito",
+    "team": "New England Patriots",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240391.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2023,
+        "cmp": 114,
+        "att": 178,
+        "cmp_pct": 64.0,
+        "pass_yds": 1101,
+        "pass_td": 8,
+        "pass_int": 3,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 89.2,
+        "qbr": 23.7,
+        "sacks": 37
+      },
+      {
+        "season": 2024,
+        "cmp": 31,
+        "att": 44,
+        "cmp_pct": 70.5,
+        "pass_yds": 257,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 5.8,
+        "passer_rating": 85.1,
+        "qbr": 28.7,
+        "sacks": 6
+      }
+    ]
+  },
+  {
+    "player_name": "Trevor Lawrence",
+    "team": "Jacksonville Jaguars",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360310.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2021,
+        "cmp": 359,
+        "att": 602,
+        "cmp_pct": 59.6,
+        "pass_yds": 3641,
+        "pass_td": 12,
+        "pass_int": 17,
+        "yards_per_attempt": 6.0,
+        "passer_rating": 71.9,
+        "qbr": 37.6,
+        "sacks": 32
+      },
+      {
+        "season": 2022,
+        "cmp": 387,
+        "att": 584,
+        "cmp_pct": 66.3,
+        "pass_yds": 4113,
+        "pass_td": 25,
+        "pass_int": 8,
+        "yards_per_attempt": 7.0,
+        "passer_rating": 95.2,
+        "qbr": 55.8,
+        "sacks": 27
+      },
+      {
+        "season": 2023,
+        "cmp": 370,
+        "att": 564,
+        "cmp_pct": 65.6,
+        "pass_yds": 4016,
+        "pass_td": 21,
+        "pass_int": 14,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 88.5,
+        "qbr": 54.1,
+        "sacks": 35
+      },
+      {
+        "season": 2024,
+        "cmp": 172,
+        "att": 284,
+        "cmp_pct": 60.6,
+        "pass_yds": 2045,
+        "pass_td": 11,
+        "pass_int": 7,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 85.2,
+        "qbr": 53.3,
+        "sacks": 18
+      },
+      {
+        "season": 2025,
+        "cmp": 341,
+        "att": 560,
+        "cmp_pct": 60.9,
+        "pass_yds": 4007,
+        "pass_td": 29,
+        "pass_int": 12,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 91.0,
+        "qbr": 57.1,
+        "sacks": 41
+      }
+    ]
+  },
+  {
+    "player_name": "Trevor Siemian",
+    "team": "Atlanta Falcons",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2511109.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2015,
+        "cmp": 0,
+        "att": 0,
+        "cmp_pct": 0.0,
+        "pass_yds": 0,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.0,
+        "passer_rating": 39.6,
+        "qbr": null,
+        "sacks": 0
+      },
+      {
+        "season": 2016,
+        "cmp": 289,
+        "att": 486,
+        "cmp_pct": 59.5,
+        "pass_yds": 3401,
+        "pass_td": 18,
+        "pass_int": 10,
+        "yards_per_attempt": 7.0,
+        "passer_rating": 52.1,
+        "qbr": 48.4,
+        "sacks": 31
+      },
+      {
+        "season": 2017,
+        "cmp": 206,
+        "att": 349,
+        "cmp_pct": 59.0,
+        "pass_yds": 2285,
+        "pass_td": 12,
+        "pass_int": 14,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 52.1,
+        "qbr": 33.5,
+        "sacks": 33
+      },
+      {
+        "season": 2019,
+        "cmp": 3,
+        "att": 6,
+        "cmp_pct": 50.0,
+        "pass_yds": 3,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 0.5,
+        "passer_rating": 39.6,
+        "qbr": 1.4,
+        "sacks": 2
+      },
+      {
+        "season": 2021,
+        "cmp": 108,
+        "att": 188,
+        "cmp_pct": 57.4,
+        "pass_yds": 1154,
+        "pass_td": 11,
+        "pass_int": 3,
+        "yards_per_attempt": 6.1,
+        "passer_rating": 88.4,
+        "qbr": 41.7,
+        "sacks": 9
+      },
+      {
+        "season": 2022,
+        "cmp": 15,
+        "att": 26,
+        "cmp_pct": 57.7,
+        "pass_yds": 184,
+        "pass_td": 1,
+        "pass_int": 1,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 76.4,
+        "qbr": 21.7,
+        "sacks": 2
+      },
+      {
+        "season": 2023,
+        "cmp": 86,
+        "att": 153,
+        "cmp_pct": 56.2,
+        "pass_yds": 724,
+        "pass_td": 2,
+        "pass_int": 4,
+        "yards_per_attempt": 4.7,
+        "passer_rating": 62.1,
+        "qbr": 12.6,
+        "sacks": 8
+      }
+    ]
+  },
+  {
+    "player_name": "Trey Lance",
+    "team": "Los Angeles Chargers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4383351.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2021,
+        "cmp": 41,
+        "att": 71,
+        "cmp_pct": 57.7,
+        "pass_yds": 603,
+        "pass_td": 5,
+        "pass_int": 2,
+        "yards_per_attempt": 8.5,
+        "passer_rating": 97.3,
+        "qbr": 37.6,
+        "sacks": 4
+      },
+      {
+        "season": 2022,
+        "cmp": 15,
+        "att": 31,
+        "cmp_pct": 48.4,
+        "pass_yds": 194,
+        "pass_td": 0,
+        "pass_int": 1,
+        "yards_per_attempt": 6.3,
+        "passer_rating": 55.0,
+        "qbr": 42.8,
+        "sacks": 2
+      },
+      {
+        "season": 2024,
+        "cmp": 25,
+        "att": 41,
+        "cmp_pct": 61.0,
+        "pass_yds": 266,
+        "pass_td": 0,
+        "pass_int": 1,
+        "yards_per_attempt": 6.5,
+        "passer_rating": 69.8,
+        "qbr": 37.7,
+        "sacks": 4
+      },
+      {
+        "season": 2025,
+        "cmp": 27,
+        "att": 57,
+        "cmp_pct": 47.4,
+        "pass_yds": 226,
+        "pass_td": 0,
+        "pass_int": 1,
+        "yards_per_attempt": 4.0,
+        "passer_rating": 50.8,
+        "qbr": 14.1,
+        "sacks": 6
+      }
+    ]
+  },
+  {
+    "player_name": "Tua Tagovailoa",
+    "team": "Atlanta Falcons",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241479.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2020,
+        "cmp": 186,
+        "att": 290,
+        "cmp_pct": 64.1,
+        "pass_yds": 1814,
+        "pass_td": 11,
+        "pass_int": 5,
+        "yards_per_attempt": 6.3,
+        "passer_rating": 52.1,
+        "qbr": 47.9,
+        "sacks": 20
+      },
+      {
+        "season": 2021,
+        "cmp": 263,
+        "att": 388,
+        "cmp_pct": 67.8,
+        "pass_yds": 2653,
+        "pass_td": 16,
+        "pass_int": 10,
+        "yards_per_attempt": 6.8,
+        "passer_rating": 90.1,
+        "qbr": 57.2,
+        "sacks": 20
+      },
+      {
+        "season": 2022,
+        "cmp": 259,
+        "att": 400,
+        "cmp_pct": 64.8,
+        "pass_yds": 3548,
+        "pass_td": 25,
+        "pass_int": 8,
+        "yards_per_attempt": 8.9,
+        "passer_rating": 105.5,
+        "qbr": 70.1,
+        "sacks": 21
+      },
+      {
+        "season": 2023,
+        "cmp": 388,
+        "att": 560,
+        "cmp_pct": 69.3,
+        "pass_yds": 4624,
+        "pass_td": 29,
+        "pass_int": 14,
+        "yards_per_attempt": 8.3,
+        "passer_rating": 101.1,
+        "qbr": 60.0,
+        "sacks": 29
+      },
+      {
+        "season": 2024,
+        "cmp": 291,
+        "att": 399,
+        "cmp_pct": 72.9,
+        "pass_yds": 2867,
+        "pass_td": 19,
+        "pass_int": 7,
+        "yards_per_attempt": 7.2,
+        "passer_rating": 101.4,
+        "qbr": 58.7,
+        "sacks": 21
+      },
+      {
+        "season": 2025,
+        "cmp": 260,
+        "att": 384,
+        "cmp_pct": 67.7,
+        "pass_yds": 2660,
+        "pass_td": 20,
+        "pass_int": 15,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 88.5,
+        "qbr": 36.9,
+        "sacks": 30
+      }
+    ]
+  },
+  {
+    "player_name": "Tyler Huntley",
+    "team": "Baltimore Ravens",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4035671.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2020,
+        "cmp": 3,
+        "att": 5,
+        "cmp_pct": 60.0,
+        "pass_yds": 15,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 3.0,
+        "passer_rating": 39.6,
+        "qbr": 2.0,
+        "sacks": 0
+      },
+      {
+        "season": 2021,
+        "cmp": 122,
+        "att": 188,
+        "cmp_pct": 64.9,
+        "pass_yds": 1081,
+        "pass_td": 3,
+        "pass_int": 4,
+        "yards_per_attempt": 5.8,
+        "passer_rating": 76.6,
+        "qbr": 51.3,
+        "sacks": 18
+      },
+      {
+        "season": 2022,
+        "cmp": 75,
+        "att": 112,
+        "cmp_pct": 67.0,
+        "pass_yds": 658,
+        "pass_td": 2,
+        "pass_int": 3,
+        "yards_per_attempt": 5.9,
+        "passer_rating": 77.2,
+        "qbr": 42.1,
+        "sacks": 7
+      },
+      {
+        "season": 2023,
+        "cmp": 21,
+        "att": 37,
+        "cmp_pct": 56.8,
+        "pass_yds": 203,
+        "pass_td": 3,
+        "pass_int": 0,
+        "yards_per_attempt": 5.5,
+        "passer_rating": 99.3,
+        "qbr": 53.3,
+        "sacks": 4
+      },
+      {
+        "season": 2024,
+        "cmp": 86,
+        "att": 133,
+        "cmp_pct": 64.7,
+        "pass_yds": 829,
+        "pass_td": 3,
+        "pass_int": 3,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 80.1,
+        "qbr": 34.0,
+        "sacks": 15
+      },
+      {
+        "season": 2025,
+        "cmp": 52,
+        "att": 67,
+        "cmp_pct": 77.6,
+        "pass_yds": 426,
+        "pass_td": 2,
+        "pass_int": 0,
+        "yards_per_attempt": 6.4,
+        "passer_rating": 103.1,
+        "qbr": 82.8,
+        "sacks": 8
+      }
+    ]
+  },
+  {
+    "player_name": "Tyler Shough",
+    "team": "New Orleans Saints",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360689.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2025,
+        "cmp": 221,
+        "att": 327,
+        "cmp_pct": 67.6,
+        "pass_yds": 2384,
+        "pass_td": 10,
+        "pass_int": 6,
+        "yards_per_attempt": 7.3,
+        "passer_rating": 91.3,
+        "qbr": 51.6,
+        "sacks": 31
+      }
+    ]
+  },
+  {
+    "player_name": "Tyson Bagent",
+    "team": "Chicago Bears",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4434153.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2023,
+        "cmp": 94,
+        "att": 143,
+        "cmp_pct": 65.7,
+        "pass_yds": 859,
+        "pass_td": 3,
+        "pass_int": 6,
+        "yards_per_attempt": 6.0,
+        "passer_rating": 71.4,
+        "qbr": 53.2,
+        "sacks": 5
+      },
+      {
+        "season": 2024,
+        "cmp": 2,
+        "att": 2,
+        "cmp_pct": 100.0,
+        "pass_yds": 11,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 5.5,
+        "passer_rating": 89.6,
+        "qbr": 38.8,
+        "sacks": 0
+      },
+      {
+        "season": 2025,
+        "cmp": 3,
+        "att": 4,
+        "cmp_pct": 75.0,
+        "pass_yds": 47,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 11.8,
+        "passer_rating": 113.5,
+        "qbr": 10.4,
+        "sacks": 0
+      }
+    ]
+  },
+  {
+    "player_name": "Will Howard",
+    "team": "Pittsburgh Steelers",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429955.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": []
+  },
+  {
+    "player_name": "Will Levis",
+    "team": "Tennessee Titans",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361418.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2023,
+        "cmp": 149,
+        "att": 255,
+        "cmp_pct": 58.4,
+        "pass_yds": 1808,
+        "pass_td": 8,
+        "pass_int": 4,
+        "yards_per_attempt": 7.1,
+        "passer_rating": 84.2,
+        "qbr": 33.9,
+        "sacks": 28
+      },
+      {
+        "season": 2024,
+        "cmp": 190,
+        "att": 301,
+        "cmp_pct": 63.1,
+        "pass_yds": 2091,
+        "pass_td": 13,
+        "pass_int": 12,
+        "yards_per_attempt": 6.9,
+        "passer_rating": 81.4,
+        "qbr": 23.2,
+        "sacks": 41
+      }
+    ]
+  },
+  {
+    "player_name": "Zach Wilson",
+    "team": "New Orleans Saints",
+    "league": "NFL",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361259.png",
+    "meta": {
+      "position": "QB"
+    },
+    "seasons": [
+      {
+        "season": 2021,
+        "cmp": 213,
+        "att": 383,
+        "cmp_pct": 55.6,
+        "pass_yds": 2334,
+        "pass_td": 9,
+        "pass_int": 11,
+        "yards_per_attempt": 6.1,
+        "passer_rating": 69.7,
+        "qbr": 32.5,
+        "sacks": 44
+      },
+      {
+        "season": 2022,
+        "cmp": 132,
+        "att": 242,
+        "cmp_pct": 54.5,
+        "pass_yds": 1688,
+        "pass_td": 6,
+        "pass_int": 7,
+        "yards_per_attempt": 7.0,
+        "passer_rating": 72.8,
+        "qbr": 40.0,
+        "sacks": 23
+      },
+      {
+        "season": 2023,
+        "cmp": 221,
+        "att": 368,
+        "cmp_pct": 60.1,
+        "pass_yds": 2271,
+        "pass_td": 8,
+        "pass_int": 7,
+        "yards_per_attempt": 6.2,
+        "passer_rating": 77.2,
+        "qbr": 31.6,
+        "sacks": 46
+      },
+      {
+        "season": 2025,
+        "cmp": 6,
+        "att": 11,
+        "cmp_pct": 54.5,
+        "pass_yds": 32,
+        "pass_td": 0,
+        "pass_int": 0,
+        "yards_per_attempt": 2.9,
+        "passer_rating": 60.0,
+        "qbr": 9.5,
+        "sacks": 0
+      }
+    ]
+  }
+]

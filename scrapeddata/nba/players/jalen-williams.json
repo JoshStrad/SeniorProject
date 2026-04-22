@@ -1,5 +1,9 @@
 {
   "player_name": "Jalen Williams",
+  "team": "OKC",
+  "team_slug": "thunder",
+  "league": "NBA",
+  "slug": "/nba/thunder/jalen-williams",
   "source_file": "bbr-jaylin-williams.html",
   "meta": {
     "position": "Shooting Guard and Power Forward",

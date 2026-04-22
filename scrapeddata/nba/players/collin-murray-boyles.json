@@ -1,5 +1,9 @@
 {
   "player_name": "Collin Murray-Boyles",
+  "team": "TOR",
+  "team_slug": "raptors",
+  "league": "NBA",
+  "slug": "/nba/raptors/collin-murray-boyles",
   "source_file": "bbr-collin-murray-boyles.html",
   "meta": {
     "position": "Power Forward",

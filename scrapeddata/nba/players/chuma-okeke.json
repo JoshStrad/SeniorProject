@@ -1,5 +1,9 @@
 {
   "player_name": "Chuma Okeke",
+  "team": "CLE",
+  "team_slug": "cavaliers",
+  "league": "NBA",
+  "slug": "/nba/cavaliers/chuma-okeke",
   "source_file": "bbr-chuma-okeke.html",
   "meta": {
     "position": "Power Forward and Small Forward",

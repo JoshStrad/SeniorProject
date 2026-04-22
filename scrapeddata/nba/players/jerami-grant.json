@@ -1,5 +1,9 @@
 {
   "player_name": "Jerami Grant",
+  "team": "POR",
+  "team_slug": "trail-blazers",
+  "league": "NBA",
+  "slug": "/nba/trail-blazers/jerami-grant",
   "source_file": "bbr-jerami-grant.html",
   "meta": {
     "position": "Power Forward and Small Forward",

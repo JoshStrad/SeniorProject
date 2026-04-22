@@ -1,5 +1,9 @@
 {
   "player_name": "Simone Fontecchio",
+  "team": "MIA",
+  "team_slug": "heat",
+  "league": "NBA",
+  "slug": "/nba/heat/simone-fontecchio",
   "source_file": "bbr-simone-fontecchio.html",
   "meta": {
     "position": "Small Forward",

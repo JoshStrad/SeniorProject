@@ -1,5 +1,9 @@
 {
   "player_name": "Tyler Herro",
+  "team": "MIA",
+  "team_slug": "heat",
+  "league": "NBA",
+  "slug": "/nba/heat/tyler-herro",
   "source_file": "bbr-tyler-herro.html",
   "meta": {
     "position": "Shooting Guard",

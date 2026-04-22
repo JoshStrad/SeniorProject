@@ -1,5 +1,9 @@
 {
   "player_name": "Haywood Highsmith",
+  "team": "MIA",
+  "team_slug": "heat",
+  "league": "NBA",
+  "slug": "/nba/heat/haywood-highsmith",
   "source_file": "bbr-haywood-highsmith.html",
   "meta": {
     "position": "Small Forward and Power Forward",

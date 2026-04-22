@@ -1,5 +1,9 @@
 {
   "player_name": "James Harden",
+  "team": "LAC",
+  "team_slug": "clippers",
+  "league": "NBA",
+  "slug": "/nba/clippers/james-harden",
   "source_file": "bbr-james-harden.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

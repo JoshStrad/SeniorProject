@@ -1,5 +1,9 @@
 {
   "player_name": "Dillon Brooks",
+  "team": "HOU",
+  "team_slug": "rockets",
+  "league": "NBA",
+  "slug": "/nba/rockets/dillon-brooks",
   "source_file": "bbr-dillon-brooks.html",
   "meta": {
     "position": "Small Forward and Shooting Guard",

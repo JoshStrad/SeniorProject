@@ -1,5 +1,9 @@
 {
   "player_name": "Walker Kessler",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/walker-kessler",
   "source_file": "bbr-walker-kessler.html",
   "meta": {
     "position": "Center",

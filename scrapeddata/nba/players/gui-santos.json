@@ -1,5 +1,9 @@
 {
   "player_name": "Gui Santos",
+  "team": "GSW",
+  "team_slug": "warriors",
+  "league": "NBA",
+  "slug": "/nba/warriors/gui-santos",
   "source_file": "bbr-gui-santos.html",
   "meta": {
     "position": "Power Forward",

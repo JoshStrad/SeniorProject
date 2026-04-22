@@ -1,5 +1,9 @@
 {
   "player_name": "Brandin Podziemski",
+  "team": "GSW",
+  "team_slug": "warriors",
+  "league": "NBA",
+  "slug": "/nba/warriors/brandin-podziemski",
   "source_file": "bbr-brandin-podziemski.html",
   "meta": {
     "position": "Shooting Guard",

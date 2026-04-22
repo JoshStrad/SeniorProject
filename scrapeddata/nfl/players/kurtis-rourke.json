@@ -1,0 +1,20 @@
+{
+  "player_name": "Kurtis Rourke",
+  "team": "San Francisco 49ers",
+  "team_slug": "49ers",
+  "league": "NFL",
+  "slug": "/nfl/49ers/kurtis-rourke",
+  "meta": {
+    "position": "QB",
+    "team": "San Francisco 49ers",
+    "height": "6' 4\"",
+    "weight": "220 lbs",
+    "born": "October 25, 2000 in Oakville, ON",
+    "college": null,
+    "draft": "Year 2025, Round 7",
+    "espn_id": "4430431",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430431.png",
+    "team_abbreviation": null
+  },
+  "passing": []
+}

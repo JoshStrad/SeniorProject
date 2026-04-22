@@ -1,7 +1,3 @@
-/* ===============================
-   Ranking Quiz Page Styling
-   Purple Aura Edition
-   =============================== */
 
 body {
   background-color: #000;
@@ -62,12 +58,22 @@ body {
   box-shadow: 0 0 30px rgba(179, 102, 255, 0.3);
 }
 
+.player-card {
+  background: #111;
+  border: 1px solid #262626;
+  border-radius: 20px;
+  padding: 1rem;
+  text-align: center;
+  max-width: 350px;
+  margin: 0 auto;
+}
+
 .player-card img {
   width: 100%;
-  height: 260px;
-  border-radius: 15px;
-  object-fit: cover;
-  margin-bottom: 0.8rem;
+  height: auto; /* 🔑 THIS is the key */
+  max-height: 220px; /* keeps it from getting huge */
+  object-fit: contain; /* or cover if you want tighter crop */
+  border-radius: 10px;
 }
 
 .player-card h3 {

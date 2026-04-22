@@ -1,5 +1,9 @@
 {
   "player_name": "Bobby Portis",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/bobby-portis",
   "source_file": "bbr-bobby-portis.html",
   "meta": {
     "position": "Power Forward and Center",

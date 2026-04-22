@@ -1,0 +1,53 @@
+{
+  "player_name": "Edwar Cabrera",
+  "team": "COL",
+  "team_slug": "rockies",
+  "league": "MLB",
+  "slug": "/mlb/rockies/edwar-cabrera",
+  "source_file": "edward-cabrera.html",
+  "meta": {
+    "bats": "Left\n        \u00a0\u2022",
+    "throws": "Left",
+    "debut": "June 27, 2012 (Age 24-251d,\n    20,229th in major league history) vs. WSN 2.1 IP, 5 H, 1 SO, 3 BB, 5 ER, L"
+  },
+  "pitching": [
+    {
+      "Season": "2012",
+      "Age": "24",
+      "Team": "COL",
+      "Lg": "NL",
+      "WAR": -0.4,
+      "W": 0,
+      "L": 2,
+      "W-L%": 0.0,
+      "ERA": 11.12,
+      "G": 2,
+      "GS": 2,
+      "GF": 0,
+      "CG": 0,
+      "SHO": 0,
+      "SV": 0,
+      "IP": 5.2,
+      "H": 9,
+      "R": 9,
+      "ER": 7,
+      "HR": 3,
+      "BB": 7,
+      "IBB": 1,
+      "SO": 5,
+      "HBP": 0,
+      "BK": 0,
+      "WP": 0,
+      "BF": 33,
+      "ERA+": 44,
+      "FIP": 11.92,
+      "WHIP": 2.824,
+      "H9": 14.3,
+      "HR9": 4.8,
+      "BB9": 11.1,
+      "SO9": 7.9,
+      "SO/BB": 0.71,
+      "Awards": null
+    }
+  ]
+}

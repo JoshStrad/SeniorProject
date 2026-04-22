@@ -1,11 +1,9 @@
 import React from 'react';
 
 const FeaturedCards = () => {
-  // Dummy data for featured players or teams
   const featuredData = [
     { id: 1, name: 'Player Name', image: 'player_image_url', stats: 'Brief stats' },
     { id: 2, name: 'Team Name', image: 'team_image_url', stats: 'Brief stats' },
-    // Add more featured items as needed
   ];
 
   return (

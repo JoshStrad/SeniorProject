@@ -1,5 +1,9 @@
 {
   "player_name": "Jordan Poole",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/jordan-poole",
   "source_file": "bbr-jordan-poole.html",
   "meta": {
     "position": "Shooting Guard and Point Guard",

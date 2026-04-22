@@ -12,10 +12,16 @@ const TampaBayBuccaneersQBs = () => {
       headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3052587.png&w=350&h=254' 
     },
     { 
-      name: 'Teddy Bridgewater', 
+      name: 'Jake Browning', 
       number: 2, 
-      profileLink: '/nfl/buccaneers/kyle-trask', 
-      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/16728.png&w=350&h=254' 
+      profileLink: '/nfl/bucs/jake-browning', 
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3886812.png&w=350&h=254' 
+    },
+    { 
+      name: 'Connor Bazelak', 
+      number: 2, 
+      profileLink: '/nfl/bucs/connor-bazelak', 
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426444.png&w=350&h=254' 
     }
   ];
   return (

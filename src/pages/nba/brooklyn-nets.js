@@ -1,23 +1,23 @@
 import React from 'react';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
-import './celtics.css';
+import './nba-teampage.css';
 
 const BrooklynNets = () => {
   const roster = [
     { name: 'Nic Claxton', position: 'C', number: 33, profileLink: '/nba/nets/nic-claxton' },
     { name: 'Noah Clowney', position: 'F', number: 21, profileLink: '/nba/nets/noah-clowney' },
-    { name: 'Egor Demin', position: 'G', number: 8, profileLink: '/nba/nets/egor-demin' },
-    { name: 'Tyson Etienne', position: 'G', number: 10, profileLink: '/nba/nets/tyson-etienne' },
-    { name: 'Haywood Highsmith', position: 'F', number: 24, profileLink: '/nba/nets/haywood-highsmith' },
-    { name: 'Cam Thomas', position: 'G', number: 45, profileLink: '/nba/nets/keon-johnson' },
+    { name: 'Egor Demin', position: 'G', number: 8, profileLink: '/nba/nets/egor-d-min' },
+    { name: 'Ziaire Williams', position: 'G', number: 10, profileLink: '/nba/nets/ziaire-williams' },
+    { name: 'Day Ron Sharpe', position: 'F', number: 24, profileLink: '/nba/nets/dayron-sharpe' },
+    { name: 'Josh Minott', position: 'G', number: 45, profileLink: '/nba/nets/josh-minott' },
     { name: 'Terance Mann', position: 'SG', number: 14, profileLink: '/nba/nets/terance-mann' },
-    { name: 'Tyrese Martin', position: 'F', number: 13, profileLink: '/nba/nets/tyrese-martin' },
+    { name: 'Ochai Agbaji', position: 'F', number: 13, profileLink: '/nba/nets/ochai-agbaji' },
     { name: 'Michael Porter Jr.', position: 'F', number: 17, profileLink: '/nba/nets/michael-porter-jr' },
     { name: 'Drake Powell', position: 'G', number: 4, profileLink: '/nba/nets/drake-powell' },
     { name: 'Ben Saraf', position: 'G', number: 77, profileLink: '/nba/nets/ben-saraf' },
     { name: 'Nolan Traore', position: 'G', number: 19, profileLink: '/nba/nets/nolan-traore' },
-    { name: 'Danny Wolf', position: 'F', number: 0, profileLink: '/nba/nets/dariq-whitehead' },
+    { name: 'Danny Wolf', position: 'F', number: 0, profileLink: '/nba/nets/danny-wolf' },
     { name: 'Jalen Wilson', position: 'F', number: 22, profileLink: '/nba/nets/jalen-wilson' },
   ];
 
@@ -26,7 +26,7 @@ const BrooklynNets = () => {
       <Header />
       <main className="team-container">
         <h1>Brooklyn Nets</h1>
-        <p>Welcome to the Brooklyn Nets page! Here you can find info about the team, including roster and player stats.</p>
+        <p></p>
 
         <h2>Roster</h2>
         <table className="roster-table">

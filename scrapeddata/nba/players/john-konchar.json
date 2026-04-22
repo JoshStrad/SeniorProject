@@ -1,5 +1,9 @@
 {
   "player_name": "John Konchar",
+  "team": "MEM",
+  "team_slug": "grizzlies",
+  "league": "NBA",
+  "slug": "/nba/grizzlies/john-konchar",
   "source_file": "bbr-john-konchar.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

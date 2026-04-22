@@ -1,5 +1,9 @@
 {
   "player_name": "De'Aaron Fox",
+  "team": "SAS",
+  "team_slug": "spurs",
+  "league": "NBA",
+  "slug": "/nba/spurs/de-aaron-fox",
   "source_file": "bbr-deaaron-fox.html",
   "meta": {
     "position": "Point Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Wendell Moore Jr.",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/wendell-moore-jr",
   "source_file": "bbr-wendell-moore-jr.html",
   "meta": {
     "position": "Shooting Guard",

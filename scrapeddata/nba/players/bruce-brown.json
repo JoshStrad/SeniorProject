@@ -1,5 +1,9 @@
 {
   "player_name": "Bruce Brown",
+  "team": "DEN",
+  "team_slug": "nuggets",
+  "league": "NBA",
+  "slug": "/nba/nuggets/bruce-brown",
   "source_file": "bbr-bruce-brown.html",
   "meta": {
     "position": "Point Guard, Small Forward, and Shooting Guard",

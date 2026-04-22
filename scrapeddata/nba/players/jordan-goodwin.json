@@ -1,5 +1,9 @@
 {
   "player_name": "Jordan Goodwin",
+  "team": "LAL",
+  "team_slug": "lakers",
+  "league": "NBA",
+  "slug": "/nba/lakers/jordan-goodwin",
   "source_file": "bbr-jordan-goodwin.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Franz Wagner",
+  "team": "ORL",
+  "team_slug": "magic",
+  "league": "NBA",
+  "slug": "/nba/magic/franz-wagner",
   "source_file": "bbr-franz-wagner.html",
   "meta": {
     "position": "Small Forward",

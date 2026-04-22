@@ -1,5 +1,9 @@
 {
   "player_name": "Karlo Matkovi\u0107",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/karlo-matkovi",
   "source_file": "bbr-karlo-matkovic.html",
   "meta": {
     "position": "Power Forward",

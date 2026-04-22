@@ -1,26 +1,23 @@
 import React from 'react';
 import Header from '../../components/Header';
-import './celtics.css';
+import './nba-teampage.css';
 
 const AtlantaHawks = () => {
   const roster = [
-    { name: 'Trae Young', position: 'PG', number: 11, profileLink: '/nba/hawks/trae-young' },
-    { name: 'Dominick Barlow', position: 'SF', number: 0, profileLink: '/nba/hawks/dom-barlow' },
-    { name: 'Bogdan Bogdanovic', position: 'SG', number: 13, profileLink: '/nba/hawks/marcus-smart' },
-    { name: 'Kobe Bufkin', position: 'SG', number: 4, profileLink: '/nba/hawks/jayson-tatum' },
-    { name: 'Clint Capela', position: 'C', number: 15, profileLink: '/nba/hawks/jayson-tatum' },
-    { name: 'Dyson Daniels', position: 'SG', number: 5, profileLink: '/nba/hawks/jayson-tatum' },
-    { name: 'Mouhamed Guye', position: 'PF', number: 27, profileLink: '/nba/hawks/jayson-tatum' },
-    { name: 'DeAndre Hunter', position: 'PG', number: 12, profileLink: '/nba/hawks/jayson-tatum' },
-    { name: 'Jalen Johnson', position: 'SF', number: 1, profileLink: '/nba/hawks/jayson-tatum' },
-    { name: 'Vit Krejci', position: 'SF', number: 27, profileLink: '/nba/hawks/jayson-tatum' },
-    { name: 'Seth Lundy', position: 'SG', number: 3, profileLink: '/nba/hawks/jayson-tatum' },
-    { name: 'Garrison Matthews', position: 'SF', number: 24, profileLink: '/nba/hawks/jayson-tatum' },
-    { name: 'Larry Nance Jr', position: 'PF', number: 22, profileLink: '/nba/hawks/jayson-tatum' },
-    { name: 'Oneyka Okongwu', position: 'C', number: 17, profileLink: '/nba/hawks/jayson-tatum' },
-    { name: 'Zach Risacher', position: 'SF', number: 10, profileLink: '/nba/hawks/jayson-tatum' },
-    { name: 'Kristaps Porzingis', position: 'SF', number: 8, profileLink: '/nba/hawks/jayson-tatum' },
-    { name: 'Cody Zeller', position: 'C', number: 41, profileLink: '/nba/hawks/jayson-tatum' }
+    { name: 'Asa Newell', position: 'PG', number: 11, profileLink: '/nba/hawks/asa-newell' },
+    { name: 'Buddy hield', position: 'SF', number: 0, profileLink: '/nba/hawks/buddy-hield' },
+    { name: 'CJ McCollum', position: 'SG', number: 4, profileLink: '/nba/hawks/cj-mccollum' },
+    { name: 'Corey Kispert', position: 'C', number: 15, profileLink: '/nba/hawks/cory-kispert' },
+    { name: 'Dyson Daniels', position: 'SG', number: 5, profileLink: '/nba/hawks/dyson-daniels' },
+    { name: 'Mouhamedou Guye', position: 'PF', number: 27, profileLink: '/nba/hawks/mouhamed-gueye' },
+    { name: 'Gabe Vincent', position: 'PG', number: 12, profileLink: '/nba/hawks/gabe-vincent' },
+    { name: 'Jalen Johnson', position: 'SF', number: 1, profileLink: '/nba/hawks/jalen-johnson' },
+    { name: 'Jock Landale', position: 'SF', number: 27, profileLink: '/nba/hawks/jock-landale' },
+    { name: 'Jonathan Kuminga', position: 'SG', number: 3, profileLink: '/nba/hawks/jonathan-kuminga' },
+    { name: 'Keaton Wallace', position: 'SF', number: 24, profileLink: '/nba/hawks/keaton-wallace' },
+    { name: 'Nickeil Alexander-Walker', position: 'PF', number: 22, profileLink: '/nba/hawks/nickeil-alexanderwalker' },
+    { name: 'Oneyka Okongwu', position: 'C', number: 17, profileLink: '/nba/hawks/onyeka-okongwu' },
+    { name: 'Zach Risacher', position: 'SF', number: 10, profileLink: '/nba/hawks/zaccharie-risacher' },
   ];
 
   return (
@@ -28,7 +25,7 @@ const AtlantaHawks = () => {
       <Header />
       <main className="team-container">
         <h1>Atlanta Hawks</h1>
-        <p>Welcome to the Atlanta Hawks page! Here you can find information about the team, including roster, and player stats.</p>
+        <p></p>
 
         <h2>Roster</h2>
         <table className="roster-table">

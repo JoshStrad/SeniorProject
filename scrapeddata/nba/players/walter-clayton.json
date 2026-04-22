@@ -1,5 +1,9 @@
 {
   "player_name": "Walter Clayton",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/walter-clayton",
   "source_file": "bbr-walter-clayton.html",
   "meta": {
     "position": "Point Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Zion Williamson",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/zion-williamson",
   "source_file": "bbr-zion-williamson.html",
   "meta": {
     "position": "Power Forward",

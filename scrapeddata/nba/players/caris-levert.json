@@ -1,5 +1,9 @@
 {
   "player_name": "Caris LeVert",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/caris-levert",
   "source_file": "bbr-caris-levert.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

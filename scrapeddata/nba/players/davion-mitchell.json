@@ -1,5 +1,9 @@
 {
   "player_name": "Davion Mitchell",
+  "team": "MIA",
+  "team_slug": "heat",
+  "league": "NBA",
+  "slug": "/nba/heat/davion-mitchell",
   "source_file": "bbr-davion-mitchell.html",
   "meta": {
     "position": "Point Guard",

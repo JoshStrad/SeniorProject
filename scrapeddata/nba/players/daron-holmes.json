@@ -1,5 +1,9 @@
 {
   "player_name": "DaRon Holmes",
+  "team": "DEN",
+  "team_slug": "nuggets",
+  "league": "NBA",
+  "slug": "/nba/nuggets/daron-holmes",
   "source_file": "bbr-daron-holmes.html",
   "meta": {
     "position": "Power Forward",

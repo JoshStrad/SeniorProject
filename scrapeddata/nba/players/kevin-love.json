@@ -1,5 +1,9 @@
 {
   "player_name": "Kevin Love",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/kevin-love",
   "source_file": "bbr-kevin-love.html",
   "meta": {
     "position": "Power Forward and Center",

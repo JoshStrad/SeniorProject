@@ -1,5 +1,9 @@
 {
   "player_name": "Jeremy Sochan",
+  "team": "SAS",
+  "team_slug": "spurs",
+  "league": "NBA",
+  "slug": "/nba/spurs/jeremy-sochan",
   "source_file": "bbr-jeremy-sochan.html",
   "meta": {
     "position": "Power Forward",

@@ -1,5 +1,9 @@
 {
   "player_name": "Jordan Hawkins",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/jordan-hawkins",
   "source_file": "bbr-jordan-hawkins.html",
   "meta": {
     "position": "Shooting Guard",

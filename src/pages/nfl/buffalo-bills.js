@@ -12,10 +12,16 @@ const BuffaloBillsQBs = () => {
       headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3918298.png&w=350&h=254'
     },
     {
-      name: 'Mitch Tribusky',
-      number: 9,
-      profileLink: '/nfl/bills/mitch-tribusky',
-      headshot: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcHqRb9ZECLeYVc0CrxyWSxutZB9Vup1GiQ&s'
+      name: 'Kyle Allen',
+      number: 17,
+      profileLink: '/nfl/bills/kyle-allen',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3115293.png&w=350&h=254'
+    },
+    {
+      name: 'Shane Buechele',
+      number: 6,
+      profileLink: '/nfl/bills/shane-buechele',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4039034.png&w=350&h=254'
     }
   ];
 
@@ -24,7 +30,7 @@ const BuffaloBillsQBs = () => {
       <Header />
       <main className="team-container">
         <h1>Buffalo Bills — Quarterbacks</h1>
-        <p>Click a QB to open their player page.</p>
+        <p></p>
 
         <div className="qb-grid">
           {qbs.map((qb) => (

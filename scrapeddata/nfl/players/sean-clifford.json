@@ -1,0 +1,42 @@
+{
+  "player_name": "Sean Clifford",
+  "team": "Cincinnati Bengals",
+  "team_slug": "bengals",
+  "league": "NFL",
+  "slug": "/nfl/bengals/sean-clifford",
+  "meta": {
+    "position": "QB",
+    "team": "Cincinnati Bengals",
+    "height": "6' 2\"",
+    "weight": "212 lbs",
+    "born": "July 14, 1998 in Cincinnati, OH",
+    "college": null,
+    "draft": "Year 2023, Round 5",
+    "espn_id": "4259592",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259592.png",
+    "team_abbreviation": null
+  },
+  "passing": [
+    {
+      "Year": 2023,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 1,
+      "Att": 1,
+      "Cmp%": 100.0,
+      "Yds": 37,
+      "TD": 0,
+      "Int": 0,
+      "Y/A": 37.0,
+      "AY/A": null,
+      "Y/G": 18.5,
+      "Rate": 118.8,
+      "QBR": 100.0,
+      "Sk": 0,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    }
+  ]
+}

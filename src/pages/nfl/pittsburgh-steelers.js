@@ -6,15 +6,9 @@ import './nfl-team-qbs.css';
 const SteelersQBs = () => {
   const qbs = [
     {
-      name: 'Aaron Rodgers',
-      number: 8,
-      profileLink: '/nfl/steelers/aaron-rodgers',
-      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/8439.png&w=350&h=254'
-    },
-    {
       name: 'Mason Rudolph',
       number: 5,
-      profileLink: '/nfl/jets/tyrod-taylor',
+      profileLink: '/nfl/steelers/mason-rudolph',
       headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3116407.png&w=350&h=254'
     },
     {

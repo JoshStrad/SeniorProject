@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
-import './celtics.css';
+import './nba-teampage.css';
 
 const CharlotteHornets = () => {
   const roster = [
@@ -16,12 +16,8 @@ const CharlotteHornets = () => {
     { name: 'Tre Mann', position: 'PG', number: 23, profileLink: '/nba/hornets/tre-mann' },
     { name: 'Liam McNeeley', position: 'G', number: 33, profileLink: '/nba/hornets/liam-mcneeley' },
     { name: 'Brandon Miller', position: 'F', number: 24, profileLink: '/nba/hornets/brandon-miller' },
-    { name: 'Drew Peterson', position: 'F', number: 9, profileLink: '/nba/hornets/drew-peterson' },
-    { name: 'Mason Plumlee', position: 'C', number: 24, profileLink: '/nba/hornets/mason-plumlee' },
-    { name: 'Antonio Reeves', position: 'G', number: null, profileLink: '/nba/hornets/antonio-reeves' },
     { name: 'Tidjane Salaun', position: 'F', number: 31, profileLink: '/nba/hornets/tidjane-salaun' },
-    { name: 'Collin Sexton', position: 'G', number: null, profileLink: '/nba/hornets/collin-sexton' },
-    { name: 'KJ Simpson', position: 'G', number: 25, profileLink: '/nba/hornets/kj-simpson' },
+    { name: 'Coby White', position: 'G', number: 3, profileLink: '/nba/hornets/coby-white' },
     { name: 'Grant Williams', position: 'PF', number: 2, profileLink: '/nba/hornets/grant-williams' },
   ];
 

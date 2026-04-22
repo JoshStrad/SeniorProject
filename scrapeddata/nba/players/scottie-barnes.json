@@ -1,5 +1,9 @@
 {
   "player_name": "Scottie Barnes",
+  "team": "TOR",
+  "team_slug": "raptors",
+  "league": "NBA",
+  "slug": "/nba/raptors/scottie-barnes",
   "source_file": "bbr-scottie-barnes.html",
   "meta": {
     "position": "Power Forward, Shooting Guard, and Small Forward",

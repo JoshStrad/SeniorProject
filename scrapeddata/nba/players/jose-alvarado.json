@@ -1,5 +1,9 @@
 {
   "player_name": "Jose Alvarado",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/jose-alvarado",
   "source_file": "bbr-jose-alvarado.html",
   "meta": {
     "position": "Point Guard",

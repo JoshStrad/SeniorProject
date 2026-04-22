@@ -1,5 +1,9 @@
 {
   "player_name": "Jake LaRavia",
+  "team": "LAL",
+  "team_slug": "lakers",
+  "league": "NBA",
+  "slug": "/nba/lakers/jake-laravia",
   "source_file": "bbr-jake-laravia.html",
   "meta": {
     "position": "Power Forward",

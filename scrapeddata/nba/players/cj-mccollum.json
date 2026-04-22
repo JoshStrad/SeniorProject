@@ -1,5 +1,9 @@
 {
   "player_name": "CJ McCollum",
+  "team": "WAS",
+  "team_slug": "wizards",
+  "league": "NBA",
+  "slug": "/nba/wizards/cj-mccollum",
   "source_file": "bbr-cj-mccollum.html",
   "meta": {
     "position": "Shooting Guard and Point Guard",

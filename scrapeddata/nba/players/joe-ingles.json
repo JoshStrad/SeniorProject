@@ -1,5 +1,9 @@
 {
   "player_name": "Joe Ingles",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/joe-ingles",
   "source_file": "bbr-joe-ingles.html",
   "meta": {
     "position": "Small Forward and Power Forward",

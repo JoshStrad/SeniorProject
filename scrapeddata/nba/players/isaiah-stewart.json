@@ -1,5 +1,9 @@
 {
   "player_name": "Isaiah Stewart",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/isaiah-stewart",
   "source_file": "bbr-isaiah-stewart.html",
   "meta": {
     "position": "Center and Power Forward",

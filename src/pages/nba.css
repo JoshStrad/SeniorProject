@@ -1,4 +1,10 @@
-/* Base card */
+.nba-container h1 {
+  text-align: center;
+  color: #1f6feb;
+  margin-bottom: 18px;
+}
+
+
 .team-card {
   display: inline-block;
   margin: 12px;
@@ -9,10 +15,10 @@
 }
 .team-card:hover { transform: translateY(-5px); }
 
-/* === TEAM AURAS === */
+/* different nba aua glows sorted by divison */
 
 /* Atlantic */
-.boston-celtics-aura { box-shadow: 0 0 14px rgba(0,128,0,.7); }
+.boston-nba-aura { box-shadow: 0 0 14px rgba(0,128,0,.7); }
 .brooklyn-nets-aura { box-shadow: 0 0 14px rgba(255,255,255,.5); }
 .new-york-knicks-aura { box-shadow: 0 0 14px rgba(0,102,204,.7), 0 0 26px rgba(255,102,0,.6); }
 .philadelphia-76ers-aura { box-shadow: 0 0 14px rgba(0,82,204,.8), 0 0 24px rgba(220,20,60,.6); }

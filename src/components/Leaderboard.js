@@ -9,21 +9,21 @@ const Leaderboard = () => {
       <div className="leaders-grid">
         {/* NFL Leaders */}
         <div className="leader-card aura-card">
-          <h3>NFL Passing Yards (2024)</h3>
+          <h3>NFL Passing Yards (2026)</h3>
           <ul>
-            <li><a href="/nfl/chiefs/patrick-mahomes">Patrick Mahomes — 5,100</a></li>
-            <li><a href="/nfl/chargers/justin-herbert">Justin Herbert — 4,900</a></li>
-            <li><a href="/nfl/bills/josh-allen">Josh Allen — 4,600</a></li>
+            <li><a href="/nfl/rams/matthew-stafford">Matthew Stafford — 4,707</a></li>
+            <li><a href="/nfl/lions/jared-goff">Jared Goff — 4,564</a></li>
+            <li><a href="/nfl/cowboys/dak-prescott">Dak Prescott — 4,552</a></li>
           </ul>
         </div>
 
         {/* NBA Leaders */}
         <div className="leader-card aura-card">
-          <h3>NBA PPG (2024–25)</h3>
+          <h3>NBA PPG (2025–26)</h3>
           <ul>
-            <li><a href="/nba/players/luka-doncic">Luka Dončić — 33.7</a></li>
-            <li><a href="/nba/celtics/jayson-tatum">Jayson Tatum — 31.5</a></li>
-            <li><a href="/nba/players/shai-gilgeous-alexander">S. G. Alexander — 30.8</a></li>
+            <li><a href="/nba/lakers/luka-don-i">Luka Dončić — 33.5</a></li>
+            <li><a href="/nba/thunder/shai-gilgeous-alexander">Shai Gilgeous-Alexander — 31.5</a></li>
+            <li><a href="/nba/timberwolves/anthony-edwards">Anthony Edwards— 30.8</a></li>
           </ul>
         </div>
 
@@ -31,9 +31,9 @@ const Leaderboard = () => {
         <div className="leader-card aura-card">
           <h3>MLB ERA Leaders (2025)</h3>
           <ul>
-            <li><a href="/mlb/players/shohei-ohtani">Shohei Ohtani — 2.11</a></li>
-            <li><a href="/mlb/players/spencer-strider">Spencer Strider — 2.45</a></li>
-            <li><a href="/mlb/players/gerrit-cole">Gerrit Cole — 2.67</a></li>
+            <li><a href="/mlb/pirates/paul-skenes">Paul Skenes — 1.97</a></li>
+            <li><a href="/mlb/tigers/tarik-skubal">Tarik Skubal — 2.21</a></li>
+            <li><a href="/mlb/astros/hunter-brown">Hunter Brown — 2.43</a></li>
           </ul>
         </div>
       </div>

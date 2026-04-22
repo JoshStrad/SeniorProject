@@ -1,5 +1,9 @@
 {
   "player_name": "Jamison Battle",
+  "team": "TOR",
+  "team_slug": "raptors",
+  "league": "NBA",
+  "slug": "/nba/raptors/jamison-battle",
   "source_file": "bbr-jamison-battle.html",
   "meta": {
     "position": "Small Forward",

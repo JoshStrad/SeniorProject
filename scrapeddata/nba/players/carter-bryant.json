@@ -1,5 +1,9 @@
 {
   "player_name": "Carter Bryant",
+  "team": "SAS",
+  "team_slug": "spurs",
+  "league": "NBA",
+  "slug": "/nba/spurs/carter-bryant",
   "source_file": "bbr-carter-bryant.html",
   "meta": {
     "position": "Power Forward",

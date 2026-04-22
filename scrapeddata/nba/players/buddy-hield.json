@@ -1,5 +1,9 @@
 {
   "player_name": "Buddy Hield",
+  "team": "GSW",
+  "team_slug": "warriors",
+  "league": "NBA",
+  "slug": "/nba/warriors/buddy-hield",
   "source_file": "bbr-buddy-hield.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

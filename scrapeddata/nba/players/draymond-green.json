@@ -1,5 +1,9 @@
 {
   "player_name": "Draymond Green",
+  "team": "GSW",
+  "team_slug": "warriors",
+  "league": "NBA",
+  "slug": "/nba/warriors/draymond-green",
   "source_file": "bbr-draymond-green.html",
   "meta": {
     "position": "Power Forward and Small Forward",

@@ -1,5 +1,9 @@
 {
   "player_name": "Corliss Williamson",
+  "team": "SAC",
+  "team_slug": "kings",
+  "league": "NBA",
+  "slug": "/nba/kings/corliss-williamson",
   "source_file": "bbr-cody-williams.html",
   "meta": {
     "position": "Small Forward and Power Forward",

@@ -1,5 +1,9 @@
 {
   "player_name": "Rob Dillingham",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/rob-dillingham",
   "source_file": "bbr-rob-dillingham.html",
   "meta": {
     "position": "Point Guard",

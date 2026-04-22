@@ -1,0 +1,20 @@
+{
+  "player_name": "Kyle McCord",
+  "team": "Green Bay Packers",
+  "team_slug": "packers",
+  "league": "NFL",
+  "slug": "/nfl/packers/kyle-mccord",
+  "meta": {
+    "position": "QB",
+    "team": "Green Bay Packers",
+    "height": "6' 3\"",
+    "weight": "218 lbs",
+    "born": "September 19, 2002 in Mount Laurel, NJ",
+    "college": null,
+    "draft": "Year 2025, Round 6",
+    "espn_id": "4433971",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4433971.png",
+    "team_abbreviation": null
+  },
+  "passing": []
+}

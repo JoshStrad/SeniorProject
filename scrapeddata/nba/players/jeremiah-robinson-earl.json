@@ -1,5 +1,9 @@
 {
   "player_name": "Jeremiah Robinson-Earl",
+  "team": "IND",
+  "team_slug": "pacers",
+  "league": "NBA",
+  "slug": "/nba/pacers/jeremiah-robinson-earl",
   "source_file": "bbr-jeremiah-robinson-earl.html",
   "meta": {
     "position": "Power Forward and Center",

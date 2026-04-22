@@ -1,5 +1,9 @@
 {
   "player_name": "Shaedon Sharpe",
+  "team": "POR",
+  "team_slug": "trail-blazers",
+  "league": "NBA",
+  "slug": "/nba/trail-blazers/shaedon-sharpe",
   "source_file": "bbr-shaedon-sharpe.html",
   "meta": {
     "position": "Shooting Guard",

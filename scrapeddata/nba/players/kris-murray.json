@@ -1,5 +1,9 @@
 {
   "player_name": "Kris Murray",
+  "team": "POR",
+  "team_slug": "trail-blazers",
+  "league": "NBA",
+  "slug": "/nba/trail-blazers/kris-murray",
   "source_file": "bbr-kris-murray.html",
   "meta": {
     "position": "Small Forward",

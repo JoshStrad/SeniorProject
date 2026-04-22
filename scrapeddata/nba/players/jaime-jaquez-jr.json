@@ -1,5 +1,9 @@
 {
   "player_name": "Jaime Jaquez Jr.",
+  "team": "MIA",
+  "team_slug": "heat",
+  "league": "NBA",
+  "slug": "/nba/heat/jaime-jaquez-jr",
   "source_file": "bbr-jaime-jaquez-jr.html",
   "meta": {
     "position": "Small Forward",

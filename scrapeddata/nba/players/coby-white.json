@@ -1,5 +1,9 @@
 {
   "player_name": "Coby White",
+  "team": "CHI",
+  "team_slug": "bulls",
+  "league": "NBA",
+  "slug": "/nba/bulls/coby-white",
   "source_file": "bbr-coby-white.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

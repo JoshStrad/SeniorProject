@@ -1,5 +1,9 @@
 {
   "player_name": "Andre Drummond",
+  "team": "PHI",
+  "team_slug": "76ers",
+  "league": "NBA",
+  "slug": "/nba/76ers/andre-drummond",
   "source_file": "bbr-andre-drummond.html",
   "meta": {
     "position": "Center",

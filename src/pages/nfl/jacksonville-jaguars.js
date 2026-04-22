@@ -12,10 +12,16 @@ const JacksonvilleJaguarsQBs = () => {
       headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4360310.png&w=350&h=254'
     },
     {
-      name: 'Mac Jones',
+      name: 'Nick Mullens',
+      number: 14,
+      profileLink: '/nfl/jags/nick-mullens',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3059989.png&w=350&h=254'
+    },
+    {
+      name: 'Carter Bradley',
       number: 10,
-      profileLink: '/nfl/jaguars/mac-jones',
-      headshot: ''
+      profileLink: '/nfl/jags/carter-bradley',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4362260.png&w=350&h=254'
     }
   ];
 

@@ -1,5 +1,9 @@
 {
   "player_name": "Doug McDermott",
+  "team": "SAC",
+  "team_slug": "kings",
+  "league": "NBA",
+  "slug": "/nba/kings/doug-mcdermott",
   "source_file": "bbr-doug-mcdermott.html",
   "meta": {
     "position": "Small Forward and Power Forward",

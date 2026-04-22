@@ -6,9 +6,9 @@
 }
 
 .team-container h1 { margin: 0 0 6px; }
-.team-container p { margin: 0 0 18px; color: #94a3b8; }
+.team-container p { margin: 0 0 18px; color: #94a3b8; text-align: center; }
 
-/* Simple, responsive grid of QB cards */
+
 .qb-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -20,7 +20,7 @@
   grid-template-columns: 84px 1fr;
   align-items: center;
   gap: 12px;
-  background: #0f172a;               /* match your site’s dark card look */
+  background: #0f172a;              
   border: 1px solid rgba(255,255,255,0.08);
   border-radius: 14px;
   padding: 12px;

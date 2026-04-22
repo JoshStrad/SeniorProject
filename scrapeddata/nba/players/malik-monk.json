@@ -1,5 +1,9 @@
 {
   "player_name": "Malik Monk",
+  "team": "SAC",
+  "team_slug": "kings",
+  "league": "NBA",
+  "slug": "/nba/kings/malik-monk",
   "source_file": "bbr-malik-monk.html",
   "meta": {
     "position": "Shooting Guard",

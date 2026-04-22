@@ -1,5 +1,9 @@
 {
   "player_name": "Landry Shamet",
+  "team": "NYK",
+  "team_slug": "knicks",
+  "league": "NBA",
+  "slug": "/nba/knicks/landry-shamet",
   "source_file": "bbr-landry-shamet.html",
   "meta": {
     "position": "Shooting Guard",

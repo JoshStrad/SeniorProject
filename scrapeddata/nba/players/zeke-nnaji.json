@@ -1,5 +1,9 @@
 {
   "player_name": "Zeke Nnaji",
+  "team": "DEN",
+  "team_slug": "nuggets",
+  "league": "NBA",
+  "slug": "/nba/nuggets/zeke-nnaji",
   "source_file": "bbr-zeke-nnaji.html",
   "meta": {
     "position": "Power Forward",

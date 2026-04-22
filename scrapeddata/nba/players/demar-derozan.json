@@ -1,5 +1,9 @@
 {
   "player_name": "DeMar DeRozan",
+  "team": "SAC",
+  "team_slug": "kings",
+  "league": "NBA",
+  "slug": "/nba/kings/demar-derozan",
   "source_file": "bbr-demar-derozan.html",
   "meta": {
     "position": "Shooting Guard, Small Forward, and Power Forward",

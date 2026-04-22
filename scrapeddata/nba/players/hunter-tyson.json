@@ -1,5 +1,9 @@
 {
   "player_name": "Hunter Tyson",
+  "team": "DEN",
+  "team_slug": "nuggets",
+  "league": "NBA",
+  "slug": "/nba/nuggets/hunter-tyson",
   "source_file": "bbr-hunter-tyson.html",
   "meta": {
     "position": "Power Forward",

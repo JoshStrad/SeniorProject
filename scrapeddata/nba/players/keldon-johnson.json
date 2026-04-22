@@ -1,5 +1,9 @@
 {
   "player_name": "Keldon Johnson",
+  "team": "SAS",
+  "team_slug": "spurs",
+  "league": "NBA",
+  "slug": "/nba/spurs/keldon-johnson",
   "source_file": "bbr-keldon-johnson.html",
   "meta": {
     "position": "Small Forward",

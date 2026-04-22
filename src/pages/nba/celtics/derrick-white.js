@@ -1,84 +1,21 @@
 import React from 'react';
-import Header from '../../../components/Header';
-import Footer from '../../../components/Footer';
+import NBAPlayerProfile from '../../../components/NBAPlayerProfile';
 import './celtics-player.css';
+import playerData from '../../../../scrapeddata/nba/players/derrick-white.json';
 
-const DerrickWhite = () => {
+const  NBAPlayer = () => {
   return (
-    <>
-      <Header />
-      <main className="profile-container">
-        <h1>Derrick White</h1>
-        <p>Number: 9</p>
-        <p>Height: 6'4"</p>
-        <p>Age: 29</p>
-        <p>Position: Shooting Guard</p>
-        <p>College: Colorado</p>
-        <p>Drafted: 29th overall in the 2017 NBA Draft by the San Antonio Spurs</p>
-
-        {/* Player Image */}
-        <div className="player-image">
-          <img 
-            src="https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3078576.png&w=350&h=254" 
-            alt="Derrick White" 
-            className="profile-img" 
-          />
-        </div>
-
-        {/* Player Bio */}
-        <div className="bio">
-          <h2>Bio</h2>
-          <p>Derrick White is a versatile guard known for his defensive prowess, playmaking, and ability to contribute on both ends of the floor. 
-            After starting his career with the San Antonio Spurs, White joined the Boston Celtics, where he quickly became an integral part of the team's rotation. 
-            With a smooth scoring touch, quick decision-making, and strong perimeter defense, White has earned a reputation as one of the league's most well-rounded guards. 
-            His leadership and hustle make him a valuable asset in clutch moments.</p>
-        </div>
-
-        {/* Player Stats Placeholder */}
-        <div className="stats">
-          <h2>Player Stats</h2>
-          <table className="stats-table">
-            <thead>
-              <tr>
-                <th>Season</th>
-                <th>Points</th>
-                <th>Assists</th>
-                <th>Rebounds</th>
-                <th>Steals</th>
-                <th>Blocks</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>2023-2024</td>
-                <td>XX</td>
-                <td>XX</td>
-                <td>XX</td>
-                <td>XX</td>
-                <td>XX</td>
-              </tr>
-              {/* Additional rows can be added later when you have the stats */}
-            </tbody>
-          </table>
-        </div>
-
-        {/* Highlight video (YouTube Short) */}
-        <div className="highlight-video">
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/"
-            title="Jayson Tatum Highlights"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-          ></iframe>
-        </div>
-      </main>
-
-      <Footer /> {/* Render the Footer component */}
-    </>
+    <div>
+      <NBAPlayerProfile
+        data={playerData}
+        headshot="https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3078576.png&w=350&h=254"
+        auraClass="nba-aura"
+        teamName="Boston Celtics"
+        jerseyNumber="9"
+        bio=""
+      />
+    </div>
   );
 };
 
-export default DerrickWhite;
+export default NBAPlayer;

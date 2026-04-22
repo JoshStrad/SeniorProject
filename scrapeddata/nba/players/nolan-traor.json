@@ -1,5 +1,9 @@
 {
   "player_name": "Nolan Traor\u00e9",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/nolan-traor",
   "source_file": "bbr-nolan-traore.html",
   "meta": {
     "position": "Point Guard",

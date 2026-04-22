@@ -12,16 +12,10 @@ const NewEnglandPatriotsQBs = () => {
       headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4431452.png&w=350&h=254'
     },
     {
-      name: 'Joshua Dobbs',
-      number: 11,
-      profileLink: '/nfl/patriots/joshua-dobbs',
-      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3044720.png&w=350&h=254'
-    },
-    {
       name: 'Tommy Devito',
       number: 12,
-      profileLink: '/nfl/patriots/tommy-devito',
-      headshot: ''
+      profileLink: '/nfl/pats/tommy-devito',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4240391.png&w=350&h=254'
     }
   ];
 

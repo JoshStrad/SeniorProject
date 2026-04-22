@@ -1,5 +1,9 @@
 {
   "player_name": "Georges Niang",
+  "team": "ATL",
+  "team_slug": "hawks",
+  "league": "NBA",
+  "slug": "/nba/hawks/georges-niang",
   "source_file": "bbr-georges-niang.html",
   "meta": {
     "position": "Power Forward",

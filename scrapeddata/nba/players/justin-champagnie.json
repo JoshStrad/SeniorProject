@@ -1,5 +1,9 @@
 {
   "player_name": "Justin Champagnie",
+  "team": "WAS",
+  "team_slug": "wizards",
+  "league": "NBA",
+  "slug": "/nba/wizards/justin-champagnie",
   "source_file": "bbr-justin-champagnie.html",
   "meta": {
     "position": "Small Forward",

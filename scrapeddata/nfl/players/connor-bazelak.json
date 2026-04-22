@@ -1,0 +1,20 @@
+{
+  "player_name": "Connor Bazelak",
+  "team": "Tampa Bay Buccaneers",
+  "team_slug": "buccaneers",
+  "league": "NFL",
+  "slug": "/nfl/buccaneers/connor-bazelak",
+  "meta": {
+    "position": "QB",
+    "team": "Tampa Bay Buccaneers",
+    "height": "6' 3\"",
+    "weight": "225 lbs",
+    "born": "September 22, 2000 in Dayton, OH",
+    "college": null,
+    "draft": null,
+    "espn_id": "4426444",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426444.png",
+    "team_abbreviation": null
+  },
+  "passing": []
+}

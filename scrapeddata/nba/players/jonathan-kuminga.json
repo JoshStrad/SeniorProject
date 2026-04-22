@@ -1,5 +1,9 @@
 {
   "player_name": "Jonathan Kuminga",
+  "team": "GSW",
+  "team_slug": "warriors",
+  "league": "NBA",
+  "slug": "/nba/warriors/jonathan-kuminga",
   "source_file": "bbr-jonathan-kuminga.html",
   "meta": {
     "position": "Power Forward and Small Forward",

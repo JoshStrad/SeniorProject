@@ -1,5 +1,9 @@
 {
   "player_name": "Rasheer Fleming",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/rasheer-fleming",
   "source_file": "bbr-rasheer-fleming.html",
   "meta": {
     "position": "Power Forward",

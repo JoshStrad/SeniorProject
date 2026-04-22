@@ -1,5 +1,9 @@
 {
   "player_name": "Dejounte Murray",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/dejounte-murray",
   "source_file": "bbr-dejounte-murray.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

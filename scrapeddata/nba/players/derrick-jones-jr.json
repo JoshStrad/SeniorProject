@@ -1,5 +1,9 @@
 {
   "player_name": "Derrick Jones Jr.",
+  "team": "LAC",
+  "team_slug": "clippers",
+  "league": "NBA",
+  "slug": "/nba/clippers/derrick-jones-jr",
   "source_file": "bbr-derrick-jones-jr.html",
   "meta": {
     "position": "Small Forward and Power Forward",

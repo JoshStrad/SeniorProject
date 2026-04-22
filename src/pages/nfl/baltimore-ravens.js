@@ -12,10 +12,10 @@ const BaltimoreRavensQBs = () => {
       headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3916387.png&w=350&h=254'
     },
     {
-      name: 'Josh Johnson',
-      number: 2,
-      profileLink: '/nfl/ravens/josh-johnson',
-      headshot: ''
+      name: 'Tyler Huntley',
+      number: 5,
+      profileLink: '/nfl/ravens/tyler-huntley',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4035671.png&w=350&h=254'
     }
   ];
 
@@ -24,7 +24,7 @@ const BaltimoreRavensQBs = () => {
       <Header />
       <main className="team-container">
         <h1>Baltimore Ravens — Quarterbacks</h1>
-        <p>Click a QB to open their player page.</p>
+        <p></p>
 
         <div className="qb-grid">
           {qbs.map((qb) => (

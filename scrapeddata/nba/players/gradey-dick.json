@@ -1,5 +1,9 @@
 {
   "player_name": "Gradey Dick",
+  "team": "TOR",
+  "team_slug": "raptors",
+  "league": "NBA",
+  "slug": "/nba/raptors/gradey-dick",
   "source_file": "bbr-gradey-dick.html",
   "meta": {
     "position": "Shooting Guard",

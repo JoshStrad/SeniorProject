@@ -1,5 +1,9 @@
 {
   "player_name": "Caleb Martin",
+  "team": "DAL",
+  "team_slug": "mavericks",
+  "league": "NBA",
+  "slug": "/nba/mavericks/caleb-martin",
   "source_file": "bbr-caleb-martin.html",
   "meta": {
     "position": "Small Forward",

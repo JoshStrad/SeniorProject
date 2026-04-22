@@ -1,5 +1,9 @@
 {
   "player_name": "D'Angelo Russell",
+  "team": "DAL",
+  "team_slug": "mavericks",
+  "league": "NBA",
+  "slug": "/nba/mavericks/d-angelo-russell",
   "source_file": "bbr-dangelo-russell.html",
   "meta": {
     "position": "Point Guard",

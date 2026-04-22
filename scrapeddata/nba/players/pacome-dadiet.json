@@ -1,5 +1,9 @@
 {
   "player_name": "Pacome Dadiet",
+  "team": "NYK",
+  "team_slug": "knicks",
+  "league": "NBA",
+  "slug": "/nba/knicks/pacome-dadiet",
   "source_file": "bbr-pacome-dadiet.html",
   "meta": {
     "position": "Shooting Guard",

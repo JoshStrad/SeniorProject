@@ -1,5 +1,9 @@
 {
   "player_name": "Dereck Lively II",
+  "team": "DAL",
+  "team_slug": "mavericks",
+  "league": "NBA",
+  "slug": "/nba/mavericks/dereck-lively-ii",
   "source_file": "bbr-dereck-lively.html",
   "meta": {
     "position": "Center",

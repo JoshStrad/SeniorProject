@@ -1,0 +1,63 @@
+{
+  "player_name": "Bo Nix",
+  "team": "Denver Broncos",
+  "team_slug": "broncos",
+  "league": "NFL",
+  "slug": "/nfl/broncos/bo-nix",
+  "meta": {
+    "position": "QB",
+    "team": "Denver Broncos",
+    "height": "6' 2\"",
+    "weight": "217 lbs",
+    "born": "February 25, 2000 in Pinson, AL",
+    "college": null,
+    "draft": "Year 2024, Round 1",
+    "espn_id": "4426338",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426338.png",
+    "team_abbreviation": null
+  },
+  "passing": [
+    {
+      "Year": 2024,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 376,
+      "Att": 567,
+      "Cmp%": 66.3,
+      "Yds": 3775,
+      "TD": 29,
+      "Int": 12,
+      "Y/A": 6.7,
+      "AY/A": null,
+      "Y/G": 222.1,
+      "Rate": 93.3,
+      "QBR": 54.4,
+      "Sk": 24,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    },
+    {
+      "Year": 2025,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 388,
+      "Att": 612,
+      "Cmp%": 63.4,
+      "Yds": 3931,
+      "TD": 25,
+      "Int": 11,
+      "Y/A": 6.4,
+      "AY/A": null,
+      "Y/G": 231.2,
+      "Rate": 87.8,
+      "QBR": 60.0,
+      "Sk": 22,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    }
+  ]
+}

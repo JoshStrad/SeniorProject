@@ -1,5 +1,9 @@
 {
   "player_name": "Max Strus",
+  "team": "CLE",
+  "team_slug": "cavaliers",
+  "league": "NBA",
+  "slug": "/nba/cavaliers/max-strus",
   "source_file": "bbr-max-strus.html",
   "meta": {
     "position": "Small Forward",

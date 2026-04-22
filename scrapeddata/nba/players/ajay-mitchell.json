@@ -1,5 +1,9 @@
 {
   "player_name": "Ajay Mitchell",
+  "team": "OKC",
+  "team_slug": "thunder",
+  "league": "NBA",
+  "slug": "/nba/thunder/ajay-mitchell",
   "source_file": "bbr-ajay-mitchell.html",
   "meta": {
     "position": "Shooting Guard",

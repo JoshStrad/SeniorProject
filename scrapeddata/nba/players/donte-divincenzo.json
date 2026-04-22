@@ -1,5 +1,9 @@
 {
   "player_name": "Donte DiVincenzo",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/donte-divincenzo",
   "source_file": "bbr-donte-divincenzo.html",
   "meta": {
     "position": "Shooting Guard",

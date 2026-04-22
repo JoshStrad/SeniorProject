@@ -1,5 +1,9 @@
 {
   "player_name": "Jay Huff",
+  "team": "IND",
+  "team_slug": "pacers",
+  "league": "NBA",
+  "slug": "/nba/pacers/jay-huff",
   "source_file": "bbr-jay-huff.html",
   "meta": {
     "position": "Center",

@@ -1,5 +1,9 @@
 {
   "player_name": "Lonzo Ball",
+  "team": "CLE",
+  "team_slug": "cavaliers",
+  "league": "NBA",
+  "slug": "/nba/cavaliers/lonzo-ball",
   "source_file": "bbr-lonzo-ball.html",
   "meta": {
     "position": "Point Guard",

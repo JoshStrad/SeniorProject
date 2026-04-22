@@ -1,5 +1,9 @@
 {
   "player_name": "Isaiah Joe",
+  "team": "OKC",
+  "team_slug": "thunder",
+  "league": "NBA",
+  "slug": "/nba/thunder/isaiah-joe",
   "source_file": "bbr-isaiah-joe.html",
   "meta": {
     "position": "Shooting Guard",

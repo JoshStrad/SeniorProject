@@ -1,5 +1,9 @@
 {
   "player_name": "Zach LaVine",
+  "team": "SAC",
+  "team_slug": "kings",
+  "league": "NBA",
+  "slug": "/nba/kings/zach-lavine",
   "source_file": "bbr-zach-lavine.html",
   "meta": {
     "position": "Shooting Guard, Small Forward, and Point Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Jakob Poeltl",
+  "team": "TOR",
+  "team_slug": "raptors",
+  "league": "NBA",
+  "slug": "/nba/raptors/jakob-poeltl",
   "source_file": "bbr-jakob-poeltl.html",
   "meta": {
     "position": "Center",

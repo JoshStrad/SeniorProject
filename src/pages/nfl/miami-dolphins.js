@@ -6,16 +6,22 @@ import './nfl-team-qbs.css';
 const MiamiDolphinsQBs = () => {
   const qbs = [
     {
-      name: 'Tua Tagovailoa',
+      name: 'Malik Willis',
       number: 1,
-      profileLink: '/nfl/dolphins/tua-tagovailoa',
-      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4241479.png&w=350&h=254'
+      profileLink: '/nfl/dolphins/malik-willis',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4242512.png&w=350&h=254'
     },
     {
-      name: 'Mike White',
+      name: 'Quinn Ewers',
       number: 14,
-      profileLink: '/nfl/dolphins/mike-white',
-      headshot: 'https://a.espncdn.com/i/headshots/nfl/players/full/3915415.png'
+      profileLink: '/nfl/dolphins/quinn-ewers',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4889929.png&w=350&h=254'
+    },
+    {
+      name: 'Cam Miller',
+      number: 1,
+      profileLink: '/nfl/dolphins/cam-miller',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4693331.png&w=350&h=254'
     }
   ];
 

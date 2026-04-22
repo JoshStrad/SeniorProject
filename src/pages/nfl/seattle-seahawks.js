@@ -8,13 +8,19 @@ const SeattleSeahawksQBs = () => {
     { 
         name: 'Sam Darnold', 
         number: 14, 
-        profileLink: '/nfl/seahawks/geno-smith', 
+        profileLink: '/nfl/seahawks/sam-darnold', 
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3912547.png&w=350&h=254' 
     },
     { 
-        name: 'Drew Lock', 
+        name: 'Jalen Milroe', 
         number: 6, 
-        profileLink: '/nfl/seahawks/sam-howell', 
+        profileLink: '/nfl/seahawks/jalen-milroe', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4432734.png&w=350&h=254' 
+    },
+    { 
+        name: 'Drew Lock', 
+        number: 2, 
+        profileLink: '/nfl/seahawks/drew-lock', 
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3924327.png&w=350&h=254' 
     }
   ];

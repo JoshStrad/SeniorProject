@@ -1,5 +1,9 @@
 {
   "player_name": "Terrence Jones",
+  "team": "HOU",
+  "team_slug": "rockets",
+  "league": "NBA",
+  "slug": "/nba/rockets/terrence-jones",
   "source_file": "bbr-tre-jones.html",
   "meta": {
     "position": "Power Forward",

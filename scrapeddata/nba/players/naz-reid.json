@@ -1,5 +1,9 @@
 {
   "player_name": "Naz Reid",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/naz-reid",
   "source_file": "bbr-naz-reid.html",
   "meta": {
     "position": "Center and Power Forward",

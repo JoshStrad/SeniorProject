@@ -1,5 +1,9 @@
 {
   "player_name": "Kentavious Caldwell-Pope",
+  "team": "MEM",
+  "team_slug": "grizzlies",
+  "league": "NBA",
+  "slug": "/nba/grizzlies/kentavious-caldwell-pope",
   "source_file": "bbr-kentavious-caldwell-pope.html",
   "meta": {
     "position": "Shooting Guard",

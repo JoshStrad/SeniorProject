@@ -1,5 +1,9 @@
 {
   "player_name": "Jaden Hardy",
+  "team": "DAL",
+  "team_slug": "mavericks",
+  "league": "NBA",
+  "slug": "/nba/mavericks/jaden-hardy",
   "source_file": "bbr-jaden-hardy.html",
   "meta": {
     "position": "Shooting Guard",

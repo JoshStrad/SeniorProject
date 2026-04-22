@@ -1,0 +1,113 @@
+/* */
+.team-container {
+  padding: 20px;
+  background: #000;
+  color: #fff;
+  max-width: 1100px;
+  margin: 0 auto;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+/* Headings */
+.team-container h1 {
+  text-align: center;
+  font-size: 2.6em;
+  margin-bottom: 25px;
+  color: #ffffff;
+
+  /* white aura glow */
+  text-shadow: 
+    0 0 10px rgba(255,255,255,0.9),
+    0 0 20px rgba(255,255,255,0.6);
+}
+
+.team-container h2 {
+  text-align: center;
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+/* =========================
+   TABLE (BLACK + AURA)
+   ========================= */
+.team-container .roster-table {
+  width: 100%;
+  margin: 20px 0;
+  border-collapse: collapse;
+  background: #111;
+  border-radius: 10px;
+  overflow: hidden;
+
+  /* glow around table */
+  box-shadow:
+    0 0 12px rgba(255,255,255,0.15),
+    0 0 25px rgba(255,255,255,0.08);
+}
+
+/* Header */
+.team-container .roster-table th {
+  background: #000;
+  color: #fff;
+  padding: 14px;
+  font-size: 1.1em;
+  border-bottom: 2px solid rgba(255,255,255,0.2);
+}
+
+/* Cells */
+.team-container .roster-table td {
+  padding: 13px;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  color: #eaeaea;
+}
+
+/* Row striping */
+.team-container .roster-table tr:nth-child(even) {
+  background: #181818;
+}
+
+/* Hover glow */
+.team-container .roster-table tr:hover {
+  background: #222;
+
+  box-shadow:
+    inset 0 0 10px rgba(255,255,255,0.1);
+}
+
+/* Links */
+.team-container .roster-table td a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.team-container .roster-table td a:hover {
+  text-decoration: underline;
+
+  /* subtle glow on hover */
+  text-shadow:
+    0 0 6px rgba(255,255,255,0.7);
+}
+
+/* Fix column alignment */
+.team-container .roster-table th,
+.team-container .roster-table td {
+  text-align: center; /* centers everything cleanly */
+}
+
+/* Force consistent column widths */
+.team-container .roster-table th:nth-child(1),
+.team-container .roster-table td:nth-child(1) {
+  width: 20%;
+}
+
+.team-container .roster-table th:nth-child(2),
+.team-container .roster-table td:nth-child(2) {
+  width: 60%;
+}
+
+.team-container .roster-table th:nth-child(3),
+.team-container .roster-table td:nth-child(3) {
+  width: 20%;
+}

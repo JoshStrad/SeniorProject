@@ -1,5 +1,9 @@
 {
   "player_name": "Lindy Waters III",
+  "team": "SAS",
+  "team_slug": "spurs",
+  "league": "NBA",
+  "slug": "/nba/spurs/lindy-waters-iii",
   "source_file": "bbr-lindy-waters.html",
   "meta": {
     "position": "Shooting Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Donovan Clingan",
+  "team": "POR",
+  "team_slug": "trail-blazers",
+  "league": "NBA",
+  "slug": "/nba/trail-blazers/donovan-clingan",
   "source_file": "bbr-donovan-clingan.html",
   "meta": {
     "position": "Center",

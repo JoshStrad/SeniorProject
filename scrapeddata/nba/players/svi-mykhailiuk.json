@@ -1,5 +1,9 @@
 {
   "player_name": "Svi Mykhailiuk",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/svi-mykhailiuk",
   "source_file": "bbr-svi-mykhailiuk.html",
   "meta": {
     "position": "Small Forward",

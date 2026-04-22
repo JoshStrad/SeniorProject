@@ -1,5 +1,9 @@
 {
   "player_name": "Drew Peterson",
+  "team": "BOS",
+  "team_slug": "celtics",
+  "league": "NBA",
+  "slug": "/nba/celtics/drew-peterson",
   "source_file": "bbr-drew-peterson.html",
   "meta": {
     "position": "Power Forward",

@@ -1,5 +1,9 @@
 {
   "player_name": "Tim Hardaway Jr.",
+  "team": "DEN",
+  "team_slug": "nuggets",
+  "league": "NBA",
+  "slug": "/nba/nuggets/tim-hardaway-jr",
   "source_file": "bbr-tim-hardaway-jr.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

@@ -1,5 +1,9 @@
 {
   "player_name": "Myles Turner",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/myles-turner",
   "source_file": "bbr-myles-turner.html",
   "meta": {
     "position": "Center",

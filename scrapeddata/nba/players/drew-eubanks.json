@@ -1,5 +1,9 @@
 {
   "player_name": "Drew Eubanks",
+  "team": "SAC",
+  "team_slug": "kings",
+  "league": "NBA",
+  "slug": "/nba/kings/drew-eubanks",
   "source_file": "bbr-drew-eubanks.html",
   "meta": {
     "position": "Center and Power Forward",

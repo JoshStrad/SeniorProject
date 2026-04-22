@@ -1,5 +1,9 @@
 {
   "player_name": "Dennis Schr\u00f6der",
+  "team": "SAC",
+  "team_slug": "kings",
+  "league": "NBA",
+  "slug": "/nba/kings/dennis-schr-der",
   "source_file": "bbr-dennis-schroder.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

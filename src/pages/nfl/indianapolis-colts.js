@@ -16,6 +16,18 @@ const IndianapolisColtsQBs = () => {
       number: 4,
       profileLink: '/nfl/colts/daniel-jones',
       headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3917792.png&w=350&h=254'
+    },
+    {
+      name: 'Riley Leonard',
+      number: 15,
+      profileLink: '/nfl/colts/riley-leonard',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4683423.png&w=350&h=254'
+    },
+    {
+      name: 'Seth Heneigan',
+      number: 4,
+      profileLink: '/nfl/colts/seth-henigan',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4606194.png&w=350&h=254'
     }
   ];
 

@@ -1,5 +1,9 @@
 {
   "player_name": "Luka Garza",
+  "team": "BOS",
+  "team_slug": "celtics",
+  "league": "NBA",
+  "slug": "/nba/celtics/luka-garza",
   "source_file": "bbr-luka-garza.html",
   "meta": {
     "position": "Center",

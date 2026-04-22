@@ -1,5 +1,9 @@
 {
   "player_name": "Mitchell Robinson",
+  "team": "NYK",
+  "team_slug": "knicks",
+  "league": "NBA",
+  "slug": "/nba/knicks/mitchell-robinson",
   "source_file": "bbr-mitchell-robinson.html",
   "meta": {
     "position": "Center",

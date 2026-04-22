@@ -1,5 +1,9 @@
 {
   "player_name": "Jaylen Wells",
+  "team": "MEM",
+  "team_slug": "grizzlies",
+  "league": "NBA",
+  "slug": "/nba/grizzlies/jaylen-wells",
   "source_file": "bbr-jaylen-wells.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

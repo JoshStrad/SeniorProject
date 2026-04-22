@@ -1,5 +1,9 @@
 {
   "player_name": "Adou Thiero",
+  "team": "LAL",
+  "team_slug": "lakers",
+  "league": "NBA",
+  "slug": "/nba/lakers/adou-thiero",
   "source_file": "bbr-adou-thiero.html",
   "meta": {
     "position": "Small Forward and Power Forward",

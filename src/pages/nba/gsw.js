@@ -1,28 +1,24 @@
 import React from 'react';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
-import './celtics.css';
+import './nba-teampage.css';
 
 const GoldenStateWarriors = () => {
   const roster = [
-    { name: 'Taran Armstrong', position: 'G', number: 1, profileLink: '/nba/warriors/taran-armstrong' },
+    { name: 'De Anthony Melton', position: 'G', number: 1, profileLink: '/nba/warriors/deanthony-melton' },
     { name: 'Jimmy Butler III', position: 'SF', number: 10, profileLink: '/nba/warriors/jimmy-butler' },
     { name: 'Stephen Curry', position: 'PG', number: 30, profileLink: '/nba/warriors/stephen-curry' },
     { name: 'Draymond Green', position: 'PF', number: 23, profileLink: '/nba/warriors/draymond-green' },
-    { name: 'Buddy Hield', position: 'SG', number: 7, profileLink: '/nba/warriors/buddy-hield' },
-    { name: 'Trayce Jackson-Davis', position: 'F', number: 32, profileLink: '/nba/warriors/trayce-jackson-davis' },
-    { name: 'Braxton Key', position: 'F', number: 12, profileLink: '/nba/warriors/braxton-key' },
-    { name: 'Kevin Knox II', position: 'F', number: 31, profileLink: '/nba/warriors/kevin-knox-ii' },
-    { name: 'Jonathan Kuminga', position: 'PF', number: 0, profileLink: '/nba/warriors/jonathan-kuminga' }, // shown as 00
+    { name: 'Seth Curry', position: 'SG', number: 7, profileLink: '/nba/warriors/seth-curry' },
+    { name: 'Kristaps Porzingis', position: 'C', number: 32, profileLink: '/nba/warriors/kristaps-prozingis' },
+    { name: 'Al Horford', position: 'C', number: 31, profileLink: '/nba/warriors/al-horford' },
     { name: 'Moses Moody', position: 'SG', number: 4, profileLink: '/nba/warriors/moses-moody' },
     { name: 'Gary Payton II', position: 'SG', number: 0, profileLink: '/nba/warriors/gary-payton-ii' },
     { name: 'Brandin Podziemski', position: 'G', number: 2, profileLink: '/nba/warriors/brandin-podziemski' },
     { name: 'Quinten Post', position: 'C', number: 21, profileLink: '/nba/warriors/quinten-post' },
-    { name: 'Will Richard', position: 'G', number: null, profileLink: '/nba/warriors/will-richard' },
-    { name: 'Jackson Rowe', position: 'F', number: 44, profileLink: '/nba/warriors/jackson-rowe' },
+    { name: 'Will Richard', position: 'G', number: 3, profileLink: '/nba/warriors/will-richard' },
     { name: 'Gui Santos', position: 'F', number: 15, profileLink: '/nba/warriors/gui-santos' },
     { name: 'Pat Spencer', position: 'G', number: 61, profileLink: '/nba/warriors/pat-spencer' },
-    { name: 'Alex Toohey', position: 'F', number: 22, profileLink: '/nba/warriors/alex-toohey' },
   ];
 
   return (

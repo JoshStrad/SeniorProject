@@ -1,5 +1,9 @@
 {
   "player_name": "Tosan Evbuomwan",
+  "team": "NYK",
+  "team_slug": "knicks",
+  "league": "NBA",
+  "slug": "/nba/knicks/tosan-evbuomwan",
   "source_file": "bbr-tosan-evbuomwan.html",
   "meta": {
     "position": "Small Forward",

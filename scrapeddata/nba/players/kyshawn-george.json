@@ -1,5 +1,9 @@
 {
   "player_name": "Kyshawn George",
+  "team": "WAS",
+  "team_slug": "wizards",
+  "league": "NBA",
+  "slug": "/nba/wizards/kyshawn-george",
   "source_file": "bbr-kyshawn-george.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

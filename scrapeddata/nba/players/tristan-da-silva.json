@@ -1,5 +1,9 @@
 {
   "player_name": "Tristan Da Silva",
+  "team": "ORL",
+  "team_slug": "magic",
+  "league": "NBA",
+  "slug": "/nba/magic/tristan-da-silva",
   "source_file": "bbr-tristan-da-silva.html",
   "meta": {
     "position": "Small Forward",

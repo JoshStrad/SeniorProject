@@ -1,5 +1,9 @@
 {
   "player_name": "Wendell Carter Jr.",
+  "team": "ORL",
+  "team_slug": "magic",
+  "league": "NBA",
+  "slug": "/nba/magic/wendell-carter-jr",
   "source_file": "bbr-wendell-carter-jr.html",
   "meta": {
     "position": "Center and Power Forward",

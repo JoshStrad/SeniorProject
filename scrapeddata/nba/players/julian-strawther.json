@@ -1,5 +1,9 @@
 {
   "player_name": "Julian Strawther",
+  "team": "DEN",
+  "team_slug": "nuggets",
+  "league": "NBA",
+  "slug": "/nba/nuggets/julian-strawther",
   "source_file": "bbr-julian-strawther.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

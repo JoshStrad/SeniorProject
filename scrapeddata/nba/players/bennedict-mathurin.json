@@ -1,5 +1,9 @@
 {
   "player_name": "Bennedict Mathurin",
+  "team": "IND",
+  "team_slug": "pacers",
+  "league": "NBA",
+  "slug": "/nba/pacers/bennedict-mathurin",
   "source_file": "bbr-bennedict-mathurin.html",
   "meta": {
     "position": "Small Forward and Shooting Guard",

@@ -1,5 +1,5 @@
 import React from 'react';
-import Header from '../components/Header'; // Import the Header component
+import Header from '../components/Header'; 
 import '../components/Header.css'
 
 const AboutPage = () => {
@@ -11,7 +11,7 @@ const AboutPage = () => {
       <p>Our mission is to provide accurate and up-to-date statistical information for sports fans as well as provide historical stats to add
         for your hottest sports debates.</p>
       <p>Contact us at info@gamewinningstats.com for inquiries and support.</p>
-      <p>STATMUSE for player images. Youtube.com for player highlight mixes. Player stats from basketball-reference, football-reference, and baseball-reference.</p>
+      <p>Player stats scraped from basketball-reference, ESPN, and baseball-reference.</p>
     </div>
   );
 };

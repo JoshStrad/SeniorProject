@@ -1,5 +1,9 @@
 {
   "player_name": "Giannis Antetokounmpo",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/giannis-antetokounmpo",
   "source_file": "bbr-giannis-antetokounmpo.html",
   "meta": {
     "position": "Power Forward, Small Forward, Point Guard, and Shooting Guard",

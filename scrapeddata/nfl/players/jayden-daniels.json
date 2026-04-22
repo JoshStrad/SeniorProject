@@ -1,0 +1,63 @@
+{
+  "player_name": "Jayden Daniels",
+  "team": "Washington Commanders",
+  "team_slug": "commanders",
+  "league": "NFL",
+  "slug": "/nfl/commanders/jayden-daniels",
+  "meta": {
+    "position": "QB",
+    "team": "Washington Commanders",
+    "height": "6' 4\"",
+    "weight": "210 lbs",
+    "born": "December 18, 2000 in San Bernardino, CA",
+    "college": null,
+    "draft": "Year 2024, Round 1",
+    "espn_id": "4426348",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png",
+    "team_abbreviation": null
+  },
+  "passing": [
+    {
+      "Year": 2024,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 331,
+      "Att": 480,
+      "Cmp%": 69.0,
+      "Yds": 3568,
+      "TD": 25,
+      "Int": 9,
+      "Y/A": 7.4,
+      "AY/A": null,
+      "Y/G": 209.9,
+      "Rate": 100.1,
+      "QBR": 69.5,
+      "Sk": 47,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    },
+    {
+      "Year": 2025,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 114,
+      "Att": 188,
+      "Cmp%": 60.6,
+      "Yds": 1262,
+      "TD": 8,
+      "Int": 3,
+      "Y/A": 6.7,
+      "AY/A": null,
+      "Y/G": 180.3,
+      "Rate": 88.1,
+      "QBR": 45.7,
+      "Sk": 18,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    }
+  ]
+}

@@ -1,5 +1,9 @@
 {
   "player_name": "Koby Brea",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/koby-brea",
   "source_file": "bbr-koby-brea.html",
   "meta": {
     "position": "Shooting Guard",

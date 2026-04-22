@@ -1,5 +1,9 @@
 {
   "player_name": "Tyus Jones",
+  "team": "ORL",
+  "team_slug": "magic",
+  "league": "NBA",
+  "slug": "/nba/magic/tyus-jones",
   "source_file": "bbr-tyus-jones.html",
   "meta": {
     "position": "Point Guard",

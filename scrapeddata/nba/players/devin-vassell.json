@@ -1,5 +1,9 @@
 {
   "player_name": "Devin Vassell",
+  "team": "SAS",
+  "team_slug": "spurs",
+  "league": "NBA",
+  "slug": "/nba/spurs/devin-vassell",
   "source_file": "bbr-devin-vassell.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

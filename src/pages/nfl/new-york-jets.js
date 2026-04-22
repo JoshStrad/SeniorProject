@@ -6,17 +6,23 @@ import './nfl-team-qbs.css';
 const NewYorkJetsQBs = () => {
   const qbs = [
     {
-      name: 'Justin Fields',
+      name: 'Geno Smith',
       number: 7,
-      profileLink: '/nfl/jets/justin-fields',
-      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4362887.png&w=350&h=254'
+      profileLink: '/nfl/jets/geno-smith',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/15864.png&w=350&h=254'
     },
     {
-      name: 'Tyrod Taylor',
+      name: 'Brady Cook',
       number: 5,
-      profileLink: '/nfl/jets/tyrod-taylor',
-      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14163.png&w=350&h=254'
-    }
+      profileLink: '/nfl/jets/brady-cook',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4429435.png&w=350&h=254'
+    },
+    {
+      name: 'Bailey Zappe',
+      number: 7,
+      profileLink: '/nfl/jets/bailey-zappe',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4250360.png&w=350&h=254'
+    },
   ];
 
   return (

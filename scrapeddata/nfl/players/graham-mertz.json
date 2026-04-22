@@ -1,0 +1,20 @@
+{
+  "player_name": "Graham Mertz",
+  "team": "Houston Texans",
+  "team_slug": "texans",
+  "league": "NFL",
+  "slug": "/nfl/texans/graham-mertz",
+  "meta": {
+    "position": "QB",
+    "team": "Houston Texans",
+    "height": "6' 2\"",
+    "weight": "216 lbs",
+    "born": "December 6, 2000 in Overland Park, KS",
+    "college": null,
+    "draft": "Year 2025, Round 6",
+    "espn_id": "4426335",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426335.png",
+    "team_abbreviation": null
+  },
+  "passing": []
+}

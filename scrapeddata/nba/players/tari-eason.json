@@ -1,5 +1,9 @@
 {
   "player_name": "Tari Eason",
+  "team": "HOU",
+  "team_slug": "rockets",
+  "league": "NBA",
+  "slug": "/nba/rockets/tari-eason",
   "source_file": "bbr-tari-eason.html",
   "meta": {
     "position": "Power Forward",

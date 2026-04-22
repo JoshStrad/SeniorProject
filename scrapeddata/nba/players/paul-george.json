@@ -1,5 +1,9 @@
 {
   "player_name": "Paul George",
+  "team": "PHI",
+  "team_slug": "76ers",
+  "league": "NBA",
+  "slug": "/nba/76ers/paul-george",
   "source_file": "bbr-paul-george.html",
   "meta": {
     "position": "Small Forward, Power Forward, and Shooting Guard",

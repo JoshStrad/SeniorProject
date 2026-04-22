@@ -1,5 +1,9 @@
 {
   "player_name": "Miles McBride",
+  "team": "NYK",
+  "team_slug": "knicks",
+  "league": "NBA",
+  "slug": "/nba/knicks/miles-mcbride",
   "source_file": "bbr-miles-mcbride.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

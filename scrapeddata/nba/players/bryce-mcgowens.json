@@ -1,5 +1,9 @@
 {
   "player_name": "Bryce McGowens",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/bryce-mcgowens",
   "source_file": "bbr-bryce-mcgowens.html",
   "meta": {
     "position": "Shooting Guard",

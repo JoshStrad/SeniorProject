@@ -16,6 +16,12 @@ const ChicagoBearsQBs = () => {
         number: 17, 
         profileLink: '/nfl/bears/tyson-bagent', 
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4434153.png&w=350&h=254' 
+    },
+    { 
+        name: 'Case Keenum', 
+        number: 11, 
+        profileLink: '/nfl/bears/case-keenum', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/15168.png&w=350&h=254' 
     }
   ];
   return (
@@ -23,7 +29,7 @@ const ChicagoBearsQBs = () => {
       <Header />
       <main className="team-container">
         <h1>Chicago Bears — Quarterbacks</h1>
-        <p>Click a QB to open their player page.</p>
+        <p></p>
         <div className="qb-grid">{qbs.map(qb => (
           <a className="qb-card" href={qb.profileLink} key={qb.name}>
             <div className="qb-photo">{qb.headshot ? <img src={qb.headshot} alt={`${qb.name} headshot`} loading="lazy" /> : <div className="qb-photo--ph" />}</div>

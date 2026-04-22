@@ -1,5 +1,9 @@
 {
   "player_name": "Jeff Green",
+  "team": "HOU",
+  "team_slug": "rockets",
+  "league": "NBA",
+  "slug": "/nba/rockets/jeff-green",
   "source_file": "bbr-jeff-green.html",
   "meta": {
     "position": "Power Forward, Small Forward, and Center",

@@ -1,0 +1,42 @@
+{
+  "player_name": "Adrian Martinez",
+  "team": "San Francisco 49ers",
+  "team_slug": "49ers",
+  "league": "NFL",
+  "slug": "/nfl/49ers/adrian-martinez",
+  "meta": {
+    "position": "QB",
+    "team": "San Francisco 49ers",
+    "height": "6' 2\"",
+    "weight": "220 lbs",
+    "born": "January 7, 2000 in Fresno, CA",
+    "college": null,
+    "draft": null,
+    "espn_id": "4361182",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361182.png",
+    "team_abbreviation": null
+  },
+  "passing": [
+    {
+      "Year": 2025,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 0,
+      "Att": 0,
+      "Cmp%": 0.0,
+      "Yds": 0,
+      "TD": 0,
+      "Int": 0,
+      "Y/A": 0.0,
+      "AY/A": null,
+      "Y/G": 0.0,
+      "Rate": 39.6,
+      "QBR": null,
+      "Sk": 0,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    }
+  ]
+}

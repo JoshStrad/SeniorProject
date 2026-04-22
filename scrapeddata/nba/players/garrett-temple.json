@@ -1,5 +1,9 @@
 {
   "player_name": "Garrett Temple",
+  "team": "TOR",
+  "team_slug": "raptors",
+  "league": "NBA",
+  "slug": "/nba/raptors/garrett-temple",
   "source_file": "bbr-garrett-temple.html",
   "meta": {
     "position": "Shooting Guard, Small Forward, and Point Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Jarace Walker",
+  "team": "IND",
+  "team_slug": "pacers",
+  "league": "NBA",
+  "slug": "/nba/pacers/jarace-walker",
   "source_file": "bbr-jarace-walker.html",
   "meta": {
     "position": "Power Forward",

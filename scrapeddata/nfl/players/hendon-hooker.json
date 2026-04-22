@@ -1,0 +1,42 @@
+{
+  "player_name": "Hendon Hooker",
+  "team": "Tennessee Titans",
+  "team_slug": "titans",
+  "league": "NFL",
+  "slug": "/nfl/titans/hendon-hooker",
+  "meta": {
+    "position": "QB",
+    "team": "Tennessee Titans",
+    "height": "6' 3\"",
+    "weight": "220 lbs",
+    "born": "January 13, 1998 in Greensboro, NC",
+    "college": null,
+    "draft": "Year 2023, Round 3",
+    "espn_id": "4240858",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4240858.png",
+    "team_abbreviation": null
+  },
+  "passing": [
+    {
+      "Year": 2024,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 6,
+      "Att": 9,
+      "Cmp%": 66.7,
+      "Yds": 62,
+      "TD": 0,
+      "Int": 0,
+      "Y/A": 6.9,
+      "AY/A": null,
+      "Y/G": 20.7,
+      "Rate": 86.3,
+      "QBR": 45.3,
+      "Sk": 1,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    }
+  ]
+}

@@ -1,5 +1,9 @@
 {
   "player_name": "Jaylon Tyson",
+  "team": "CLE",
+  "team_slug": "cavaliers",
+  "league": "NBA",
+  "slug": "/nba/cavaliers/jaylon-tyson",
   "source_file": "bbr-jaylon-tyson.html",
   "meta": {
     "position": "Shooting Guard",

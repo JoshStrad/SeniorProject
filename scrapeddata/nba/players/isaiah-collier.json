@@ -1,5 +1,9 @@
 {
   "player_name": "Isaiah Collier",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/isaiah-collier",
   "source_file": "bbr-isaiah-collier.html",
   "meta": {
     "position": "Point Guard",

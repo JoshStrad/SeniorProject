@@ -1,5 +1,9 @@
 {
   "player_name": "Keegan Murray",
+  "team": "SAC",
+  "team_slug": "kings",
+  "league": "NBA",
+  "slug": "/nba/kings/keegan-murray",
   "source_file": "bbr-keegan-murray.html",
   "meta": {
     "position": "Power Forward and Small Forward",

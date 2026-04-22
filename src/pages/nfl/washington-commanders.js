@@ -12,8 +12,14 @@ const WashingtonCommandersQBs = () => {
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426348.png&w=350&h=254' 
     },
     { 
+        name: 'Sam Hartman', 
+        number: 15, 
+        profileLink: '/nfl/commanders/sam-hartman', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4361994.png&w=350&h=254' 
+    },
+    { 
         name: 'Marcus Mariota', 
-        number: 0, 
+        number: 8, 
         profileLink: '/nfl/commanders/marcus-mariota', 
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2576980.png&w=350&h=254' 
     }

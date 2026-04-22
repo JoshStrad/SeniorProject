@@ -1,5 +1,9 @@
 {
   "player_name": "Dylan Harper",
+  "team": "SAS",
+  "team_slug": "spurs",
+  "league": "NBA",
+  "slug": "/nba/spurs/dylan-harper",
   "source_file": "bbr-dylan-harper.html",
   "meta": {
     "position": "Shooting Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Drew Timme",
+  "team": "LAL",
+  "team_slug": "lakers",
+  "league": "NBA",
+  "slug": "/nba/lakers/drew-timme",
   "source_file": "bbr-drew-timme.html",
   "meta": {
     "position": "Power Forward",

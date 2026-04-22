@@ -1,5 +1,9 @@
 {
   "player_name": "Chaz Lanier",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/chaz-lanier",
   "source_file": "bbr-chaz-lanier.html",
   "meta": {
     "position": "Shooting Guard",

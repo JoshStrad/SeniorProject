@@ -1,5 +1,9 @@
 {
   "player_name": "Anthony Black",
+  "team": "ORL",
+  "team_slug": "magic",
+  "league": "NBA",
+  "slug": "/nba/magic/anthony-black",
   "source_file": "bbr-anthony-black.html",
   "meta": {
     "position": "Point Guard",

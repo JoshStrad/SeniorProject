@@ -1,5 +1,9 @@
 {
   "player_name": "Damian Lillard",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/damian-lillard",
   "source_file": "bbr-damian-lillard.html",
   "meta": {
     "position": "Point Guard",

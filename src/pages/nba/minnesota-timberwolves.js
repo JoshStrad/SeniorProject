@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
-import './celtics.css';
+import './nba-teampage.css';
 
 const MinnesotaTimberwolves = () => {
   const roster = [
@@ -9,20 +9,17 @@ const MinnesotaTimberwolves = () => {
     { name: 'Jaylen Clark', position: 'G', number: 22, profileLink: '/nba/timberwolves/jaylen-clark' },
     { name: 'Mike Conley', position: 'PG', number: 10, profileLink: '/nba/timberwolves/mike-conley' },
     { name: 'Donte DiVincenzo', position: 'SG', number: 0, profileLink: '/nba/timberwolves/donte-divincenzo' },
-    { name: 'Rob Dillingham', position: 'G', number: 4, profileLink: '/nba/timberwolves/rob-dillingham' },
+    { name: 'Ayo Dosunmu', position: 'G', number: 4, profileLink: '/nba/timberwolves/ayo-dosunmu' },
     { name: 'Anthony Edwards', position: 'SG', number: 5, profileLink: '/nba/timberwolves/anthony-edwards' },
-    { name: 'Jesse Edwards', position: 'C', number: 14, profileLink: '/nba/timberwolves/jesse-edwards' },
-    { name: 'Enrique Freeman', position: 'F', number: 8, profileLink: '/nba/timberwolves/enrique-freeman' },
     { name: 'Rudy Gobert', position: 'C', number: 27, profileLink: '/nba/timberwolves/rudy-gobert' },
     { name: 'Bones Hyland', position: 'PG', number: 77, profileLink: '/nba/timberwolves/bones-hyland' },
     { name: 'Joe Ingles', position: 'SG', number: 7, profileLink: '/nba/timberwolves/joe-ingles' },
     { name: 'Jaden McDaniels', position: 'PF', number: 3, profileLink: '/nba/timberwolves/jaden-mcdaniels' },
-    { name: 'Leonard Miller', position: 'F', number: 33, profileLink: '/nba/timberwolves/leonard-miller' },
-    { name: 'Tristen Newton', position: 'G', number: 13, profileLink: '/nba/timberwolves/tristen-newton' },
+    { name: 'Julian Philips', position: 'F', number: 33, profileLink: '/nba/timberwolves/julian-philips' },
+    { name: 'Kyle Anderson', position: 'G', number: 13, profileLink: '/nba/timberwolves/kyle-anderson' },
     { name: 'Julius Randle', position: 'PF', number: 30, profileLink: '/nba/timberwolves/julius-randle' },
     { name: 'Naz Reid', position: 'C', number: 11, profileLink: '/nba/timberwolves/naz-reid' },
-    { name: 'Terrence Shannon Jr.', position: 'G', number: 0, profileLink: '/nba/timberwolves/terrence-shannon-jr' },
-    { name: 'Rocco Zikarsky', position: 'C', number: 44, profileLink: '/nba/timberwolves/rocco-zikarsky' },
+    { name: 'Terrence Shannon Jr.', position: 'G', number: 1, profileLink: '/nba/timberwolves/terrence-shannon-jr' },
   ];
 
   return (

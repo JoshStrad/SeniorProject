@@ -1,5 +1,9 @@
 {
   "player_name": "Kel'el Ware",
+  "team": "MIA",
+  "team_slug": "heat",
+  "league": "NBA",
+  "slug": "/nba/heat/kel-el-ware",
   "source_file": "bbr-kelel-ware.html",
   "meta": {
     "position": "Center",

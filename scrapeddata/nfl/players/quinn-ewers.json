@@ -1,0 +1,42 @@
+{
+  "player_name": "Quinn Ewers",
+  "team": "Miami Dolphins",
+  "team_slug": "dolphins",
+  "league": "NFL",
+  "slug": "/nfl/dolphins/quinn-ewers",
+  "meta": {
+    "position": "QB",
+    "team": "Miami Dolphins",
+    "height": "6' 2\"",
+    "weight": "209 lbs",
+    "born": "March 15, 2003 in Southlake, TX",
+    "college": null,
+    "draft": "Year 2025, Round 7",
+    "espn_id": "4889929",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4889929.png",
+    "team_abbreviation": null
+  },
+  "passing": [
+    {
+      "Year": 2025,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 55,
+      "Att": 83,
+      "Cmp%": 66.3,
+      "Yds": 622,
+      "TD": 3,
+      "Int": 3,
+      "Y/A": 7.5,
+      "AY/A": null,
+      "Y/G": 155.5,
+      "Rate": 85.5,
+      "QBR": 34.1,
+      "Sk": 8,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    }
+  ]
+}

@@ -1,5 +1,9 @@
 {
   "player_name": "Leonard Miller",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/leonard-miller",
   "source_file": "bbr-leonard-miller.html",
   "meta": {
     "position": "Small Forward",

@@ -1,5 +1,9 @@
 {
   "player_name": "Jalen Green",
+  "team": "HOU",
+  "team_slug": "rockets",
+  "league": "NBA",
+  "slug": "/nba/rockets/jalen-green",
   "source_file": "bbr-jalen-green.html",
   "meta": {
     "position": "Shooting Guard",

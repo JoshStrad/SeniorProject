@@ -16,6 +16,12 @@ const DallasCowboysQBs = () => {
         number: 5, 
         profileLink: '/nfl/cowboys/joe-milton', 
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4360698.png&w=350&h=254' 
+    },
+    {
+        name: 'Sam Howell', 
+        number: 5, 
+        profileLink: '/nfl/cowboys/sam-howell', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426875.png&w=350&h=254' 
     }
   ];
   return (

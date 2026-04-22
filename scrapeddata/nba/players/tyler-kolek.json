@@ -1,5 +1,9 @@
 {
   "player_name": "Tyler Kolek",
+  "team": "NYK",
+  "team_slug": "knicks",
+  "league": "NBA",
+  "slug": "/nba/knicks/tyler-kolek",
   "source_file": "bbr-tyler-kolek.html",
   "meta": {
     "position": "Point Guard",

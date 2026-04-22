@@ -1,0 +1,42 @@
+{
+  "player_name": "Shane Buechele",
+  "team": "Buffalo Bills",
+  "team_slug": "bills",
+  "league": "NFL",
+  "slug": "/nfl/bills/shane-buechele",
+  "meta": {
+    "position": "QB",
+    "team": "Buffalo Bills",
+    "height": "6' 0\"",
+    "weight": "210 lbs",
+    "born": "January 8, 1998 in Arlington, TX",
+    "college": null,
+    "draft": null,
+    "espn_id": "4039034",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4039034.png",
+    "team_abbreviation": null
+  },
+  "passing": [
+    {
+      "Year": 2025,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 7,
+      "Att": 14,
+      "Cmp%": 50.0,
+      "Yds": 88,
+      "TD": 0,
+      "Int": 0,
+      "Y/A": 6.3,
+      "AY/A": null,
+      "Y/G": 88.0,
+      "Rate": 69.9,
+      "QBR": 4.5,
+      "Sk": 5,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    }
+  ]
+}

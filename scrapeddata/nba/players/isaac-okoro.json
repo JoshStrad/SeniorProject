@@ -1,5 +1,9 @@
 {
   "player_name": "Isaac Okoro",
+  "team": "CHI",
+  "team_slug": "bulls",
+  "league": "NBA",
+  "slug": "/nba/bulls/isaac-okoro",
   "source_file": "bbr-isaac-okoro.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

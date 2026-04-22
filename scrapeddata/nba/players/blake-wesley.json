@@ -1,5 +1,9 @@
 {
   "player_name": "Blake Wesley",
+  "team": "POR",
+  "team_slug": "trail-blazers",
+  "league": "NBA",
+  "slug": "/nba/trail-blazers/blake-wesley",
   "source_file": "bbr-blake-wesley.html",
   "meta": {
     "position": "Shooting Guard",

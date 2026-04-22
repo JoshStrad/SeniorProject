@@ -1,0 +1,42 @@
+{
+  "player_name": "Shedeur Sanders",
+  "team": "Cleveland Browns",
+  "team_slug": "browns",
+  "league": "NFL",
+  "slug": "/nfl/browns/shedeur-sanders",
+  "meta": {
+    "position": "QB",
+    "team": "Cleveland Browns",
+    "height": "6' 2\"",
+    "weight": "212 lbs",
+    "born": "February 7, 2002 in Dallas, TX",
+    "college": null,
+    "draft": "Year 2025, Round 5",
+    "espn_id": "4432762",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432762.png",
+    "team_abbreviation": null
+  },
+  "passing": [
+    {
+      "Year": 2025,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 120,
+      "Att": 212,
+      "Cmp%": 56.6,
+      "Yds": 1400,
+      "TD": 7,
+      "Int": 10,
+      "Y/A": 6.6,
+      "AY/A": null,
+      "Y/G": 175.0,
+      "Rate": 68.1,
+      "QBR": 20.6,
+      "Sk": 23,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    }
+  ]
+}

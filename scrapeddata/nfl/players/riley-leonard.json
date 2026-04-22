@@ -1,0 +1,42 @@
+{
+  "player_name": "Riley Leonard",
+  "team": "Indianapolis Colts",
+  "team_slug": "colts",
+  "league": "NFL",
+  "slug": "/nfl/colts/riley-leonard",
+  "meta": {
+    "position": "QB",
+    "team": "Indianapolis Colts",
+    "height": "6' 4\"",
+    "weight": "213 lbs",
+    "born": "September 13, 2002 in Fairhope, AL",
+    "college": null,
+    "draft": "Year 2025, Round 6",
+    "espn_id": "4683423",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4683423.png",
+    "team_abbreviation": null
+  },
+  "passing": [
+    {
+      "Year": 2025,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 39,
+      "Att": 67,
+      "Cmp%": 58.2,
+      "Yds": 415,
+      "TD": 2,
+      "Int": 3,
+      "Y/A": 6.2,
+      "AY/A": null,
+      "Y/G": 83.0,
+      "Rate": 67.7,
+      "QBR": 62.7,
+      "Sk": 2,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    }
+  ]
+}

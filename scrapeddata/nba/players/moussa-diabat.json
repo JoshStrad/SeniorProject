@@ -1,5 +1,9 @@
 {
   "player_name": "Moussa Diabat\u00e9",
+  "team": "LAC",
+  "team_slug": "clippers",
+  "league": "NBA",
+  "slug": "/nba/clippers/moussa-diabat",
   "source_file": "bbr-moussa-diabate.html",
   "meta": {
     "position": "Center",

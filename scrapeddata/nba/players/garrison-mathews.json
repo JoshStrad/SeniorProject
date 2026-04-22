@@ -1,5 +1,9 @@
 {
   "player_name": "Garrison Mathews",
+  "team": "IND",
+  "team_slug": "pacers",
+  "league": "NBA",
+  "slug": "/nba/pacers/garrison-mathews",
   "source_file": "bbr-garrison-mathews.html",
   "meta": {
     "position": "Shooting Guard",

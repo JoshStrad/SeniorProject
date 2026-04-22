@@ -1,5 +1,9 @@
 {
   "player_name": "Goga Bitadze",
+  "team": "ORL",
+  "team_slug": "magic",
+  "league": "NBA",
+  "slug": "/nba/magic/goga-bitadze",
   "source_file": "bbr-goga-bitadze.html",
   "meta": {
     "position": "Center",

@@ -1,5 +1,9 @@
 {
   "player_name": "Isaac Jones",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/isaac-jones",
   "source_file": "bbr-isaac-jones.html",
   "meta": {
     "position": "Power Forward",

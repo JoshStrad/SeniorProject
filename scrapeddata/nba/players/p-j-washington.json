@@ -1,5 +1,9 @@
 {
   "player_name": "P.J. Washington",
+  "team": "DAL",
+  "team_slug": "mavericks",
+  "league": "NBA",
+  "slug": "/nba/mavericks/p-j-washington",
   "source_file": "bbr-pj-washington.html",
   "meta": {
     "position": "Power Forward and Center",

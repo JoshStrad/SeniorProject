@@ -1,5 +1,9 @@
 {
   "player_name": "Miles Bridges",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/miles-bridges",
   "source_file": "bbr-miles-bridges.html",
   "meta": {
     "position": "Power Forward and Small Forward",

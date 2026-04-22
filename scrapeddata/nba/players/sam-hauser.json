@@ -1,5 +1,9 @@
 {
   "player_name": "Sam Hauser",
+  "team": "BOS",
+  "team_slug": "celtics",
+  "league": "NBA",
+  "slug": "/nba/celtics/sam-hauser",
   "source_file": "bbr-sam-hauser.html",
   "meta": {
     "position": "Small Forward and Power Forward",

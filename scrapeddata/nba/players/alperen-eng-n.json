@@ -1,5 +1,9 @@
 {
   "player_name": "Alperen \u015eeng\u00fcn",
+  "team": "HOU",
+  "team_slug": "rockets",
+  "league": "NBA",
+  "slug": "/nba/rockets/alperen-eng-n",
   "source_file": "bbr-alperen-sengun.html",
   "meta": {
     "position": "Center",

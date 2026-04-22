@@ -1,5 +1,9 @@
 {
   "player_name": "Nikola Vu\u010devi\u0107",
+  "team": "CHI",
+  "team_slug": "bulls",
+  "league": "NBA",
+  "slug": "/nba/bulls/nikola-vu-evi",
   "source_file": "bbr-nikola-vucevic.html",
   "meta": {
     "position": "Center",

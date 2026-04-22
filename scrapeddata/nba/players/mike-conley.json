@@ -1,5 +1,9 @@
 {
   "player_name": "Mike Conley",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/mike-conley",
   "source_file": "bbr-mike-conley.html",
   "meta": {
     "position": "Point Guard",

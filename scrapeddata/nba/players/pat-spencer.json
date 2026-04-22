@@ -1,5 +1,9 @@
 {
   "player_name": "Pat Spencer",
+  "team": "GSW",
+  "team_slug": "warriors",
+  "league": "NBA",
+  "slug": "/nba/warriors/pat-spencer",
   "source_file": "bbr-pat-spencer.html",
   "meta": {
     "position": "Point Guard",

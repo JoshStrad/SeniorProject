@@ -1,5 +1,9 @@
 {
   "player_name": "Chris Livingston",
+  "team": "CLE",
+  "team_slug": "cavaliers",
+  "league": "NBA",
+  "slug": "/nba/cavaliers/chris-livingston",
   "source_file": "bbr-chris-livingston.html",
   "meta": {
     "position": "Small Forward",

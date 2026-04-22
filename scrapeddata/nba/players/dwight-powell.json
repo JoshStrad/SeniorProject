@@ -1,5 +1,9 @@
 {
   "player_name": "Dwight Powell",
+  "team": "DAL",
+  "team_slug": "mavericks",
+  "league": "NBA",
+  "slug": "/nba/mavericks/dwight-powell",
   "source_file": "bbr-dwight-powell.html",
   "meta": {
     "position": "Center and Power Forward",

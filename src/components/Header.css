@@ -1,84 +1,153 @@
 .navbar {
-  background-color: #333; /* Set background color */
-  padding: 10px 20px; /* Add padding for spacing */
-  border-bottom: 2px solid #eee; /* Add a border */
+  background-color: #333;
+  padding: 10px 20px;
+  border-bottom: 2px solid #eee;
 }
 
 .nav-menu {
-  list-style-type: none; /* Remove default list styles */
+  list-style-type: none;
   margin: 0;
   padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 20px;
 }
 
 .nav-menu li {
-  display: inline-block; /* Display list items horizontally */
-  margin-right: 20px; /* Add spacing between items */
+  display: inline-block;
+  position: relative;
 }
 
 .nav-menu li:last-child {
-  margin-right: 0; /* Remove margin from last item */
+  margin-right: 0;
 }
 
 .nav-menu li a {
-  color: #fff; /* Set link text color */
-  text-decoration: none; /* Remove underline */
-  font-weight: bold; /* Make text bold */
-  padding: 10px 15px; /* Add padding for clickable area */
-  transition: background-color 0.3s ease; /* Add smooth transition */
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 15px;
+  transition: background-color 0.3s ease;
 }
 
 .nav-menu li a:hover {
-  background-color: #555; /* Change background color on hover */
+  background-color: #555;
+  border-radius: 4px;
 }
-  /* Styles for the sports dropdown */
-  .dropdown {
-    position: relative;
-    display: inline-block;
-  }
-  
-  .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #0e0e0e;
-    min-width: 120px;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-    z-index: 1;
-  }
-  
-  .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-  }
-  
-  .dropdown-content a:hover {
-    background-color: #f1f1f1;
-  }
-  
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
-  
-  .search-bar {
-    display: flex;
-    align-items: center;
-  }
-  
-  .search-bar input {
-    padding: 8px;
-    margin-right: 10px;
-    border: 1px solid #ccc;
-  }
-  
-  .search-bar button {
-    padding: 8px 15px;
-    background-color: #333;
-    color: #fff;
-    border: none;
-    cursor: pointer;
-  }
-  
-  .search-bar button:hover {
-    background-color: #555;
-  }
+
+/* Dropdown */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-btn {
+  color: #fff;
+  font-weight: bold;
+  padding: 10px 15px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.dropdown-btn:hover {
+  background-color: #555;
+  border-radius: 4px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #0e0e0e;
+  min-width: 180px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25);
+  z-index: 1000;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.dropdown-content a {
+  color: #fff;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  font-weight: normal;
+}
+
+.dropdown-content a:hover {
+  background-color: #222;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Search bar */
+.search-bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.search-bar form {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.search-bar input {
+  padding: 8px 12px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+}
+
+.search-bar button {
+  padding: 8px 15px;
+  background-color: #333;
+  color: #fff;
+  border: 1px solid #666;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.search-bar button:hover {
+  background-color: #555;
+}
+
+/* Search dropdown results */
+.search-results {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  width: 260px;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+  z-index: 2000;
+  overflow: hidden;
+}
+
+.search-item {
+  padding: 10px 12px;
+  cursor: pointer;
+  color: #111;
+  border-bottom: 1px solid #eee;
+  font-size: 0.95rem;
+}
+
+.search-item:last-child {
+  border-bottom: none;
+}
+
+.search-item:hover {
+  background-color: #f3f3f3;
+}
+
+.search-team {
+  float: right;
+  color: #777;
+  font-size: 0.8rem;
+}

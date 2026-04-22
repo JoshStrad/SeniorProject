@@ -1,0 +1,63 @@
+{
+  "player_name": "Michael Penix Jr.",
+  "team": "Atlanta Falcons",
+  "team_slug": "falcons",
+  "league": "NFL",
+  "slug": "/nfl/falcons/michael-penix-jr",
+  "meta": {
+    "position": "QB",
+    "team": "Atlanta Falcons",
+    "height": "6' 3\"",
+    "weight": "220 lbs",
+    "born": "May 8, 2000 in Tampa, FL",
+    "college": null,
+    "draft": "Year 2024, Round 1",
+    "espn_id": "4360423",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360423.png",
+    "team_abbreviation": null
+  },
+  "passing": [
+    {
+      "Year": 2024,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 61,
+      "Att": 105,
+      "Cmp%": 58.1,
+      "Yds": 775,
+      "TD": 3,
+      "Int": 3,
+      "Y/A": 7.4,
+      "AY/A": null,
+      "Y/G": 155.0,
+      "Rate": 78.9,
+      "QBR": 53.5,
+      "Sk": 4,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    },
+    {
+      "Year": 2025,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 166,
+      "Att": 276,
+      "Cmp%": 60.1,
+      "Yds": 1982,
+      "TD": 9,
+      "Int": 3,
+      "Y/A": 7.2,
+      "AY/A": null,
+      "Y/G": 220.2,
+      "Rate": 88.5,
+      "QBR": 58.3,
+      "Sk": 13,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    }
+  ]
+}

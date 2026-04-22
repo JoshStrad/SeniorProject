@@ -1,5 +1,9 @@
 {
   "player_name": "Andrew Wiggins",
+  "team": "MIA",
+  "team_slug": "heat",
+  "league": "NBA",
+  "slug": "/nba/heat/andrew-wiggins",
   "source_file": "bbr-andrew-wiggins.html",
   "meta": {
     "position": "Small Forward and Power Forward",

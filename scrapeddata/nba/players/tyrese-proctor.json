@@ -1,5 +1,9 @@
 {
   "player_name": "Tyrese Proctor",
+  "team": "CLE",
+  "team_slug": "cavaliers",
+  "league": "NBA",
+  "slug": "/nba/cavaliers/tyrese-proctor",
   "source_file": "bbr-tyrese-proctor.html",
   "meta": {
     "position": "Point Guard",

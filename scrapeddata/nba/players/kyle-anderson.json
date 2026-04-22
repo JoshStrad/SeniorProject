@@ -1,5 +1,9 @@
 {
   "player_name": "Kyle Anderson",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/kyle-anderson",
   "source_file": "bbr-kyle-anderson.html",
   "meta": {
     "position": "Small Forward and Power Forward",

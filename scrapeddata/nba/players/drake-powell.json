@@ -1,5 +1,9 @@
 {
   "player_name": "Drake Powell",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/drake-powell",
   "source_file": "bbr-drake-powell.html",
   "meta": {
     "position": "Shooting Guard",

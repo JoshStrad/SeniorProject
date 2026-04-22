@@ -1,5 +1,9 @@
 {
   "player_name": "Anthony Gill",
+  "team": "WAS",
+  "team_slug": "wizards",
+  "league": "NBA",
+  "slug": "/nba/wizards/anthony-gill",
   "source_file": "bbr-anthony-gill.html",
   "meta": {
     "position": "Power Forward",

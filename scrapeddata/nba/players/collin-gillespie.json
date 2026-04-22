@@ -1,5 +1,9 @@
 {
   "player_name": "Collin Gillespie",
+  "team": "DEN",
+  "team_slug": "nuggets",
+  "league": "NBA",
+  "slug": "/nba/nuggets/collin-gillespie",
   "source_file": "bbr-collin-gillespie.html",
   "meta": {
     "position": "Point Guard",

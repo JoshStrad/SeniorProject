@@ -1,5 +1,9 @@
 {
   "player_name": "Reed Sheppard",
+  "team": "HOU",
+  "team_slug": "rockets",
+  "league": "NBA",
+  "slug": "/nba/rockets/reed-sheppard",
   "source_file": "bbr-reed-sheppard.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

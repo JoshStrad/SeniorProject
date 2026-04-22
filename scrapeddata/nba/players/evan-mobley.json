@@ -1,5 +1,9 @@
 {
   "player_name": "Evan Mobley",
+  "team": "CLE",
+  "team_slug": "cavaliers",
+  "league": "NBA",
+  "slug": "/nba/cavaliers/evan-mobley",
   "source_file": "bbr-evan-mobley.html",
   "meta": {
     "position": "Power Forward",

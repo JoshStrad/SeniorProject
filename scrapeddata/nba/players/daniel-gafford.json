@@ -1,5 +1,9 @@
 {
   "player_name": "Daniel Gafford",
+  "team": "DAL",
+  "team_slug": "mavericks",
+  "league": "NBA",
+  "slug": "/nba/mavericks/daniel-gafford",
   "source_file": "bbr-daniel-gafford.html",
   "meta": {
     "position": "Center and Power Forward",

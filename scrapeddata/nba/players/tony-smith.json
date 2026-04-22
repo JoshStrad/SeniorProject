@@ -1,5 +1,9 @@
 {
   "player_name": "Tony Smith",
+  "team": "ATL",
+  "team_slug": "hawks",
+  "league": "NBA",
+  "slug": "/nba/hawks/tony-smith",
   "source_file": "bbr-tolu-smith.html",
   "meta": {
     "position": "Shooting Guard and Point Guard",

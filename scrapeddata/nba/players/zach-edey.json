@@ -1,5 +1,9 @@
 {
   "player_name": "Zach Edey",
+  "team": "MEM",
+  "team_slug": "grizzlies",
+  "league": "NBA",
+  "slug": "/nba/grizzlies/zach-edey",
   "source_file": "bbr-zach-edey.html",
   "meta": {
     "position": "Center",

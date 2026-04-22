@@ -1,5 +1,9 @@
 {
   "player_name": "Gary Harris",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/gary-harris",
   "source_file": "bbr-gary-harris.html",
   "meta": {
     "position": "Shooting Guard",

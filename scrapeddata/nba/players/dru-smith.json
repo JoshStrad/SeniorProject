@@ -1,5 +1,9 @@
 {
   "player_name": "Dru Smith",
+  "team": "MIA",
+  "team_slug": "heat",
+  "league": "NBA",
+  "slug": "/nba/heat/dru-smith",
   "source_file": "bbr-dru-smith.html",
   "meta": {
     "position": "Shooting Guard",

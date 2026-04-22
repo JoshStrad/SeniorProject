@@ -1,5 +1,9 @@
 {
   "player_name": "Danny Wolf",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/danny-wolf",
   "source_file": "bbr-danny-wolf.html",
   "meta": {
     "position": "Power Forward",

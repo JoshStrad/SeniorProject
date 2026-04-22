@@ -1,0 +1,63 @@
+{
+  "player_name": "Spencer Rattler",
+  "team": "New Orleans Saints",
+  "team_slug": "saints",
+  "league": "NFL",
+  "slug": "/nfl/saints/spencer-rattler",
+  "meta": {
+    "position": "QB",
+    "team": "New Orleans Saints",
+    "height": "6' 0\"",
+    "weight": "211 lbs",
+    "born": "September 28, 2000 in Phoenix, AZ",
+    "college": null,
+    "draft": "Year 2024, Round 5",
+    "espn_id": "4426339",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426339.png",
+    "team_abbreviation": null
+  },
+  "passing": [
+    {
+      "Year": 2024,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 130,
+      "Att": 228,
+      "Cmp%": 57.0,
+      "Yds": 1317,
+      "TD": 4,
+      "Int": 5,
+      "Y/A": 5.8,
+      "AY/A": null,
+      "Y/G": 188.1,
+      "Rate": 70.4,
+      "QBR": 40.1,
+      "Sk": 22,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    },
+    {
+      "Year": 2025,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 174,
+      "Att": 257,
+      "Cmp%": 67.7,
+      "Yds": 1586,
+      "TD": 8,
+      "Int": 5,
+      "Y/A": 6.2,
+      "AY/A": null,
+      "Y/G": 176.2,
+      "Rate": 86.5,
+      "QBR": 52.4,
+      "Sk": 18,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    }
+  ]
+}

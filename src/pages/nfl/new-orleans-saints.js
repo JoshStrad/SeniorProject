@@ -16,6 +16,12 @@ const NewOrleansSaintsQBs = () => {
         number: 15, 
         profileLink: '/nfl/saints/spencer-rattler', 
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426339.png&w=350&h=254' 
+    },
+     { 
+        name: 'Zach Wilson', 
+        number: 15, 
+        profileLink: '/nfl/saints/zach-wilson', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4361259.png&w=350&h=254' 
     }
   ];
   return (

@@ -1,5 +1,9 @@
 {
   "player_name": "Kelly Olynyk",
+  "team": "SAS",
+  "team_slug": "spurs",
+  "league": "NBA",
+  "slug": "/nba/spurs/kelly-olynyk",
   "source_file": "bbr-kelly-olynyk.html",
   "meta": {
     "position": "Center and Power Forward",

@@ -1,5 +1,9 @@
 {
   "player_name": "Brandon Ingram",
+  "team": "TOR",
+  "team_slug": "raptors",
+  "league": "NBA",
+  "slug": "/nba/raptors/brandon-ingram",
   "source_file": "bbr-brandon-ingram.html",
   "meta": {
     "position": "Small Forward and Power Forward",

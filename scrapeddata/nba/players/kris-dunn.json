@@ -1,5 +1,9 @@
 {
   "player_name": "Kris Dunn",
+  "team": "LAC",
+  "team_slug": "clippers",
+  "league": "NBA",
+  "slug": "/nba/clippers/kris-dunn",
   "source_file": "bbr-kris-dunn.html",
   "meta": {
     "position": "Point Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Marcus Sasser",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/marcus-sasser",
   "source_file": "bbr-marcus-sasser.html",
   "meta": {
     "position": "Point Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Jaylin Williams",
+  "team": "OKC",
+  "team_slug": "thunder",
+  "league": "NBA",
+  "slug": "/nba/thunder/jaylin-williams",
   "source_file": "bbr-jalen-williams.html",
   "meta": {
     "position": "Power Forward and Center",

@@ -1,5 +1,9 @@
 {
   "player_name": "Taylor Hendricks",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/taylor-hendricks",
   "source_file": "bbr-taylor-hendricks.html",
   "meta": {
     "position": "Power Forward",

@@ -1,5 +1,9 @@
 {
   "player_name": "Kevin Huerter",
+  "team": "CHI",
+  "team_slug": "bulls",
+  "league": "NBA",
+  "slug": "/nba/bulls/kevin-huerter",
   "source_file": "bbr-kevin-huerter.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

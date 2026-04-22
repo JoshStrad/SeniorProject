@@ -1,5 +1,9 @@
 {
   "player_name": "Keon Ellis",
+  "team": "SAC",
+  "team_slug": "kings",
+  "league": "NBA",
+  "slug": "/nba/kings/keon-ellis",
   "source_file": "bbr-keon-ellis.html",
   "meta": {
     "position": "Shooting Guard",

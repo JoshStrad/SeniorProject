@@ -1,5 +1,9 @@
 {
   "player_name": "Malaki Branham",
+  "team": "WAS",
+  "team_slug": "wizards",
+  "league": "NBA",
+  "slug": "/nba/wizards/malaki-branham",
   "source_file": "bbr-malaki-branham.html",
   "meta": {
     "position": "Shooting Guard and Point Guard",

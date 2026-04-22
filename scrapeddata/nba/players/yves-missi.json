@@ -1,5 +1,9 @@
 {
   "player_name": "Yves Missi",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/yves-missi",
   "source_file": "bbr-yves-missi.html",
   "meta": {
     "position": "Center",

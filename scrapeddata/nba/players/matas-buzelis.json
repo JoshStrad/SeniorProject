@@ -1,5 +1,9 @@
 {
   "player_name": "Matas Buzelis",
+  "team": "CHI",
+  "team_slug": "bulls",
+  "league": "NBA",
+  "slug": "/nba/bulls/matas-buzelis",
   "source_file": "bbr-matas-buzelis.html",
   "meta": {
     "position": "Small Forward and Power Forward",

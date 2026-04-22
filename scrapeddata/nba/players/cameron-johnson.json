@@ -1,5 +1,9 @@
 {
   "player_name": "Cameron Johnson",
+  "team": "DEN",
+  "team_slug": "nuggets",
+  "league": "NBA",
+  "slug": "/nba/nuggets/cameron-johnson",
   "source_file": "bbr-cameron-johnson.html",
   "meta": {
     "position": "Power Forward and Small Forward",

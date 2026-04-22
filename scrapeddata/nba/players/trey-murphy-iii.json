@@ -1,5 +1,9 @@
 {
   "player_name": "Trey Murphy III",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/trey-murphy-iii",
   "source_file": "bbr-trey-murphy.html",
   "meta": {
     "position": "Small Forward",

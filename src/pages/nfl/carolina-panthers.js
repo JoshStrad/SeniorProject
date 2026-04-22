@@ -12,10 +12,10 @@ const CarolinaPanthersQBs = () => {
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4685720.png&w=350&h=254' 
     },
     { 
-        name: 'Andy Dalton', 
+        name: 'Kenny Pickett', 
         number: 14, 
-        profileLink: '/nfl/panthers/andy-dalton', 
-        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14012.png&w=350&h=254' 
+        profileLink: '/nfl/panthers/kenny-pickett', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4240703.png&w=350&h=254' 
     }
   ];
   return (
@@ -23,7 +23,7 @@ const CarolinaPanthersQBs = () => {
       <Header />
       <main className="team-container">
         <h1>Carolina Panthers — Quarterbacks</h1>
-        <p>Click a QB to open their player page.</p>
+        <p></p>
         <div className="qb-grid">{qbs.map(qb => (
           <a className="qb-card" href={qb.profileLink} key={qb.name}>
             <div className="qb-photo">{qb.headshot ? <img src={qb.headshot} alt={`${qb.name} headshot`} loading="lazy" /> : <div className="qb-photo--ph" />}</div>

@@ -1,4 +1,4 @@
-/* General styling for the homepage */
+
 .homepage {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -16,11 +16,11 @@
     margin-bottom: 30px;
   }
   
-  /* Explore Stats section */
+  
   .explore-stats {
     margin: 20px auto;
     max-width: 800px;
-    text-align: left;
+    text-align: center;
   }
   
   .explore-stats h2 {
@@ -29,9 +29,9 @@
     border-bottom: 2px solid #007bff;
     padding-bottom: 5px;
     margin-bottom: 20px;
+    text-align: center;
   }
-  
-  /* League sections */
+
   .league-section {
     margin-bottom: 30px;
   }
@@ -42,7 +42,7 @@
     margin-bottom: 10px;
   }
   
-  /* Team links styling */
+ 
   .league-section ul {
     list-style-type: none;
     padding: 0;
@@ -62,16 +62,16 @@
     text-decoration: underline;
   }
   
-  /* Specific colors for leagues */
+ 
   .nba-section h3 {
-    color: #006bb6; /* NBA Blue */
+    color: #006bb6; 
   }
   
   .nfl-section h3 {
-    color: #d50a0a; /* NFL Red */
+    color: #d50a0a; 
   }
   
   .mlb-section h3 {
-    color: #162546; /* MLB Navy */
+    color: #162546; 
   }
   

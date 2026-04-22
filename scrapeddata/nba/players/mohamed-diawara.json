@@ -1,5 +1,9 @@
 {
   "player_name": "Mohamed Diawara",
+  "team": "NYK",
+  "team_slug": "knicks",
+  "league": "NBA",
+  "slug": "/nba/knicks/mohamed-diawara",
   "source_file": "bbr-mohamed-diawara.html",
   "meta": {
     "position": "Small Forward",

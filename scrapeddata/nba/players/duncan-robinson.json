@@ -1,5 +1,9 @@
 {
   "player_name": "Duncan Robinson",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/duncan-robinson",
   "source_file": "bbr-duncan-robinson.html",
   "meta": {
     "position": "Small Forward and Shooting Guard",

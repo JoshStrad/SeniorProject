@@ -1,5 +1,9 @@
 {
   "player_name": "Ivica Zubac",
+  "team": "LAC",
+  "team_slug": "clippers",
+  "league": "NBA",
+  "slug": "/nba/clippers/ivica-zubac",
   "source_file": "bbr-ivica-zubac.html",
   "meta": {
     "position": "Center",

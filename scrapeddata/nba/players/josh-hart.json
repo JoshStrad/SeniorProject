@@ -1,5 +1,9 @@
 {
   "player_name": "Josh Hart",
+  "team": "NYK",
+  "team_slug": "knicks",
+  "league": "NBA",
+  "slug": "/nba/knicks/josh-hart",
   "source_file": "bbr-josh-hart.html",
   "meta": {
     "position": "Small Forward and Shooting Guard",

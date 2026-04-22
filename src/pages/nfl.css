@@ -1,4 +1,3 @@
-/* Page container + headings */
 .nfl-container {
   padding: 24px;
   background: #0c0c0c;
@@ -20,7 +19,6 @@
   margin: 0 0 10px;
 }
 
-/* Division “card” wrapper */
 .division {
   background: #141414;
   border: 1px solid rgba(255,255,255,0.06);
@@ -35,8 +33,7 @@
   margin: 0 0 12px;
 }
 
-/* --- GRID: make teams neat in rows --- */
-/* Works without changing JS */
+/* grid make teams neat in rows and handle spacing */
 .division ul {
   list-style: none;
   margin: 0;
@@ -44,10 +41,9 @@
 
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 12px;            /* space between team cards */
+  gap: 12px;            
 }
 
-/* Team card size + alignment */
 .team-card {
   display: flex;
   align-items: center;
@@ -62,7 +58,7 @@
 }
 .team-card:hover { transform: translateY(-3px); }
 
-/* Logo size (smaller + consistent) */
+
 .team-logo {
   width: 36px;
   height: 36px;
@@ -71,7 +67,6 @@
   filter: drop-shadow(0 0 4px rgba(255,255,255,0.15));
 }
 
-/* Link text */
 .team-link {
   display: inline-flex;
   align-items: center;
@@ -83,7 +78,7 @@
 }
 .team-link:hover { color: #ffffff; }
 
-/* Tighter on mobile */
+
 @media (max-width: 520px) {
   .division ul { grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); }
   .team-logo { width: 32px; height: 32px; }

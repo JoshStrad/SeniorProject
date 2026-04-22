@@ -1,5 +1,9 @@
 {
   "player_name": "Moses Moody",
+  "team": "GSW",
+  "team_slug": "warriors",
+  "league": "NBA",
+  "slug": "/nba/warriors/moses-moody",
   "source_file": "bbr-moses-moody.html",
   "meta": {
     "position": "Shooting Guard",

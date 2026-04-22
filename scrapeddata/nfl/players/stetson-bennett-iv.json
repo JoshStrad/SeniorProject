@@ -1,0 +1,20 @@
+{
+  "player_name": "Stetson Bennett IV",
+  "team": "Los Angeles Rams",
+  "team_slug": "rams",
+  "league": "NFL",
+  "slug": "/nfl/rams/stetson-bennett-iv",
+  "meta": {
+    "position": "QB",
+    "team": "Los Angeles Rams",
+    "height": "5' 11\"",
+    "weight": "192 lbs",
+    "born": "October 28, 1997 in Blackshear, GA",
+    "college": null,
+    "draft": "Year 2023, Round 4",
+    "espn_id": "4259553",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4259553.png",
+    "team_abbreviation": null
+  },
+  "passing": []
+}

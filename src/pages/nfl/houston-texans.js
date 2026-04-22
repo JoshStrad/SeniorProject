@@ -12,10 +12,16 @@ const HoustonTexansQBs = () => {
       headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4432577.png&w=350&h=254'
     },
     {
-      name: 'Case Keenum',
+      name: 'Davis Mills',
+      number: 10,
+      profileLink: '/nfl/texans/davis-mills',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4242546.png&w=350&h=254'
+    },
+    {
+      name: 'Graham Mertz',
       number: 18,
-      profileLink: '/nfl/texans/case-keenum',
-      headshot: ''
+      profileLink: '/nfl/texans/graham-mertz',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426335.png&w=350&h=254'
     }
   ];
 

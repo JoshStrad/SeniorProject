@@ -1,5 +1,9 @@
 {
   "player_name": "Marvin Bagley III",
+  "team": "WAS",
+  "team_slug": "wizards",
+  "league": "NBA",
+  "slug": "/nba/wizards/marvin-bagley-iii",
   "source_file": "bbr-marvin-bagley.html",
   "meta": {
     "position": "Power Forward and Center",

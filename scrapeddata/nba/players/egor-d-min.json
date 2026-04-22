@@ -1,5 +1,9 @@
 {
   "player_name": "Egor D\u0451min",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/egor-d-min",
   "source_file": "bbr-egor-demin.html",
   "meta": {
     "position": "Point Guard",

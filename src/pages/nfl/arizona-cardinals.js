@@ -6,16 +6,22 @@ import './nfl-team-qbs.css';
 const ArizonaCardinalsQBs = () => {
   const qbs = [
     { 
-        name: 'Kyler Murray', 
-        number: 1, 
-        profileLink: '/nfl/cardinals/kyler-murray', 
-        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3917315.png&w=350&h=254' 
+        name: 'Gardner Minshew II', 
+        number: 15, 
+        profileLink: '/nfl/cardinals/gardner-minshew', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4038524.png&w=350&h=254' 
+    },
+    { 
+        name: 'Kedon Slovis', 
+        number: 19, 
+        profileLink: '/nfl/cardinals/kedon-slovis', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4428512.png&w=350&h=254' 
     },
     { 
         name: 'Jacoby Brissett', 
-        number: 9, 
-        profileLink: '/nfl/falcons/michael-penix-jr', 
-        headshot: '' 
+        number: 7, 
+        profileLink: '/nfl/cardinals/jacoby-brissett', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2578570.png&w=350&h=254' 
     }
   ];
   return (
@@ -23,7 +29,7 @@ const ArizonaCardinalsQBs = () => {
       <Header />
       <main className="team-container">
         <h1>Arizona Cardinals — Quarterbacks</h1>
-        <p>Click a QB to open their player page.</p>
+        <p></p>
         <div className="qb-grid">{qbs.map(qb => (
           <a className="qb-card" href={qb.profileLink} key={qb.name}>
             <div className="qb-photo">{qb.headshot ? <img src={qb.headshot} alt={`${qb.name} headshot`} loading="lazy" /> : <div className="qb-photo--ph" />}</div>

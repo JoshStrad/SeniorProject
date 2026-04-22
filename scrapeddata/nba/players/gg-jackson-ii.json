@@ -1,5 +1,9 @@
 {
   "player_name": "GG Jackson II",
+  "team": "MEM",
+  "team_slug": "grizzlies",
+  "league": "NBA",
+  "slug": "/nba/grizzlies/gg-jackson-ii",
   "source_file": "bbr-gg-jackson-ii.html",
   "meta": {
     "position": "Power Forward",

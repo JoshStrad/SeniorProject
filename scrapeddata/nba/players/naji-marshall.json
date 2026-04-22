@@ -1,5 +1,9 @@
 {
   "player_name": "Naji Marshall",
+  "team": "DAL",
+  "team_slug": "mavericks",
+  "league": "NBA",
+  "slug": "/nba/mavericks/naji-marshall",
   "source_file": "bbr-naji-marshall.html",
   "meta": {
     "position": "Small Forward",

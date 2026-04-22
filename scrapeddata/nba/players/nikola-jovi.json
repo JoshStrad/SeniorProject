@@ -1,5 +1,9 @@
 {
   "player_name": "Nikola Jovi\u0107",
+  "team": "MIA",
+  "team_slug": "heat",
+  "league": "NBA",
+  "slug": "/nba/heat/nikola-jovi",
   "source_file": "bbr-nikola-jovic.html",
   "meta": {
     "position": "Power Forward",

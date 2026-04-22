@@ -1,5 +1,9 @@
 {
   "player_name": "Jaxson Hayes",
+  "team": "LAL",
+  "team_slug": "lakers",
+  "league": "NBA",
+  "slug": "/nba/lakers/jaxson-hayes",
   "source_file": "bbr-jaxson-hayes.html",
   "meta": {
     "position": "Center",

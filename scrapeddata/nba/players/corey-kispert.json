@@ -1,5 +1,9 @@
 {
   "player_name": "Corey Kispert",
+  "team": "WAS",
+  "team_slug": "wizards",
+  "league": "NBA",
+  "slug": "/nba/wizards/corey-kispert",
   "source_file": "bbr-corey-kispert.html",
   "meta": {
     "position": "Small Forward",

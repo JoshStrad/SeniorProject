@@ -1,5 +1,9 @@
 {
   "player_name": "Marcus Smart",
+  "team": "LAL",
+  "team_slug": "lakers",
+  "league": "NBA",
+  "slug": "/nba/lakers/marcus-smart",
   "source_file": "bbr-marcus-smart.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

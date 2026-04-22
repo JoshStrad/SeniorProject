@@ -12,10 +12,22 @@ const SanFrancisco49ersQBs = () => {
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4361741.png&w=350&h=254' 
     },
     { 
-        name: 'Brandon Allen', 
+        name: 'Mac Jones', 
+        number: 10, 
+        profileLink: '/nfl/49ers/mac-jones', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4241464.png&w=350&h=254' 
+    },
+      { 
+        name: 'Adrian Marinez', 
         number: 4, 
-        profileLink: '/nfl/49ers/brandon-allen', 
-        headshot: '' 
+        profileLink: '/nfl/49ers/adrian-martinez', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4361182.png&w=350&h=254' 
+    },
+      { 
+        name: 'Kurtis Rourke', 
+        number: 14, 
+        profileLink: '/nfl/49ers/kurtis-rourke', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4430431.png&w=350&h=254' 
     }
   ];
   return (

@@ -1,5 +1,9 @@
 {
   "player_name": "Herbert Jones",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/herbert-jones",
   "source_file": "bbr-herbert-jones.html",
   "meta": {
     "position": "Small Forward and Power Forward",

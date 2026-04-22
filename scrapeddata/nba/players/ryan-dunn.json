@@ -1,5 +1,9 @@
 {
   "player_name": "Ryan Dunn",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/ryan-dunn",
   "source_file": "bbr-ryan-dunn.html",
   "meta": {
     "position": "Small Forward",

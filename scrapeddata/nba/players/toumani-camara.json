@@ -1,5 +1,9 @@
 {
   "player_name": "Toumani Camara",
+  "team": "POR",
+  "team_slug": "trail-blazers",
+  "league": "NBA",
+  "slug": "/nba/trail-blazers/toumani-camara",
   "source_file": "bbr-toumani-camara.html",
   "meta": {
     "position": "Power Forward",

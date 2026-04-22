@@ -1,5 +1,9 @@
 {
   "player_name": "Kyle Lowry",
+  "team": "PHI",
+  "team_slug": "76ers",
+  "league": "NBA",
+  "slug": "/nba/76ers/kyle-lowry",
   "source_file": "bbr-kyle-lowry.html",
   "meta": {
     "position": "Point Guard",

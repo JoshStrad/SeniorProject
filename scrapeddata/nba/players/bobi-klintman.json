@@ -1,5 +1,9 @@
 {
   "player_name": "Bobi Klintman",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/bobi-klintman",
   "source_file": "bbr-bobi-klintman.html",
   "meta": {
     "position": "Small Forward",

@@ -12,7 +12,7 @@ const Footer = () => {
           </ul>
         </div>
         <div className="copyright">
-          <p>&copy; 2024 GameWinningStats. All rights reserved.</p>
+          <p>&copy; 2026 GameWinningStats. All rights reserved.</p>
         </div>
       </div>
     </footer>

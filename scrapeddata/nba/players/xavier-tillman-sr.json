@@ -1,5 +1,9 @@
 {
   "player_name": "Xavier Tillman Sr.",
+  "team": "BOS",
+  "team_slug": "celtics",
+  "league": "NBA",
+  "slug": "/nba/celtics/xavier-tillman-sr",
   "source_file": "bbr-xavier-tillman.html",
   "meta": {
     "position": "Center and Power Forward",

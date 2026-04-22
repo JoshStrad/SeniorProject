@@ -1,5 +1,9 @@
 {
   "player_name": "Cedric Coward",
+  "team": "MEM",
+  "team_slug": "grizzlies",
+  "league": "NBA",
+  "slug": "/nba/grizzlies/cedric-coward",
   "source_file": "bbr-cedric-coward.html",
   "meta": {
     "position": "Shooting Guard",

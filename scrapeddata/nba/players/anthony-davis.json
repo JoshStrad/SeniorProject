@@ -1,5 +1,9 @@
 {
   "player_name": "Anthony Davis",
+  "team": "DAL",
+  "team_slug": "mavericks",
+  "league": "NBA",
+  "slug": "/nba/mavericks/anthony-davis",
   "source_file": "bbr-anthony-davis.html",
   "meta": {
     "position": "Power Forward and Center",

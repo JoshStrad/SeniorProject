@@ -1,5 +1,9 @@
 {
   "player_name": "Jaden Ivey",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/jaden-ivey",
   "source_file": "bbr-jaden-ivey.html",
   "meta": {
     "position": "Shooting Guard",

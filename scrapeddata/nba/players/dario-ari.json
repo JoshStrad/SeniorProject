@@ -1,5 +1,9 @@
 {
   "player_name": "Dario \u0160ari\u0107",
+  "team": "SAC",
+  "team_slug": "kings",
+  "league": "NBA",
+  "slug": "/nba/kings/dario-ari",
   "source_file": "bbr-dario-saric.html",
   "meta": {
     "position": "Center and Power Forward",

@@ -1,5 +1,9 @@
 {
   "player_name": "Gary Trent Jr.",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/gary-trent-jr",
   "source_file": "bbr-gary-trent-jr.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

@@ -1,5 +1,9 @@
 {
   "player_name": "Tony Bradley",
+  "team": "IND",
+  "team_slug": "pacers",
+  "league": "NBA",
+  "slug": "/nba/pacers/tony-bradley",
   "source_file": "bbr-tony-bradley.html",
   "meta": {
     "position": "Center",

@@ -1,5 +1,9 @@
 {
   "player_name": "Anthony Edwards",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/anthony-edwards",
   "source_file": "bbr-anthony-edwards.html",
   "meta": {
     "position": "Shooting Guard",

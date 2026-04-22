@@ -1,5 +1,9 @@
 {
   "player_name": "Terrence Shannon Jr.",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/terrence-shannon-jr",
   "source_file": "bbr-terrence-shannon-jr.html",
   "meta": {
     "position": "Shooting Guard",

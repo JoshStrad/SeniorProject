@@ -12,10 +12,16 @@ const GreenBayPackersQBs = () => {
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4036378.png&w=350&h=254' 
     },
     { 
-        name: 'Malik Willis', 
+        name: 'Desmond Ridder', 
         number: 8, 
-        profileLink: '/nfl/packers/malik-willis', 
-        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4242512.png&w=350&h=254' 
+        profileLink: '/nfl/packers/desmond-ridder', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4239086.png&w=350&h=254' 
+    },
+     { 
+        name: 'Kyle McCord', 
+        number: 8, 
+        profileLink: '/nfl/packers/kyle-mccord', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4433971.png&w=350&h=254' 
     }
   ];
   return (

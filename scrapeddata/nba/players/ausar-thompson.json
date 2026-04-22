@@ -1,5 +1,9 @@
 {
   "player_name": "Ausar Thompson",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/ausar-thompson",
   "source_file": "bbr-ausar-thompson.html",
   "meta": {
     "position": "Small Forward",

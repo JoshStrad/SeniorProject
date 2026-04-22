@@ -1,5 +1,9 @@
 {
   "player_name": "Nick Smith Jr.",
+  "team": "LAL",
+  "team_slug": "lakers",
+  "league": "NBA",
+  "slug": "/nba/lakers/nick-smith-jr",
   "source_file": "bbr-nick-smith-jr.html",
   "meta": {
     "position": "Shooting Guard",

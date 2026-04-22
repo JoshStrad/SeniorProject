@@ -1,5 +1,9 @@
 {
   "player_name": "Ja Morant",
+  "team": "MEM",
+  "team_slug": "grizzlies",
+  "league": "NBA",
+  "slug": "/nba/grizzlies/ja-morant",
   "source_file": "bbr-ja-morant.html",
   "meta": {
     "position": "Point Guard",

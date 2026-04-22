@@ -1,5 +1,9 @@
 {
   "player_name": "Pascal Siakam",
+  "team": "IND",
+  "team_slug": "pacers",
+  "league": "NBA",
+  "slug": "/nba/pacers/pascal-siakam",
   "source_file": "bbr-pascal-siakam.html",
   "meta": {
     "position": "Power Forward",

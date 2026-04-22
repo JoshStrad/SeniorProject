@@ -1,5 +1,9 @@
 {
   "player_name": "Quinten Post",
+  "team": "GSW",
+  "team_slug": "warriors",
+  "league": "NBA",
+  "slug": "/nba/warriors/quinten-post",
   "source_file": "bbr-quinten-post.html",
   "meta": {
     "position": "Power Forward",

@@ -1,5 +1,9 @@
 {
   "player_name": "Sion James",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/sion-james",
   "source_file": "bbr-sion-james.html",
   "meta": {
     "position": "Shooting Guard",

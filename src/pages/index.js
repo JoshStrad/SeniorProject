@@ -1,11 +1,11 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import Header from '../components/Header'; // Import the Header component
+import Header from '../components/Header'; 
 import Footer from '../components/Footer';
 import FeaturedSlider from '../components/FeaturedSlider';
 import '../components/Header.css'
 import './HomePage.css'
-import '../styles/global.css'; // Import the global CSS file
+import '../styles/global.css'; 
 import '../components/Footer.css'
 import HeroSection from '../components/HeroSection';
 import '../components/FeaturedSlider.css'
@@ -14,7 +14,7 @@ import Leaderboard from '../components/Leaderboard';
 const HomePage = () => {
   return (
     <div>
-      <Header /> {/* Render the Header component */}
+      <Header /> {}
       <div className="hero-section">
         <HeroSection />
         <h1>Discover Player Stats</h1>
@@ -24,10 +24,10 @@ const HomePage = () => {
       </div>
       <div className="featured-section">
         <h2>Featured Players' Stats</h2>
-        <FeaturedSlider /> {/* Featured content */}
+        <FeaturedSlider /> {}
       </div>
        <Leaderboard />
-      <Footer /> {/* Footer content */}
+      <Footer /> {}
     </div>
   );
 };

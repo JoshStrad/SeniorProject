@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
-import './celtics.css';
+import './nba-teampage.css';
 
 const OrlandoMagic = () => {
   const roster = [
@@ -9,15 +9,11 @@ const OrlandoMagic = () => {
     { name: 'Desmond Bane', position: 'SG', number: 3, profileLink: '/nba/magic/desmond-bane' },
     { name: 'Goga Bitadze', position: 'C', number: 35, profileLink: '/nba/magic/goga-bitadze' },
     { name: 'Anthony Black', position: 'G', number: 0, profileLink: '/nba/magic/anthony-black' },
-    { name: 'Jamal Cain', position: 'F', number: 8, profileLink: '/nba/magic/jamal-cain' },
-    { name: 'Wendell Carter Jr.', position: 'C', number: 34, profileLink: '/nba/magic/wendell-carter-jr' },
-    { name: 'Tristan da Silva', position: 'F', number: 23, profileLink: '/nba/magic/tristan-da-silva' },
-    { name: 'Jett Howard', position: 'G', number: 13, profileLink: '/nba/magic/jett-howard' },
+    { name: 'Wendell Carter Jr.', position: 'C', number: 34, profileLink: '/nba/magic/wendell-carter' },
+    { name: 'Tristan da Silva', position: 'F', number: 23, profileLink: '/nba/magic/tristan-dasilva' },
+    { name: 'Jett Howard', position: 'G', number: 13, profileLink: '/nba/magic/jet-howard' },
     { name: 'Jonathan Isaac', position: 'PF', number: 1, profileLink: '/nba/magic/jonathan-isaac' },
-    { name: 'Tyus Jones', position: 'PG', number: 21, profileLink: '/nba/magic/tyus-jones' },
-    { name: 'Noah Penda', position: 'F', number: 93, profileLink: '/nba/magic/noah-penda' },
     { name: 'Jase Richardson', position: 'G', number: 11, profileLink: '/nba/magic/jase-richardson' },
-    { name: 'Orlando Robinson', position: 'C', number: 7, profileLink: '/nba/magic/orlando-robinson' },
     { name: 'Jalen Suggs', position: 'SG', number: 4, profileLink: '/nba/magic/jalen-suggs' },
     { name: 'Franz Wagner', position: 'SF', number: 22, profileLink: '/nba/magic/franz-wagner' },
     { name: 'Moritz Wagner', position: 'C', number: 21, profileLink: '/nba/magic/moritz-wagner' },

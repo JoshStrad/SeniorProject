@@ -1,5 +1,9 @@
 {
   "player_name": "Christian Braun",
+  "team": "DEN",
+  "team_slug": "nuggets",
+  "league": "NBA",
+  "slug": "/nba/nuggets/christian-braun",
   "source_file": "bbr-christian-braun.html",
   "meta": {
     "position": "Shooting Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Harrison Barnes",
+  "team": "SAS",
+  "team_slug": "spurs",
+  "league": "NBA",
+  "slug": "/nba/spurs/harrison-barnes",
   "source_file": "bbr-harrison-barnes.html",
   "meta": {
     "position": "Power Forward and Small Forward",

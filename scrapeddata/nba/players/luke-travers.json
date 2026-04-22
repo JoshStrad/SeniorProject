@@ -1,5 +1,9 @@
 {
   "player_name": "Luke Travers",
+  "team": "CLE",
+  "team_slug": "cavaliers",
+  "league": "NBA",
+  "slug": "/nba/cavaliers/luke-travers",
   "source_file": "bbr-luke-travers.html",
   "meta": {
     "position": "Shooting Guard",

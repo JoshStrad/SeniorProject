@@ -6,16 +6,16 @@ import './nfl-team-qbs.css';
 const LasVegasRaidersQBs = () => {
   const qbs = [
     {
-      name: 'Geno Smith',
-      number: 10,
-      profileLink: '/nfl/raiders/gardner-minshew',
-      headshot: 'https://a.espncdn.com/i/headshots/nfl/players/full/3915511.png'
+      name: 'Kirk Cousins',
+      number: 8,
+      profileLink: '/nfl/raiders/kirk-cousins',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14880.png&w=350&h=254'
     },
     {
       name: 'Aidan O\'Connell',
       number: 12,
       profileLink: '/nfl/raiders/aidan-oconnell',
-      headshot: 'https://a.espncdn.com/i/headshots/nfl/players/full/4242432.png'
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4260394.png&w=350&h=254'
     }
   ];
 

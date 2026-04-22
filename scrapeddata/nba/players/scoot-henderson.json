@@ -1,5 +1,9 @@
 {
   "player_name": "Scoot Henderson",
+  "team": "POR",
+  "team_slug": "trail-blazers",
+  "league": "NBA",
+  "slug": "/nba/trail-blazers/scoot-henderson",
   "source_file": "bbr-scoot-henderson.html",
   "meta": {
     "position": "Point Guard",

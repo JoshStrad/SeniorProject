@@ -1,5 +1,9 @@
 {
   "player_name": "Aaron Nesmith",
+  "team": "IND",
+  "team_slug": "pacers",
+  "league": "NBA",
+  "slug": "/nba/pacers/aaron-nesmith",
   "source_file": "bbr-aaron-nesmith.html",
   "meta": {
     "position": "Small Forward",

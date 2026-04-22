@@ -1,0 +1,20 @@
+{
+  "player_name": "Sam Hartman",
+  "team": "Washington Commanders",
+  "team_slug": "commanders",
+  "league": "NFL",
+  "slug": "/nfl/commanders/sam-hartman",
+  "meta": {
+    "position": "QB",
+    "team": "Washington Commanders",
+    "height": "6' 1\"",
+    "weight": "209 lbs",
+    "born": "July 29, 1999 in Charlotte, NC",
+    "college": null,
+    "draft": null,
+    "espn_id": "4361994",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361994.png",
+    "team_abbreviation": null
+  },
+  "passing": []
+}

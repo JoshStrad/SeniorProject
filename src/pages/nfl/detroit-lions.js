@@ -12,10 +12,10 @@ const DetroitLionsQBs = () => {
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3046779.png&w=350&h=254' 
     },
     { 
-        name: 'Kyle Allen', 
+        name: 'Teddy Bridgewater', 
         number: 12, 
-        profileLink: '/nfl/lions/hendon-hooker', 
-        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3115293.png&w=350&h=254' 
+        profileLink: '/nfl/lions/teddy-bridgewater', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/16728.png&w=350&h=254' 
     }
   ];
   return (

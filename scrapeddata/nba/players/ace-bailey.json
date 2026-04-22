@@ -1,5 +1,9 @@
 {
   "player_name": "Ace Bailey",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/ace-bailey",
   "source_file": "bbr-ace-bailey.html",
   "meta": {
     "position": "Small Forward",

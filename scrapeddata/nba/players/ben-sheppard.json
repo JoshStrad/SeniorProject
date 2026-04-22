@@ -1,5 +1,9 @@
 {
   "player_name": "Ben Sheppard",
+  "team": "IND",
+  "team_slug": "pacers",
+  "league": "NBA",
+  "slug": "/nba/pacers/ben-sheppard",
   "source_file": "bbr-ben-sheppard.html",
   "meta": {
     "position": "Shooting Guard",

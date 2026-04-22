@@ -1,5 +1,9 @@
 {
   "player_name": "Desmond Bane",
+  "team": "ORL",
+  "team_slug": "magic",
+  "league": "NBA",
+  "slug": "/nba/magic/desmond-bane",
   "source_file": "bbr-desmond-bane.html",
   "meta": {
     "position": "Shooting Guard",

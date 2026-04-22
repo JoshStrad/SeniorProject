@@ -1,5 +1,9 @@
 {
   "player_name": "Pelle Larsson",
+  "team": "MIA",
+  "team_slug": "heat",
+  "league": "NBA",
+  "slug": "/nba/heat/pelle-larsson",
   "source_file": "bbr-pelle-larsson.html",
   "meta": {
     "position": "Shooting Guard",

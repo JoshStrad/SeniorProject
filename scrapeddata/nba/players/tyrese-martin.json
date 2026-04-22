@@ -1,5 +1,9 @@
 {
   "player_name": "Tyrese Martin",
+  "team": "ATL",
+  "team_slug": "hawks",
+  "league": "NBA",
+  "slug": "/nba/hawks/tyrese-martin",
   "source_file": "bbr-tyrese-martin.html",
   "meta": {
     "position": "Shooting Guard",

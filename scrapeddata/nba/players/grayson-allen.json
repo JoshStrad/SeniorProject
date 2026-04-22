@@ -1,5 +1,9 @@
 {
   "player_name": "Grayson Allen",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/grayson-allen",
   "source_file": "bbr-grayson-allen.html",
   "meta": {
     "position": "Shooting Guard",

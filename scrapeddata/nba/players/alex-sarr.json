@@ -1,5 +1,9 @@
 {
   "player_name": "Alex Sarr",
+  "team": "WAS",
+  "team_slug": "wizards",
+  "league": "NBA",
+  "slug": "/nba/wizards/alex-sarr",
   "source_file": "bbr-alex-sarr.html",
   "meta": {
     "position": "Center and Power Forward",

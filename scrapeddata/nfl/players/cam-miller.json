@@ -1,0 +1,20 @@
+{
+  "player_name": "Cam Miller",
+  "team": "Miami Dolphins",
+  "team_slug": "dolphins",
+  "league": "NFL",
+  "slug": "/nfl/dolphins/cam-miller",
+  "meta": {
+    "position": "QB",
+    "team": "Miami Dolphins",
+    "height": "6' 1\"",
+    "weight": "211 lbs",
+    "born": "June 18, 2001 in Solon, IA",
+    "college": null,
+    "draft": "Year 2025, Round 6",
+    "espn_id": "4693331",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4693331.png",
+    "team_abbreviation": null
+  },
+  "passing": []
+}

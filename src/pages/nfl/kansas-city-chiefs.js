@@ -11,11 +11,23 @@ const KansasCityChiefsQBs = () => {
       profileLink: '/nfl/chiefs/patrick-mahomes',
       headshot: 'https://a.espncdn.com/i/headshots/nfl/players/full/3139477.png'
     },
+     {
+      name: 'Justin Fields',
+      number: 7,
+      profileLink: '/nfl/chiefs/justin-fields',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4362887.png&w=350&h=254'
+    },
+     {
+      name: 'Chris Oladokun ',
+      number: 19,
+      profileLink: '/nfl/chiefs/chris-oladokun',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4044111.png&w=350&h=254'
+    },
     {
-      name: 'Carson Wentz',
+      name: 'Jake Haener',
       number: 11,
-      profileLink: '/nfl/chiefs/carson-wentz',
-      headshot: 'https://a.espncdn.com/i/headshots/nfl/players/full/2573079.png'
+      profileLink: '/nfl/chiefs/jake-haener',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4243322.png&w=350&h=254'
     }
   ];
 

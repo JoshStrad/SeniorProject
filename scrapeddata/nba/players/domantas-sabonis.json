@@ -1,5 +1,9 @@
 {
   "player_name": "Domantas Sabonis",
+  "team": "SAC",
+  "team_slug": "kings",
+  "league": "NBA",
+  "slug": "/nba/kings/domantas-sabonis",
   "source_file": "bbr-domantas-sabonis.html",
   "meta": {
     "position": "Center and Power Forward",

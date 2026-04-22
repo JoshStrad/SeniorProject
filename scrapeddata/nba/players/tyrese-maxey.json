@@ -1,5 +1,9 @@
 {
   "player_name": "Tyrese Maxey",
+  "team": "PHI",
+  "team_slug": "76ers",
+  "league": "NBA",
+  "slug": "/nba/76ers/tyrese-maxey",
   "source_file": "bbr-tyrese-maxey.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

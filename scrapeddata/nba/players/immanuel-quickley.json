@@ -1,5 +1,9 @@
 {
   "player_name": "Immanuel Quickley",
+  "team": "TOR",
+  "team_slug": "raptors",
+  "league": "NBA",
+  "slug": "/nba/raptors/immanuel-quickley",
   "source_file": "bbr-immanuel-quickley.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

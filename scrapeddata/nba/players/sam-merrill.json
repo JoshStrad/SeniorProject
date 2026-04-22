@@ -1,5 +1,9 @@
 {
   "player_name": "Sam Merrill",
+  "team": "CLE",
+  "team_slug": "cavaliers",
+  "league": "NBA",
+  "slug": "/nba/cavaliers/sam-merrill",
   "source_file": "bbr-sam-merrill.html",
   "meta": {
     "position": "Shooting Guard",

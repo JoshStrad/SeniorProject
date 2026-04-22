@@ -1,5 +1,9 @@
 {
   "player_name": "Gary Payton II",
+  "team": "GSW",
+  "team_slug": "warriors",
+  "league": "NBA",
+  "slug": "/nba/warriors/gary-payton-ii",
   "source_file": "bbr-gary-payton-ii.html",
   "meta": {
     "position": "Shooting Guard, Point Guard, and Small Forward",

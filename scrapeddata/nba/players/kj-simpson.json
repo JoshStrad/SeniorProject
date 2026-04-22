@@ -1,5 +1,9 @@
 {
   "player_name": "KJ Simpson",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/kj-simpson",
   "source_file": "bbr-kj-simpson.html",
   "meta": {
     "position": "Point Guard",

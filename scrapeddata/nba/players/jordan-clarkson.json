@@ -1,5 +1,9 @@
 {
   "player_name": "Jordan Clarkson",
+  "team": "NYK",
+  "team_slug": "knicks",
+  "league": "NBA",
+  "slug": "/nba/knicks/jordan-clarkson",
   "source_file": "bbr-jordan-clarkson.html",
   "meta": {
     "position": "Shooting Guard and Point Guard",

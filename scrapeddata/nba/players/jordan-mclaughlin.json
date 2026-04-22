@@ -1,5 +1,9 @@
 {
   "player_name": "Jordan McLaughlin",
+  "team": "SAS",
+  "team_slug": "spurs",
+  "league": "NBA",
+  "slug": "/nba/spurs/jordan-mclaughlin",
   "source_file": "bbr-jordan-mclaughlin.html",
   "meta": {
     "position": "Point Guard",

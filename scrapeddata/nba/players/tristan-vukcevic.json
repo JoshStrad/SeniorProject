@@ -1,5 +1,9 @@
 {
   "player_name": "Tristan Vukcevic",
+  "team": "WAS",
+  "team_slug": "wizards",
+  "league": "NBA",
+  "slug": "/nba/wizards/tristan-vukcevic",
   "source_file": "bbr-tristan-vukcevic.html",
   "meta": {
     "position": "Center",

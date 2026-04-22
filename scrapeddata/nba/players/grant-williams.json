@@ -1,5 +1,9 @@
 {
   "player_name": "Grant Williams",
+  "team": "DAL",
+  "team_slug": "mavericks",
+  "league": "NBA",
+  "slug": "/nba/mavericks/grant-williams",
   "source_file": "bbr-grant-williams.html",
   "meta": {
     "position": "Power Forward",

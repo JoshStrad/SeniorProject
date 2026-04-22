@@ -1,5 +1,9 @@
 {
   "player_name": "Dalen Terry",
+  "team": "CHI",
+  "team_slug": "bulls",
+  "league": "NBA",
+  "slug": "/nba/bulls/dalen-terry",
   "source_file": "bbr-dalen-terry.html",
   "meta": {
     "position": "Shooting Guard",

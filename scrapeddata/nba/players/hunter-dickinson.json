@@ -1,5 +1,9 @@
 {
   "player_name": "Hunter Dickinson",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/hunter-dickinson",
   "source_file": "bbr-hunter-dickinson.html",
   "meta": {
     "position": "Center",

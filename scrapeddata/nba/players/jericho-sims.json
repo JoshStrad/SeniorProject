@@ -1,5 +1,9 @@
 {
   "player_name": "Jericho Sims",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/jericho-sims",
   "source_file": "bbr-jericho-sims.html",
   "meta": {
     "position": "Center and Power Forward",

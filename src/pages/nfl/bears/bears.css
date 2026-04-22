@@ -1,22 +1,4 @@
-/* Base layout */
-.profile-container {
-  color: white;
-  padding: 20px;
-  text-align: center;
-  position: relative;
-}
-
-/* Bears aura (navy + orange) */
-.bears-aura {
-  background:
-    radial-gradient(60% 60% at 50% 20%, rgba(11, 22, 42, 0.35), transparent 70%),
-    radial-gradient(40% 40% at 80% 10%, rgba(200, 56, 3, 0.22), transparent 70%);
-  box-shadow:
-    0 0 40px 10px rgba(11, 22, 42, 0.4) inset,
-    0 0 80px rgba(200, 56, 3, 0.25);
-}
-
-/* Image */
+/* profile image styling */
 .profile-img {
   max-width: 500px;
   height: auto;
@@ -24,7 +6,7 @@
   box-shadow: 0 8px 30px rgba(200, 56, 3, 0.45);
 }
 
-/* Stats table */
+/* stats table styling */
 .stats { margin-top: 24px; }
 .stats-table {
   width: 100%;
@@ -48,15 +30,4 @@
 }
 .stats-table tbody tr:hover {
   background: rgba(200, 56, 3, 0.12);
-}
-
-/* Video */
-.highlight-video {
-  margin: 28px auto 0;
-  max-width: 900px;
-}
-.highlight-video iframe {
-  width: 100%;
-  aspect-ratio: 16/9;
-  border-radius: 12px;
 }

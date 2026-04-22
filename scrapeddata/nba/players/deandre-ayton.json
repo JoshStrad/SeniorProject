@@ -1,5 +1,9 @@
 {
   "player_name": "Deandre Ayton",
+  "team": "LAL",
+  "team_slug": "lakers",
+  "league": "NBA",
+  "slug": "/nba/lakers/deandre-ayton",
   "source_file": "bbr-deandre-ayton.html",
   "meta": {
     "position": "Center",

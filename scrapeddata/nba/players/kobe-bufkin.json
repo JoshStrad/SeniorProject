@@ -1,5 +1,9 @@
 {
   "player_name": "Kobe Bufkin",
+  "team": "ATL",
+  "team_slug": "hawks",
+  "league": "NBA",
+  "slug": "/nba/hawks/kobe-bufkin",
   "source_file": "bbr-kobe-bufkin.html",
   "meta": {
     "position": "Shooting Guard",

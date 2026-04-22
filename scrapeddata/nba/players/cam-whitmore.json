@@ -1,5 +1,9 @@
 {
   "player_name": "Cam Whitmore",
+  "team": "WAS",
+  "team_slug": "wizards",
+  "league": "NBA",
+  "slug": "/nba/wizards/cam-whitmore",
   "source_file": "bbr-cam-whitmore.html",
   "meta": {
     "position": "Small Forward",

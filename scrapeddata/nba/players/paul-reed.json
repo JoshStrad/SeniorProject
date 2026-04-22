@@ -1,5 +1,9 @@
 {
   "player_name": "Paul Reed",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/paul-reed",
   "source_file": "bbr-paul-reed.html",
   "meta": {
     "position": "Center and Power Forward",

@@ -1,0 +1,20 @@
+{
+  "player_name": "Seth Henigan",
+  "team": "Indianapolis Colts",
+  "team_slug": "colts",
+  "league": "NFL",
+  "slug": "/nfl/colts/seth-henigan",
+  "meta": {
+    "position": "QB",
+    "team": "Indianapolis Colts",
+    "height": "6' 3\"",
+    "weight": "215 lbs",
+    "born": "March 10, 2003 in Denton, TX",
+    "college": null,
+    "draft": null,
+    "espn_id": "4606194",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4606194.png",
+    "team_abbreviation": null
+  },
+  "passing": []
+}

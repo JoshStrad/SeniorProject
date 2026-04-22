@@ -1,5 +1,9 @@
 {
   "player_name": "Ben Saraf",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/ben-saraf",
   "source_file": "bbr-ben-saraf.html",
   "meta": {
     "position": "Shooting Guard",

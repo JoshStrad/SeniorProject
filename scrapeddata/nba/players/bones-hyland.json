@@ -1,5 +1,9 @@
 {
   "player_name": "Bones Hyland",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/bones-hyland",
   "source_file": "bbr-bones-hyland.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

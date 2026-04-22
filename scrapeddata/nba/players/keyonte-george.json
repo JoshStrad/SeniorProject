@@ -1,5 +1,9 @@
 {
   "player_name": "Keyonte George",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/keyonte-george",
   "source_file": "bbr-keyonte-george.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

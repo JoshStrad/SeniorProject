@@ -1,5 +1,9 @@
 {
   "player_name": "Jahmai Mashack",
+  "team": "MEM",
+  "team_slug": "grizzlies",
+  "league": "NBA",
+  "slug": "/nba/grizzlies/jahmai-mashack",
   "source_file": "bbr-jahmai-mashack.html",
   "meta": {
     "position": "Shooting Guard",

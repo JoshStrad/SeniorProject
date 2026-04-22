@@ -1,5 +1,9 @@
 {
   "player_name": "Bilal Coulibaly",
+  "team": "WAS",
+  "team_slug": "wizards",
+  "league": "NBA",
+  "slug": "/nba/wizards/bilal-coulibaly",
   "source_file": "bbr-bilal-coulibaly.html",
   "meta": {
     "position": "Small Forward and Shooting Guard",

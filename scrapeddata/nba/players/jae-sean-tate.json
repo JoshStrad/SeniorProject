@@ -1,5 +1,9 @@
 {
   "player_name": "Jae'Sean Tate",
+  "team": "HOU",
+  "team_slug": "rockets",
+  "league": "NBA",
+  "slug": "/nba/rockets/jae-sean-tate",
   "source_file": "bbr-jaesean-tate.html",
   "meta": {
     "position": "Small Forward and Power Forward",

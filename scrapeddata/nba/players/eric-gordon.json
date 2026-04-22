@@ -1,5 +1,9 @@
 {
   "player_name": "Eric Gordon",
+  "team": "PHI",
+  "team_slug": "76ers",
+  "league": "NBA",
+  "slug": "/nba/76ers/eric-gordon",
   "source_file": "bbr-eric-gordon.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

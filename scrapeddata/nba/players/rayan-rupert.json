@@ -1,5 +1,9 @@
 {
   "player_name": "Rayan Rupert",
+  "team": "POR",
+  "team_slug": "trail-blazers",
+  "league": "NBA",
+  "slug": "/nba/trail-blazers/rayan-rupert",
   "source_file": "bbr-rayan-rupert.html",
   "meta": {
     "position": "Shooting Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Vince Williams Jr.",
+  "team": "MEM",
+  "team_slug": "grizzlies",
+  "league": "NBA",
+  "slug": "/nba/grizzlies/vince-williams-jr",
   "source_file": "bbr-vince-williams-jr.html",
   "meta": {
     "position": "Shooting Guard",

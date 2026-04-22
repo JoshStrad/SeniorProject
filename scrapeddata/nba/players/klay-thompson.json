@@ -1,5 +1,9 @@
 {
   "player_name": "Klay Thompson",
+  "team": "DAL",
+  "team_slug": "mavericks",
+  "league": "NBA",
+  "slug": "/nba/mavericks/klay-thompson",
   "source_file": "bbr-klay-thompson.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

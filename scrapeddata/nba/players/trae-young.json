@@ -1,5 +1,9 @@
 {
   "player_name": "Trae Young",
+  "team": "ATL",
+  "team_slug": "hawks",
+  "league": "NBA",
+  "slug": "/nba/hawks/trae-young",
   "source_file": "bbr-trae-young.html",
   "meta": {
     "position": "Point Guard",

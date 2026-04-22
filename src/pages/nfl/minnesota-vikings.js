@@ -11,12 +11,24 @@ const MinnesotaVikingsQBs = () => {
         profileLink: '/nfl/vikings/jj-mccarthy', 
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4433970.png&w=350&h=254' 
     },
-
+       { 
+        name: 'Kyler Murray', 
+        number: 1, 
+        profileLink: '/nfl/vikings/kyler-murray', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3917315.png&w=350&h=254' 
+    },
+       { 
+        name: 'Max Brosmer', 
+        number: 12, 
+        profileLink: '/nfl/vikings/max-brosmer', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4573398.png&w=350&h=254' 
+    },
+    
     { 
         name: 'Carson Wentz', 
-        number: 14, 
-        profileLink: '/nfl/vikings/sam-darnold', 
-        headshot: '' 
+        number: 11, 
+        profileLink: '/nfl/vikings/carson-wentz', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2573079.png&w=350&h=254' 
     }
   ];
   return (

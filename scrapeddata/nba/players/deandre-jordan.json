@@ -1,5 +1,9 @@
 {
   "player_name": "DeAndre Jordan",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/deandre-jordan",
   "source_file": "bbr-deandre-jordan.html",
   "meta": {
     "position": "Center",

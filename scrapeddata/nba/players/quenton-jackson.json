@@ -1,5 +1,9 @@
 {
   "player_name": "Quenton Jackson",
+  "team": "IND",
+  "team_slug": "pacers",
+  "league": "NBA",
+  "slug": "/nba/pacers/quenton-jackson",
   "source_file": "bbr-quenton-jackson.html",
   "meta": {
     "position": "Point Guard",

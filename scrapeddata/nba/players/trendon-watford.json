@@ -1,5 +1,9 @@
 {
   "player_name": "Trendon Watford",
+  "team": "PHI",
+  "team_slug": "76ers",
+  "league": "NBA",
+  "slug": "/nba/76ers/trendon-watford",
   "source_file": "bbr-trendon-watford.html",
   "meta": {
     "position": "Power Forward and Small Forward",

@@ -1,5 +1,9 @@
 {
   "player_name": "Nick Richards",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/nick-richards",
   "source_file": "bbr-nick-richards.html",
   "meta": {
     "position": "Center and Power Forward",

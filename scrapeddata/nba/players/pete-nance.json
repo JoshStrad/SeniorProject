@@ -1,5 +1,9 @@
 {
   "player_name": "Pete Nance",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/pete-nance",
   "source_file": "bbr-pete-nance.html",
   "meta": {
     "position": "Power Forward and Center",

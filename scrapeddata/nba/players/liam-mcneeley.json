@@ -1,5 +1,9 @@
 {
   "player_name": "Liam McNeeley",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/liam-mcneeley",
   "source_file": "bbr-liam-mcneeley.html",
   "meta": {
     "position": "Small Forward",

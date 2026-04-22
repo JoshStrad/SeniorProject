@@ -1,5 +1,9 @@
 {
   "player_name": "Lauri Markkanen",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/lauri-markkanen",
   "source_file": "bbr-lauri-markkanen.html",
   "meta": {
     "position": "Power Forward and Small Forward",

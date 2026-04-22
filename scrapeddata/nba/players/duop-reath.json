@@ -1,5 +1,9 @@
 {
   "player_name": "Duop Reath",
+  "team": "POR",
+  "team_slug": "trail-blazers",
+  "league": "NBA",
+  "slug": "/nba/trail-blazers/duop-reath",
   "source_file": "bbr-duop-reath.html",
   "meta": {
     "position": "Center",

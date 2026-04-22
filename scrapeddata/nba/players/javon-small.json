@@ -1,5 +1,9 @@
 {
   "player_name": "Javon Small",
+  "team": "MEM",
+  "team_slug": "grizzlies",
+  "league": "NBA",
+  "slug": "/nba/grizzlies/javon-small",
   "source_file": "bbr-javon-small.html",
   "meta": {
     "position": "Point Guard",

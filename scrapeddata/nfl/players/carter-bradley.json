@@ -1,0 +1,20 @@
+{
+  "player_name": "Carter Bradley",
+  "team": "Jacksonville Jaguars",
+  "team_slug": "jaguars",
+  "league": "NFL",
+  "slug": "/nfl/jaguars/carter-bradley",
+  "meta": {
+    "position": "QB",
+    "team": "Jacksonville Jaguars",
+    "height": "6' 3\"",
+    "weight": "221 lbs",
+    "born": "March 9, 2000 in Jacksonville, FL",
+    "college": null,
+    "draft": null,
+    "espn_id": "4362260",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362260.png",
+    "team_abbreviation": null
+  },
+  "passing": []
+}

@@ -1,5 +1,9 @@
 {
   "player_name": "Khaman Maluach",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/khaman-maluach",
   "source_file": "bbr-khaman-maluach.html",
   "meta": {
     "position": "Center",

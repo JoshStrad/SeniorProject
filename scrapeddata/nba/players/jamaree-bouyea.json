@@ -1,5 +1,9 @@
 {
   "player_name": "Jamaree Bouyea",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/jamaree-bouyea",
   "source_file": "bbr-jamaree-bouyea.html",
   "meta": {
     "position": "Point Guard",

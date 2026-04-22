@@ -1,5 +1,9 @@
 {
   "player_name": "Kevin Porter Jr.",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/kevin-porter-jr",
   "source_file": "bbr-kevin-porter-jr.html",
   "meta": {
     "position": "Shooting Guard, Point Guard, and Small Forward",

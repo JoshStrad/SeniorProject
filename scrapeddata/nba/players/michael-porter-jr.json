@@ -1,5 +1,9 @@
 {
   "player_name": "Michael Porter Jr.",
+  "team": "DEN",
+  "team_slug": "nuggets",
+  "league": "NBA",
+  "slug": "/nba/nuggets/michael-porter-jr",
   "source_file": "bbr-michael-porter-jr.html",
   "meta": {
     "position": "Small Forward",

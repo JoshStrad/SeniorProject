@@ -12,16 +12,22 @@ const CincinnatiBengalsQBs = () => {
       headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3915511.png&w=350&h=254'
     },
     {
-      name: 'Jake Browning',
-      number: 6,
-      profileLink: '/nfl/bengals/jake-browning',
+      name: 'Sean Clifford',
+      number: 4,
+      profileLink: '/nfl/bengals/sean-clifford',
       headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3886812.png&w=350&h=254'
     },
     {
+      name: 'Josh Johnson',
+      number: 6,
+      profileLink: '/nfl/bengals/josh-johnson',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/11394.png&w=350&h=254'
+    },
+    {
       name: 'Joe Flacco',
-      number: 2,
+      number: 16,
       profileLink: '/nfl/bengals/joe-flacco',
-      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/11252.png&w=350&h=254'
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4259592.png&w=350&h=254'
 }
 ];
 
@@ -30,7 +36,7 @@ const CincinnatiBengalsQBs = () => {
       <Header />
       <main className="team-container">
         <h1>Cincinnati Bengals — Quarterbacks</h1>
-        <p>Click a QB to open their player page.</p>
+        <p></p>
 
         <div className="qb-grid">
           {qbs.map((qb) => (

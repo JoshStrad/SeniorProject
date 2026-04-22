@@ -1,5 +1,9 @@
 {
   "player_name": "Tre Mann",
+  "team": "OKC",
+  "team_slug": "thunder",
+  "league": "NBA",
+  "slug": "/nba/thunder/tre-mann",
   "source_file": "bbr-tre-mann.html",
   "meta": {
     "position": "Point Guard",

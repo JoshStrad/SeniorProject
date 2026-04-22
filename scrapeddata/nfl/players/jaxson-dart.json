@@ -1,0 +1,42 @@
+{
+  "player_name": "Jaxson Dart",
+  "team": "New York Giants",
+  "team_slug": "giants",
+  "league": "NFL",
+  "slug": "/nfl/giants/jaxson-dart",
+  "meta": {
+    "position": "QB",
+    "team": "New York Giants",
+    "height": "6' 2\"",
+    "weight": "223 lbs",
+    "born": "May 13, 2003 in Kaysville, UT",
+    "college": null,
+    "draft": "Year 2025, Round 1",
+    "espn_id": "4689114",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4689114.png",
+    "team_abbreviation": null
+  },
+  "passing": [
+    {
+      "Year": 2025,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 216,
+      "Att": 339,
+      "Cmp%": 63.7,
+      "Yds": 2272,
+      "TD": 15,
+      "Int": 5,
+      "Y/A": 6.7,
+      "AY/A": null,
+      "Y/G": 162.3,
+      "Rate": 91.7,
+      "QBR": 57.1,
+      "Sk": 35,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    }
+  ]
+}

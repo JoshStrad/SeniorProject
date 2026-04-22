@@ -1,5 +1,9 @@
 {
   "player_name": "Vit Krejci",
+  "team": "ATL",
+  "team_slug": "hawks",
+  "league": "NBA",
+  "slug": "/nba/hawks/vit-krejci",
   "source_file": "bbr-vit-krejci.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

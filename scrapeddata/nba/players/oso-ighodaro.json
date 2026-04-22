@@ -1,5 +1,9 @@
 {
   "player_name": "Oso Ighodaro",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/oso-ighodaro",
   "source_file": "bbr-oso-ighodaro.html",
   "meta": {
     "position": "Power Forward",

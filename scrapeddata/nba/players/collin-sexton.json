@@ -1,5 +1,9 @@
 {
   "player_name": "Collin Sexton",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/collin-sexton",
   "source_file": "bbr-collin-sexton.html",
   "meta": {
     "position": "Shooting Guard and Point Guard",

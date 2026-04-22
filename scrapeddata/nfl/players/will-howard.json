@@ -1,0 +1,20 @@
+{
+  "player_name": "Will Howard",
+  "team": "Pittsburgh Steelers",
+  "team_slug": "steelers",
+  "league": "NFL",
+  "slug": "/nfl/steelers/will-howard",
+  "meta": {
+    "position": "QB",
+    "team": "Pittsburgh Steelers",
+    "height": "6' 4\"",
+    "weight": "236 lbs",
+    "born": "September 24, 2001 in Downingtown, PA",
+    "college": null,
+    "draft": "Year 2025, Round 6",
+    "espn_id": "4429955",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429955.png",
+    "team_abbreviation": null
+  },
+  "passing": []
+}

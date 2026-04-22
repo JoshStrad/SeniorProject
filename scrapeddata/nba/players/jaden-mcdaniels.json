@@ -1,5 +1,9 @@
 {
   "player_name": "Jaden McDaniels",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/jaden-mcdaniels",
   "source_file": "bbr-jaden-mcdaniels.html",
   "meta": {
     "position": "Power Forward and Small Forward",

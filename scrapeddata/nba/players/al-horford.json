@@ -1,5 +1,9 @@
 {
   "player_name": "Al Horford",
+  "team": "GSW",
+  "team_slug": "warriors",
+  "league": "NBA",
+  "slug": "/nba/warriors/al-horford",
   "source_file": "bbr-al-horford.html",
   "meta": {
     "position": "Center",

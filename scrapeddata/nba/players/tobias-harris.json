@@ -1,5 +1,9 @@
 {
   "player_name": "Tobias Harris",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/tobias-harris",
   "source_file": "bbr-tobias-harris.html",
   "meta": {
     "position": "Power Forward and Small Forward",

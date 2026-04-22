@@ -1,5 +1,9 @@
 {
   "player_name": "Yang Hansen",
+  "team": "POR",
+  "team_slug": "trail-blazers",
+  "league": "NBA",
+  "slug": "/nba/trail-blazers/yang-hansen",
   "source_file": "bbr-yang-hansen.html",
   "meta": {
     "position": "Center",

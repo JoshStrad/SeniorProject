@@ -1,5 +1,9 @@
 {
   "player_name": "Russell Westbrook",
+  "team": "SAC",
+  "team_slug": "kings",
+  "league": "NBA",
+  "slug": "/nba/kings/russell-westbrook",
   "source_file": "bbr-russell-westbrook.html",
   "meta": {
     "position": "Point Guard and Small Forward",

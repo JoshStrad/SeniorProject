@@ -1,5 +1,9 @@
 {
   "player_name": "Mikal Bridges",
+  "team": "NYK",
+  "team_slug": "knicks",
+  "league": "NBA",
+  "slug": "/nba/knicks/mikal-bridges",
   "source_file": "bbr-mikal-bridges.html",
   "meta": {
     "position": "Small Forward and Shooting Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Tyson Etienne",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/tyson-etienne",
   "source_file": "bbr-tyson-etienne.html",
   "meta": {
     "position": "Point Guard",

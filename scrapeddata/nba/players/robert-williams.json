@@ -1,5 +1,9 @@
 {
   "player_name": "Robert Williams",
+  "team": "POR",
+  "team_slug": "trail-blazers",
+  "league": "NBA",
+  "slug": "/nba/trail-blazers/robert-williams",
   "source_file": "bbr-robert-williams.html",
   "meta": {
     "position": "Center",

@@ -1,5 +1,9 @@
 {
   "player_name": "Kenrich Williams",
+  "team": "OKC",
+  "team_slug": "thunder",
+  "league": "NBA",
+  "slug": "/nba/thunder/kenrich-williams",
   "source_file": "bbr-kenrich-williams.html",
   "meta": {
     "position": "Power Forward and Small Forward",

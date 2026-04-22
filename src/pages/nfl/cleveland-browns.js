@@ -31,7 +31,7 @@ const ClevelandBrownsQBs = () => {
       <Header />
       <main className="team-container">
         <h1>Cleveland Browns — Quarterbacks</h1>
-        <p>Click a QB to open their player page.</p>
+        <p></p>
 
         <div className="qb-grid">
           {qbs.map((qb) => (

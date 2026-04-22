@@ -1,5 +1,9 @@
 {
   "player_name": "Olivier-Maxence Prosper",
+  "team": "MEM",
+  "team_slug": "grizzlies",
+  "league": "NBA",
+  "slug": "/nba/grizzlies/olivier-maxence-prosper",
   "source_file": "bbr-olivier-maxence-prosper.html",
   "meta": {
     "position": "Power Forward",

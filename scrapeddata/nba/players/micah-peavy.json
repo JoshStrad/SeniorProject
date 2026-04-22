@@ -1,5 +1,9 @@
 {
   "player_name": "Micah Peavy",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/micah-peavy",
   "source_file": "bbr-micah-peavy.html",
   "meta": {
     "position": "Shooting Guard",

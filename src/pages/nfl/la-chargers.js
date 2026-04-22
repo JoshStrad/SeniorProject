@@ -14,8 +14,14 @@ const LosAngelesChargersQBs = () => {
     {
       name: 'Trey Lance',
       number: 5,
-      profileLink: '/nfl/chargers/easton-stick',
-      headshot: ''
+      profileLink: '/nfl/chargers/trey-lance',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4383351.png&w=350&h=254'
+    },
+    {
+      name: 'DJ Uiagalelei',
+      number: 7,
+      profileLink: '/nfl/chargers/dj-uiagalelei',
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4429020.png&w=350&h=254'
     }
   ];
 

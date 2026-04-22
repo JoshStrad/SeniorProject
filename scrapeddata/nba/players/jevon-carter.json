@@ -1,5 +1,9 @@
 {
   "player_name": "Jevon Carter",
+  "team": "CHI",
+  "team_slug": "bulls",
+  "league": "NBA",
+  "slug": "/nba/bulls/jevon-carter",
   "source_file": "bbr-jevon-carter.html",
   "meta": {
     "position": "Point Guard",

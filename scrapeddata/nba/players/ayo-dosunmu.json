@@ -1,5 +1,9 @@
 {
   "player_name": "Ayo Dosunmu",
+  "team": "CHI",
+  "team_slug": "bulls",
+  "league": "NBA",
+  "slug": "/nba/bulls/ayo-dosunmu",
   "source_file": "bbr-ayo-dosunmu.html",
   "meta": {
     "position": "Shooting Guard",

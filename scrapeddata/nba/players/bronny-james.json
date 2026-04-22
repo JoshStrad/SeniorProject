@@ -1,5 +1,9 @@
 {
   "player_name": "Bronny James",
+  "team": "LAL",
+  "team_slug": "lakers",
+  "league": "NBA",
+  "slug": "/nba/lakers/bronny-james",
   "source_file": "bbr-bronny-james.html",
   "meta": {
     "position": "Shooting Guard",

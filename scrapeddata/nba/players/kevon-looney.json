@@ -1,5 +1,9 @@
 {
   "player_name": "Kevon Looney",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/kevon-looney",
   "source_file": "bbr-kevon-looney.html",
   "meta": {
     "position": "Center and Power Forward",

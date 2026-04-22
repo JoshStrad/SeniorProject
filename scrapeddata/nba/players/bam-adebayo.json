@@ -1,5 +1,9 @@
 {
   "player_name": "Bam Adebayo",
+  "team": "MIA",
+  "team_slug": "heat",
+  "league": "NBA",
+  "slug": "/nba/heat/bam-adebayo",
   "source_file": "bbr-bam-adebayo.html",
   "meta": {
     "position": "Center and Power Forward",

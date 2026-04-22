@@ -1,5 +1,9 @@
 {
   "player_name": "Nigel Hayes-Davis",
+  "team": "SAC",
+  "team_slug": "kings",
+  "league": "NBA",
+  "slug": "/nba/kings/nigel-hayes-davis",
   "source_file": "bbr-nigel-hayes-davis.html",
   "meta": {
     "position": "Small Forward",

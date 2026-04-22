@@ -1,5 +1,9 @@
 {
   "player_name": "Jeremiah Fears",
+  "team": "NOP",
+  "team_slug": "pelicans",
+  "league": "NBA",
+  "slug": "/nba/pelicans/jeremiah-fears",
   "source_file": "bbr-jeremiah-fears.html",
   "meta": {
     "position": "Point Guard",

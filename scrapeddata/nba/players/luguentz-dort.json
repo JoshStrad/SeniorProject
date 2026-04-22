@@ -1,5 +1,9 @@
 {
   "player_name": "Luguentz Dort",
+  "team": "OKC",
+  "team_slug": "thunder",
+  "league": "NBA",
+  "slug": "/nba/thunder/luguentz-dort",
   "source_file": "bbr-luguentz-dort.html",
   "meta": {
     "position": "Small Forward and Shooting Guard",

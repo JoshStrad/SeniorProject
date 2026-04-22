@@ -1,5 +1,9 @@
 {
   "player_name": "Andrew Nembhard",
+  "team": "IND",
+  "team_slug": "pacers",
+  "league": "NBA",
+  "slug": "/nba/pacers/andrew-nembhard",
   "source_file": "bbr-andrew-nembhard.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

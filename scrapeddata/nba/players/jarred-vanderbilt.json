@@ -1,5 +1,9 @@
 {
   "player_name": "Jarred Vanderbilt",
+  "team": "LAL",
+  "team_slug": "lakers",
+  "league": "NBA",
+  "slug": "/nba/lakers/jarred-vanderbilt",
   "source_file": "bbr-jarred-vanderbilt.html",
   "meta": {
     "position": "Power Forward",

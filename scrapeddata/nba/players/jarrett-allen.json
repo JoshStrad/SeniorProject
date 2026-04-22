@@ -1,5 +1,9 @@
 {
   "player_name": "Jarrett Allen",
+  "team": "CLE",
+  "team_slug": "cavaliers",
+  "league": "NBA",
+  "slug": "/nba/cavaliers/jarrett-allen",
   "source_file": "bbr-jarrett-allen.html",
   "meta": {
     "position": "Center",

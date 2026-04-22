@@ -1,5 +1,9 @@
 {
   "player_name": "Jimmy Butler",
+  "team": "GSW",
+  "team_slug": "warriors",
+  "league": "NBA",
+  "slug": "/nba/warriors/jimmy-butler",
   "source_file": "bbr-jimmy-butler.html",
   "meta": {
     "position": "Small Forward, Shooting Guard, and Power Forward",

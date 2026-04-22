@@ -12,10 +12,16 @@ const DenverBroncosQBs = () => {
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4426338.png&w=350&h=254' 
     },
     { 
-        name: 'Michael Penix Jr.', 
-        number: 9, 
-        profileLink: '/nfl/falcons/michael-penix-jr', 
-        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4360423.png&w=350&h=254' 
+        name: 'Jarrett Stidham', 
+        number: 8, 
+        profileLink: '/nfl/broncos/jarrett-stidham', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3892775.png&w=350&h=254' 
+    },
+    { 
+        name: 'Sam Ehlinger', 
+        number: 4, 
+        profileLink: '/nfl/broncos/sam-ehlinger', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4241820.png&w=350&h=254' 
     }
   ];
   return (

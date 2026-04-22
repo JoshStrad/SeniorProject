@@ -1,5 +1,9 @@
 {
   "player_name": "Dante Exum",
+  "team": "DAL",
+  "team_slug": "mavericks",
+  "league": "NBA",
+  "slug": "/nba/mavericks/dante-exum",
   "source_file": "bbr-dante-exum.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",

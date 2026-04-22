@@ -1,5 +1,9 @@
 {
   "player_name": "Javonte Green",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/javonte-green",
   "source_file": "bbr-javonte-green.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

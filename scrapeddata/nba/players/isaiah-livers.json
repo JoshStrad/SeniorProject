@@ -1,5 +1,9 @@
 {
   "player_name": "Isaiah Livers",
+  "team": "DET",
+  "team_slug": "pistons",
+  "league": "NBA",
+  "slug": "/nba/pistons/isaiah-livers",
   "source_file": "bbr-isaiah-livers.html",
   "meta": {
     "position": "Power Forward and Small Forward",

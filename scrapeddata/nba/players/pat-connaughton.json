@@ -1,5 +1,9 @@
 {
   "player_name": "Pat Connaughton",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/pat-connaughton",
   "source_file": "bbr-pat-connaughton.html",
   "meta": {
     "position": "Shooting Guard and Small Forward",

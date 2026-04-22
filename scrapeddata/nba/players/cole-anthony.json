@@ -1,5 +1,9 @@
 {
   "player_name": "Cole Anthony",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/cole-anthony",
   "source_file": "bbr-cole-anthony.html",
   "meta": {
     "position": "Point Guard",

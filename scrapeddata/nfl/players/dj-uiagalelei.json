@@ -1,0 +1,20 @@
+{
+  "player_name": "DJ Uiagalelei",
+  "team": "Los Angeles Chargers",
+  "team_slug": "chargers",
+  "league": "NFL",
+  "slug": "/nfl/chargers/dj-uiagalelei",
+  "meta": {
+    "position": "QB",
+    "team": "Los Angeles Chargers",
+    "height": "6' 4\"",
+    "weight": "252 lbs",
+    "born": "April 17, 2001 in Inland Empire, CA",
+    "college": null,
+    "draft": null,
+    "espn_id": "4429020",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429020.png",
+    "team_abbreviation": null
+  },
+  "passing": []
+}

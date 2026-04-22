@@ -1,5 +1,9 @@
 {
   "player_name": "Brice Sensabaugh",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/brice-sensabaugh",
   "source_file": "bbr-brice-sensabaugh.html",
   "meta": {
     "position": "Small Forward",

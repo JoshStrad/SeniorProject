@@ -1,5 +1,9 @@
 {
   "player_name": "Royce O'Neale",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/royce-o-neale",
   "source_file": "bbr-royce-oneale.html",
   "meta": {
     "position": "Small Forward",

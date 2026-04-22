@@ -1,5 +1,9 @@
 {
   "player_name": "Kyle Kuzma",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/kyle-kuzma",
   "source_file": "bbr-kyle-kuzma.html",
   "meta": {
     "position": "Power Forward and Small Forward",

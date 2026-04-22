@@ -1,5 +1,9 @@
 {
   "player_name": "Thanasis Antetokounmpo",
+  "team": "MIL",
+  "team_slug": "bucks",
+  "league": "NBA",
+  "slug": "/nba/bucks/thanasis-antetokounmpo",
   "source_file": "bbr-thanasis-antetokounmpo.html",
   "meta": {
     "position": "Small Forward and Power Forward",

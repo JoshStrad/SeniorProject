@@ -1,5 +1,9 @@
 {
   "player_name": "Khris Middleton",
+  "team": "WAS",
+  "team_slug": "wizards",
+  "league": "NBA",
+  "slug": "/nba/wizards/khris-middleton",
   "source_file": "bbr-khris-middleton.html",
   "meta": {
     "position": "Small Forward and Shooting Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Jonathan Isaac",
+  "team": "ORL",
+  "team_slug": "magic",
+  "league": "NBA",
+  "slug": "/nba/magic/jonathan-isaac",
   "source_file": "bbr-jonathan-isaac.html",
   "meta": {
     "position": "Power Forward",

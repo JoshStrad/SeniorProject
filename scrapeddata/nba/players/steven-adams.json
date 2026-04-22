@@ -1,5 +1,9 @@
 {
   "player_name": "Steven Adams",
+  "team": "HOU",
+  "team_slug": "rockets",
+  "league": "NBA",
+  "slug": "/nba/rockets/steven-adams",
   "source_file": "bbr-steven-adams.html",
   "meta": {
     "position": "Center",

@@ -1,5 +1,9 @@
 {
   "player_name": "Jaren Jackson Jr.",
+  "team": "MEM",
+  "team_slug": "grizzlies",
+  "league": "NBA",
+  "slug": "/nba/grizzlies/jaren-jackson-jr",
   "source_file": "bbr-trayce-jackson-davis.html",
   "meta": {
     "position": "Center and Power Forward",

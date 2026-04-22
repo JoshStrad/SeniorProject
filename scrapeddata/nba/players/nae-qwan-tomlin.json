@@ -1,5 +1,9 @@
 {
   "player_name": "Nae'Qwan Tomlin",
+  "team": "CLE",
+  "team_slug": "cavaliers",
+  "league": "NBA",
+  "slug": "/nba/cavaliers/nae-qwan-tomlin",
   "source_file": "bbr-naeqwan-tomlin.html",
   "meta": {
     "position": "Power Forward",

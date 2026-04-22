@@ -1,5 +1,9 @@
 {
   "player_name": "Rui Hachimura",
+  "team": "LAL",
+  "team_slug": "lakers",
+  "league": "NBA",
+  "slug": "/nba/lakers/rui-hachimura",
   "source_file": "bbr-rui-hachimura.html",
   "meta": {
     "position": "Power Forward",

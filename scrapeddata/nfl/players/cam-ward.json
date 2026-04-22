@@ -1,0 +1,42 @@
+{
+  "player_name": "Cam Ward",
+  "team": "Tennessee Titans",
+  "team_slug": "titans",
+  "league": "NFL",
+  "slug": "/nfl/titans/cam-ward",
+  "meta": {
+    "position": "QB",
+    "team": "Tennessee Titans",
+    "height": "6' 2\"",
+    "weight": "219 lbs",
+    "born": "May 25, 2002 in West Columbia, TX",
+    "college": null,
+    "draft": "Year 2025, Round 1",
+    "espn_id": "4688380",
+    "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4688380.png",
+    "team_abbreviation": null
+  },
+  "passing": [
+    {
+      "Year": 2025,
+      "G": null,
+      "GS": null,
+      "Tm": null,
+      "Cmp": 323,
+      "Att": 540,
+      "Cmp%": 59.8,
+      "Yds": 3169,
+      "TD": 15,
+      "Int": 7,
+      "Y/A": 5.9,
+      "AY/A": null,
+      "Y/G": 186.4,
+      "Rate": 80.2,
+      "QBR": 30.8,
+      "Sk": 55,
+      "QBrec": null,
+      "4QC": null,
+      "GWD": null
+    }
+  ]
+}

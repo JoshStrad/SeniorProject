@@ -12,10 +12,16 @@ const NewYorkGiantsQBs = () => {
         headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4689114.png&w=350&h=254' 
     },
     { 
-        name: 'Russell Wilson', 
+        name: 'Jameis Winston', 
+        number: 19, 
+        profileLink: '/nfl/giants/jameis-winston', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2969939.png&w=350&h=254' 
+    },
+    { 
+        name: 'Brandon Allen', 
         number: 3, 
-        profileLink: '/nfl/giants/russell-wilson', 
-        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14881.png&w=350&h=254' 
+        profileLink: '/nfl/giants/brandon-allen', 
+        headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2574511.png&w=350&h=254' 
     }
   ];
   return (

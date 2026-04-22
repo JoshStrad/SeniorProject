@@ -1,5 +1,9 @@
 {
   "player_name": "Ryan Kalkbrenner",
+  "team": null,
+  "team_slug": "unknown",
+  "league": "NBA",
+  "slug": "/nba/unknown/ryan-kalkbrenner",
   "source_file": "bbr-ryan-kalkbrenner.html",
   "meta": {
     "position": "Center",

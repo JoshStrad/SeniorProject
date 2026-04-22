@@ -1,5 +1,9 @@
 {
   "player_name": "Johnny Juzang",
+  "team": "MIN",
+  "team_slug": "timberwolves",
+  "league": "NBA",
+  "slug": "/nba/timberwolves/johnny-juzang",
   "source_file": "bbr-johnny-juzang.html",
   "meta": {
     "position": "Shooting Guard",

@@ -1,5 +1,9 @@
 {
   "player_name": "Kyle Filipowski",
+  "team": "UTA",
+  "team_slug": "jazz",
+  "league": "NBA",
+  "slug": "/nba/jazz/kyle-filipowski",
   "source_file": "bbr-kyle-filipowski.html",
   "meta": {
     "position": "Center",

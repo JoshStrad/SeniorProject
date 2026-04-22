@@ -1,5 +1,9 @@
 {
   "player_name": "Dalton Knecht",
+  "team": "LAL",
+  "team_slug": "lakers",
+  "league": "NBA",
+  "slug": "/nba/lakers/dalton-knecht",
   "source_file": "bbr-dalton-knecht.html",
   "meta": {
     "position": "Small Forward",

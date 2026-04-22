@@ -1,5 +1,9 @@
 {
   "player_name": "Jrue Holiday",
+  "team": "POR",
+  "team_slug": "trail-blazers",
+  "league": "NBA",
+  "slug": "/nba/trail-blazers/jrue-holiday",
   "source_file": "bbr-jrue-holiday.html",
   "meta": {
     "position": "Point Guard and Shooting Guard",
