@@ -25,31 +25,31 @@ exports.createSchemaCustomization = ({ actions }) => {
       team: String
       lg: String
       pos: String
-      g: Float
-      gs: Float
-      mp: Float
-      fg: Float
-      fga: Float
-      fg_pct: Float
-      three_p: Float
-      three_pa: Float
-      three_p_pct: Float
-      two_p: Float
-      two_pa: Float
-      two_p_pct: Float
-      efg_pct: Float
-      ft: Float
-      fta: Float
-      ft_pct: Float
-      orb: Float
-      drb: Float
-      trb: Float
-      ast: Float
-      stl: Float
-      blk: Float
-      tov: Float
-      pf: Float
-      pts: Float
+      g: String
+      gs: String
+      mp: String
+      fg: String
+      fga: String
+      fg_pct: String
+      three_p: String
+      three_pa: String
+      three_p_pct: String
+      two_p: String
+      two_pa: String
+      two_p_pct: String
+      efg_pct: String
+      ft: String
+      fta: String
+      ft_pct: String
+      orb: String
+      drb: String
+      trb: String
+      ast: String
+      stl: String
+      blk: String
+      tov: String
+      pf: String
+      pts: String
       awards: String
     }
 
@@ -68,16 +68,16 @@ exports.createSchemaCustomization = ({ actions }) => {
 
     type NflQbSeason {
       season: String
-      cmp: Float
-      att: Float
-      cmp_pct: Float
-      pass_yds: Float
-      pass_td: Float
-      pass_int: Float
-      yards_per_attempt: Float
-      passer_rating: Float
-      qbr: Float
-      sacks: Float
+      cmp: String
+      att: String
+      cmp_pct: String
+      pass_yds: String
+      pass_td: String
+      pass_int: String
+      yards_per_attempt: String
+      passer_rating: String
+      qbr: String
+      sacks: String
     }
 
     type MlbPitcherComparisonDataJson implements Node {
@@ -89,21 +89,21 @@ exports.createSchemaCustomization = ({ actions }) => {
 
     type MlbPitcherSeason {
       season: String
-      wins: Float
-      losses: Float
-      era: Float
-      ip: Float
-      so: Float
-      bb: Float
-      whip: Float
-      fip: Float
-      era_plus: Float
-      war: Float
-      h9: Float
-      hr9: Float
-      bb9: Float
-      so9: Float
-      so_per_bb: Float
+      wins: String
+      losses: String
+      era: String
+      ip: String
+      so: String
+      bb: String
+      whip: String
+      fip: String
+      era_plus: String
+      war: String
+      h9: String
+      hr9: String
+      bb9: String
+      so9: String
+      so_per_bb: String
     }
   `);
 };
