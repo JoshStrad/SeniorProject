@@ -127,7 +127,7 @@ const MLBPlayerProfile = ({
               <tbody>
                 {pitchingStats.map((row, idx) => (
                   <tr key={idx}>
-                    <td>{row.Year}</td>
+                    <td>{row.Season}</td>
                     <td>{row.Age}</td>
                     <td>{row.Team}</td>
                     <td>{row.Lg}</td>

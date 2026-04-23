@@ -8,7 +8,7 @@ const MLBTeamPage = () => {
     {
       name: 'Zach Wheeler',
       number: 45,
-      profileLink: '/mlb/phillies/zach-wheeler',
+      profileLink: '/mlb/phillies/zack-wheeler',
       headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/31267.png&w=350&h=254'
     },
     {
