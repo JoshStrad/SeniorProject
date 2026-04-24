@@ -21,7 +21,7 @@ const MLBTeamPage = () => {
       name: 'Chris Sale',
       number: 51,
       profileLink: '/mlb/braves/chris-sale',
-      headshot: 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7'
+      headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/30948.png&w=350&h=254'
     },
      {
       name: 'Grant Holmes',

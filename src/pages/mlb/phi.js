@@ -6,7 +6,7 @@ import './mlb-pitchers.css';
 const MLBTeamPage = () => {
   const pitchers = [
     {
-      name: 'Zach Wheeler',
+      name: 'Zack Wheeler',
       number: 45,
       profileLink: '/mlb/phillies/zack-wheeler',
       headshot: 'https://a.espncdn.com/combiner/i?img=/i/headshots/mlb/players/full/31267.png&w=350&h=254'
